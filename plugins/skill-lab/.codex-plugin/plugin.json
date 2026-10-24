@@ -1,0 +1,23 @@
+{
+  "name": "migo-ai-skills",
+  "version": "0.1.0",
+  "description": "Migo 的技能学习与电商视觉实践，包含自建学习示例和已有电商视觉规划技能。",
+  "author": {
+    "name": "Migo"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Migo AI Skills",
+    "shortDescription": "学习、使用和编写自己的技能",
+    "developerName": "Migo",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "defaultPrompt": [
+      "帮我读懂一个 Skill，并给一个最小练习",
+      "按电商视觉技能检查我的海报"
+    ]
+  }
+}

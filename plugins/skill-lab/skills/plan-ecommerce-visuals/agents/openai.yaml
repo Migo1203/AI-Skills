@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商视觉规划与审稿"
+  short_description: "规划电商产品图与作品集视觉，提供清晰版式参数、文案层级和可执行审稿建议"
+  default_prompt: "使用 $plan-ecommerce-visuals 检查我的电商海报，指出最重要的修改并给出排版参数。"

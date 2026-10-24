@@ -1,0 +1,20 @@
+{
+  "name": "migo-local-skills",
+  "interface": {
+    "displayName": "AI-Skills 工作区"
+  },
+  "plugins": [
+    {
+      "name": "migo-ai-skills",
+      "source": {
+        "source": "local",
+        "path": "./plugins/skill-lab"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

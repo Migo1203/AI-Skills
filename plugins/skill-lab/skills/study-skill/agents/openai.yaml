@@ -1,0 +1,4 @@
+interface:
+  display_name: "读懂一个Skill"
+  short_description: "用中文拆解技能的输入输出、触发条件与操作流程，提供可验证的学习练习"
+  default_prompt: "使用 $study-skill 帮我读懂指定的 SKILL.md，并给一个最小练习。"
