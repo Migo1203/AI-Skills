@@ -1,10 +1,12 @@
 # 已知技能
 
-更新：2026-10-26。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
+更新：2026-10-27。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
 
-当前记录 **24 个技能**：7 个已安装或注册到项目，17 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
+当前记录 **27 个技能**：7 个已安装或注册到项目，20 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
 
 按用途查找：[国内电商视觉设计](分类/国内电商视觉设计.md)（产品分析与策略、详情页与信息图、商业生图服务和外部工作流）。
+
+另见[商业美术指导与品牌视觉](分类/商业美术指导与品牌视觉.md)：产品创意表现、品牌视觉识别和参考图驱动的品牌概念。三项均为方法储备，未验证电商适配或实际提案质量。
 
 ## 怎么使用这个文件夹
 
@@ -51,10 +53,13 @@
 | [linkpix-taobao-tmall-image](源文件/autoagc--linkpix-skills/skills/linkpix-taobao-tmall-image/SKILL.md) | 淘宝/天猫主图、详情页与活动图的服务工作流 | 依赖青虎账号、qhkit与积分；未接入服务 |
 | [linkpix-jd-image](源文件/autoagc--linkpix-skills/skills/linkpix-jd-image/SKILL.md) | 京东主图、套图和活动图的服务工作流 | 依赖同上，未安装 |
 | [ecommerce-image-workflow](源文件/nexu-io--open-design/skills/ecommerce-image-workflow/SKILL.md) | 真实产品参照下的主图、卖点图、场景图和素材清单 | 依赖OpenDesign调度与模型环境，未安装 |
+| [art-direction](源文件/rampstackco--claude-skills/skills/art-direction/SKILL.md) | 已有品牌下的产品摄影、活动KV和具体交付物美术brief | 非电商专用；需要品牌与渠道输入，未覆盖商品卖点叙事、文案及国内平台规则；归档未安装 |
+| [brand-identity](源文件/arnabbagxd--brand-building-skills/skills/brand-identity/SKILL.md) | 品牌识别提案：Logo方向、色彩、字体、摄影与图形语言 | 后续品牌作品集储备；输出brief，不是完整VI成品或电商方案；未安装 |
+| [generate-reference-inspired-brand-worlds](源文件/mengto--skills/agent-skills/codex/generate-reference-inspired-brand-worlds/SKILL.md) | 拆解参考图视觉语言，探索品牌campaign概念 | 默认调用生图并生成词标；当前仅学习方法，原样运行不符合用户自主生图与PS分工；未安装 |
 
 ## 一起归档的关联技能
 
-以下3项是上述候选引用的关联技能，未计入24项主清单，也没有安装：
+以下3项是上述候选引用的关联技能，未计入27项主清单，也没有安装：
 
 - [grilling](源文件/mattpocock--skills/skills/productivity/grilling/SKILL.md)：需求与设计追问。
 - [domain-modeling](源文件/mattpocock--skills/skills/engineering/domain-modeling/SKILL.md)：术语和设计决定记录。
@@ -74,6 +79,9 @@
 - [Baoyu Skills](源文件/jimliu--baoyu-skills/来源.md)：`baoyu-infographic`。
 - [Linkpix Skills](源文件/autoagc--linkpix-skills/来源.md)：淘宝/天猫与京东图像工作流。
 - [OpenDesign](源文件/nexu-io--open-design/来源.md)：`ecommerce-image-workflow`。
+- [Rampstack美术指导](源文件/rampstackco--claude-skills/来源.md)：`art-direction`。
+- [品牌识别提案](源文件/arnabbagxd--brand-building-skills/来源.md)：`brand-identity`。
+- [Mengto品牌概念探索](源文件/mengto--skills/来源.md)：`generate-reference-inspired-brand-worlds`。
 - 仓库原有两份技能的来源见[技能清单](../技能清单.md)。
 
 后续新增时，记录用途、源仓库和原路径、固定版本、许可、实际依赖，以及“只收录／已安装／已实际验证”的状态。仅有来源链接或文件，不记录为已经成功调用。
