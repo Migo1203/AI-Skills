@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商视觉策略与PS指导"
+  short_description: "分析产品资料，提供视觉策略、文案与画面提示词，支持自主PS排版和审稿"
+  default_prompt: "使用 $ecommerce-visual-strategy，根据产品资料制定视觉策略、图内文案和背景或概念图提示词，并按当前阶段提供PS建议。"

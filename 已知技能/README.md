@@ -2,7 +2,7 @@
 
 更新：2026-10-26。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
 
-当前记录 **23 个技能**：6 个已安装或注册到项目，17 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
+当前记录 **24 个技能**：7 个已安装或注册到项目，17 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
 
 按用途查找：[国内电商视觉设计](分类/国内电商视觉设计.md)（产品分析与策略、详情页与信息图、商业生图服务和外部工作流）。
 
@@ -14,7 +14,7 @@
 | `源文件/`中的固定版本 | 阅读完整技能目录、配套参考资料和脚本，比较写法或版本 | 可学习具体实现；实际使用仍需对应运行环境，不会自动获得浏览器等工具 |
 | 各来源目录的`来源.md` | 查看固定提交、许可证、归档范围及依赖 | 更新时有依据，避免混淆不同版本 |
 
-仓库原有的两份技能继续在`plugins/skill-lab/skills/`中维护，本页直接链接，不复制出第二份维护源。其他上游技能按来源分目录归档，保留原文与配套资源；安装副本仍在各项目的`.agents/skills/`中。归档与安装独立，修改一份不代表另一份已同步。
+仓库原有的两份技能和新建融合技能在`plugins/skill-lab/skills/`中维护，本页直接链接，不复制出第二份维护源。其他上游技能按来源分目录归档，保留原文与配套资源；安装副本仍在各项目的`.agents/skills/`中。归档与安装独立，修改一份不代表另一份已同步。
 
 ## 已安装或已注册
 
@@ -26,6 +26,7 @@
 | [skill-creator](源文件/openai--codex/codex-rs/skills/src/assets/samples/skill-creator/SKILL.md) | 创建、修改和基础校验 Codex 技能 | AI-Skills：已安装；初始化和校验脚本已实测 |
 | [frontend-design](源文件/anthropics--skills/skills/frontend-design/SKILL.md) | 网站视觉方向、字体、配色、布局与页面实现 | AIGC：已安装；网站尚未开始实现 |
 | [web-design-guidelines](源文件/vercel-labs--agent-skills/skills/web-design-guidelines/SKILL.md) | 对照官方规则检查网页代码 | AIGC：已安装；规则可读取，代码审查待有网站后进行 |
+| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | 资料分析、视觉策略、文案、画面提示词与自主PS指导 | 新建v0.1.0，AI-Skills与AIGC项目均已注册；验证范围见[记录](../学习资料/电商视觉策略技能验证.md) |
 
 上表的“已安装”由项目文件与安装清单验证，不等于当前云聊天已自动加载全部技能。
 
@@ -53,7 +54,7 @@
 
 ## 一起归档的关联技能
 
-以下3项是上述候选引用的关联技能，未计入23项主清单，也没有安装：
+以下3项是上述候选引用的关联技能，未计入24项主清单，也没有安装：
 
 - [grilling](源文件/mattpocock--skills/skills/productivity/grilling/SKILL.md)：需求与设计追问。
 - [domain-modeling](源文件/mattpocock--skills/skills/engineering/domain-modeling/SKILL.md)：术语和设计决定记录。
