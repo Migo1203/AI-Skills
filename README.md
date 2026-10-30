@@ -23,7 +23,6 @@ AIGC 作品与音箱项目在 [AIGC 仓库](https://github.com/Migo1203/AIGC)管
 | 本仓库的插件目录 | [marketplace.json](.agents/plugins/marketplace.json) |
 | 来源、状态与练习记录 | [技能清单](技能清单.md) |
 | 已知技能、固定版本源码与来源说明 | [已知技能](已知技能/README.md) |
-| 产品多角度套图的使用方法与音箱练习 | [Multi-Angle Set 使用说明](学习资料/Multi-Angle-Set使用说明.md) |
 | 商业美术、品牌视觉候选与电商适用范围 | [商业美术指导与品牌视觉](已知技能/分类/商业美术指导与品牌视觉.md) |
 
 技能采用当前官方示例中的插件结构：`plugins/<插件名>/skills/<技能名>/SKILL.md`。插件清单放在 `.agents/plugins/marketplace.json`，指向本仓库的 `./plugins/skill-lab`。标准目录与英文 slug 保留规范名称，学习资料使用中文。

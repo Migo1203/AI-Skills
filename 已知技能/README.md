@@ -53,7 +53,7 @@
 | [canvas-design](源文件/anthropics--skills/skills/canvas-design/SKILL.md) | 概念海报、封面和静态视觉艺术 | 含配套字体及其许可；偏艺术表达，产品摄影另需图像工具 |
 | [ecommerce-visual-copywriting](源文件/feichanggege--ecommerce-visual-copywriting-skill/SKILL.md) | 国内电商产品分析、购买理由、图组规划、文案与提示词 | 含配套参考与交付模板；当前规则仍需官方核验 |
 | [taobao-detail-long-image](源文件/xianyu110--ecommerce-image-skills/skills/taobao-detail-long-image/SKILL.md) | 详情页分屏规划、逐屏提示词、长图拼接和切片 | 拼接需Python/Pillow；作者配置不是平台现行规范 |
-| [multi-angle-set](源文件/xianyu110--ecommerce-image-skills/skills/multi-angle-set/SKILL.md) | 基于产品参考图组织正面、侧面、背面、45°、俯视等套图 | 归档未安装；可配合支持参考图的生图工具；不能保证产品结构完全一致；[中文使用说明](../学习资料/Multi-Angle-Set使用说明.md) |
+| [multi-angle-set](源文件/xianyu110--ecommerce-image-skills/skills/multi-angle-set/SKILL.md) | 基于产品参考图组织正面、侧面、背面、45°、俯视等套图 | 归档未安装；可配合支持参考图的生图工具；不能保证产品结构完全一致 |
 | [baoyu-infographic](源文件/jimliu--baoyu-skills/skills/baoyu-infographic/SKILL.md) | 中文卖点信息图、参数对比、结构与流程可视化 | 通用信息图；生图工具和可选API分支需另行配置 |
 | [linkpix-taobao-tmall-image](源文件/autoagc--linkpix-skills/skills/linkpix-taobao-tmall-image/SKILL.md) | 淘宝/天猫主图、详情页与活动图的服务工作流 | 依赖青虎账号、qhkit与积分；未接入服务 |
 | [linkpix-jd-image](源文件/autoagc--linkpix-skills/skills/linkpix-jd-image/SKILL.md) | 京东主图、套图和活动图的服务工作流 | 依赖同上，未安装 |
