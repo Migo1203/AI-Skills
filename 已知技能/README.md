@@ -1,10 +1,10 @@
 # 已知技能
 
-更新：2026-10-28。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
+更新：2026-10-30。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
 
-当前记录 **27 个技能**：7 个已安装或注册到项目，20 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
+当前记录 **28 个技能**：7 个已安装或注册到项目，21 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
 
-按来源查找：[我的技能](../我的技能/README.md)收录3项个人维护技能，分别标为“个人·自建”“个人·融合改编”“个人·原有导出”；其余24项为第三方原版收录。用途分类与来源标记分别记录，个人入口不增加技能总数。
+按来源查找：[我的技能](../我的技能/README.md)收录3项个人维护技能，分别标为“个人·自建”“个人·融合改编”“个人·原有导出”；其余25项为第三方原版收录。用途分类与来源标记分别记录，个人入口不增加技能总数。
 
 按用途查找：[国内电商视觉设计](分类/国内电商视觉设计.md)（产品分析与策略、详情页与信息图、商业生图服务和外部工作流）。
 
@@ -53,6 +53,7 @@
 | [canvas-design](源文件/anthropics--skills/skills/canvas-design/SKILL.md) | 概念海报、封面和静态视觉艺术 | 含配套字体及其许可；偏艺术表达，产品摄影另需图像工具 |
 | [ecommerce-visual-copywriting](源文件/feichanggege--ecommerce-visual-copywriting-skill/SKILL.md) | 国内电商产品分析、购买理由、图组规划、文案与提示词 | 含配套参考与交付模板；当前规则仍需官方核验 |
 | [taobao-detail-long-image](源文件/xianyu110--ecommerce-image-skills/skills/taobao-detail-long-image/SKILL.md) | 详情页分屏规划、逐屏提示词、长图拼接和切片 | 拼接需Python/Pillow；作者配置不是平台现行规范 |
+| [multi-angle-set](源文件/xianyu110--ecommerce-image-skills/skills/multi-angle-set/SKILL.md) | 基于产品参考图组织正面、侧面、背面、45°、俯视等套图 | 归档未安装；可配合支持参考图的生图工具；不能保证产品结构完全一致；[中文使用说明](../学习资料/Multi-Angle-Set使用说明.md) |
 | [baoyu-infographic](源文件/jimliu--baoyu-skills/skills/baoyu-infographic/SKILL.md) | 中文卖点信息图、参数对比、结构与流程可视化 | 通用信息图；生图工具和可选API分支需另行配置 |
 | [linkpix-taobao-tmall-image](源文件/autoagc--linkpix-skills/skills/linkpix-taobao-tmall-image/SKILL.md) | 淘宝/天猫主图、详情页与活动图的服务工作流 | 依赖青虎账号、qhkit与积分；未接入服务 |
 | [linkpix-jd-image](源文件/autoagc--linkpix-skills/skills/linkpix-jd-image/SKILL.md) | 京东主图、套图和活动图的服务工作流 | 依赖同上，未安装 |
@@ -63,7 +64,7 @@
 
 ## 一起归档的关联技能
 
-以下3项是上述候选引用的关联技能，未计入27项主清单，也没有安装：
+以下3项是上述候选引用的关联技能，未计入28项主清单，也没有安装：
 
 - [grilling](源文件/mattpocock--skills/skills/productivity/grilling/SKILL.md)：需求与设计追问。
 - [domain-modeling](源文件/mattpocock--skills/skills/engineering/domain-modeling/SKILL.md)：术语和设计决定记录。
@@ -79,7 +80,7 @@
 - [Marketing Skills](源文件/coreyhaines31--marketingskills/来源.md)：`copywriting`、`copy-editing`。
 - [Vercel Agent Browser](源文件/vercel-labs--agent-browser/来源.md)：`agent-browser`及配套流程资料。
 - [电商视觉策划](源文件/feichanggege--ecommerce-visual-copywriting-skill/来源.md)：`ecommerce-visual-copywriting`。
-- [电商详情长图](源文件/xianyu110--ecommerce-image-skills/来源.md)：`taobao-detail-long-image`。
+- [电商详情长图与多角度套图](源文件/xianyu110--ecommerce-image-skills/来源.md)：`taobao-detail-long-image`、`multi-angle-set`。
 - [Baoyu Skills](源文件/jimliu--baoyu-skills/来源.md)：`baoyu-infographic`。
 - [Linkpix Skills](源文件/autoagc--linkpix-skills/来源.md)：淘宝/天猫与京东图像工作流。
 - [OpenDesign](源文件/nexu-io--open-design/来源.md)：`ecommerce-image-workflow`。
