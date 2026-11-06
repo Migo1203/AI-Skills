@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "tasks": [
+    {
+      "id": "rack-us",
+      "context": {"sku": "DEMO-RACK-01", "market": "US", "language": "en-US", "category": "Desktop storage"},
+      "input": "demo-delivery.json",
+      "brand": "demo-brand.json",
+      "series": "desk"
+    },
+    {
+      "id": "rack-de",
+      "context": {"sku": "DEMO-RACK-01", "market": "DE", "language": "de-DE", "category": "Desktop storage"},
+      "input": "demo-delivery-de.json",
+      "brand": "demo-brand.json",
+      "series": "desk",
+      "brand_overrides": {"style": {"palette_roles": {"accent": "blue"}}}
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "status": "draft",
+  "context": {"sku": "DEMO-RACK-01", "market": "US", "language": "en-US", "category": "Desktop storage"},
+  "evidence": [
+    {"id": "E1", "kind": "document", "source": "Synthetic fixture: examples/demo-brief.md, not a real product", "sku": "DEMO-RACK-01", "verified": true},
+    {"id": "V1", "kind": "visual", "source": "Synthetic reference record only; no real photograph provided", "sku": "DEMO-RACK-01", "verified": false}
+  ],
+  "claims": [
+    {"id": "C1", "text": "Desktop storage rack", "evidence_ids": ["E1"]},
+    {"id": "C2", "text": "Steel frame", "evidence_ids": ["E1"]},
+    {"id": "C3", "text": "Adjustable shelf height", "evidence_ids": ["E1"]},
+    {"id": "C4", "text": "Removable tray", "evidence_ids": ["E1"]},
+    {"id": "C5", "text": "Overall size 30 x 20 x 25 cm", "evidence_ids": ["E1"]},
+    {"id": "C6", "text": "One rack included", "evidence_ids": ["E1"]}
+  ],
+  "brand_style": {
+    "status": "design hypothesis, not an established brand",
+    "palette_roles": "Dark text on light backgrounds; blue for emphasis",
+    "typography": "One heading family and one consistent body hierarchy",
+    "alignment": "Shared content margins; labels align with their own details"
+  },
+  "listing": {
+    "title": {"text": "Desktop Storage Rack with Adjustable Shelf Height and Removable Tray, Steel Frame, 30 x 20 x 25 cm", "claim_ids": ["C1", "C2", "C3", "C4", "C5"]},
+    "bullets": [
+      {"text": "Adjustable shelf height: Change the shelf position to arrange the space between shelves.", "claim_ids": ["C3"]},
+      {"text": "Removable tray: The tray can be taken out of the rack.", "claim_ids": ["C4"]},
+      {"text": "Steel frame: The rack uses a steel frame.", "claim_ids": ["C2"]},
+      {"text": "Plan your space: Check the 30 x 20 x 25 cm overall dimensions against your desk before choosing.", "claim_ids": ["C5"]},
+      {"text": "Package contents: One desktop storage rack is included.", "claim_ids": ["C1", "C6"]}
+    ],
+    "attributes": [
+      {"name": "Frame material", "text": "Steel", "claim_ids": ["C2"]},
+      {"name": "Overall dimensions", "text": "30 x 20 x 25 cm", "claim_ids": ["C5"]},
+      {"name": "Included quantity", "text": "1 rack", "claim_ids": ["C6"]}
+    ]
+  },
+  "images": [
+    {"id": "I1", "kind": "main", "task": "Recognize the exact rack and included quantity", "layout_id": "product_only", "text": "", "claim_ids": ["C1", "C6"]},
+    {
+      "id": "I2", "kind": "secondary", "task": "Explain shelf-height adjustment using a real detail photo when available", "layout_id": "05", "text": "Adjustable Shelf Height", "claim_ids": ["C3"],
+      "prompt": {
+        "mode": "background", "no_product": true,
+        "text": "Create a light neutral desktop background with a level support surface and soft light from the upper left. Leave the center-left empty for a separately composited rack and the right side clear for a real detail photo and later typography. Do not generate a rack, replacement product, words, badges or logos.",
+        "constraints": ["No products or substitutes", "No generated promotional text, logos or badges", "Leave product and detail areas empty"], "reference_ids": []
+      }
+    },
+    {"id": "A1", "kind": "a_plus", "task": "Introduce the rack without inventing a brand story", "layout_id": "01", "text": "Desktop Storage Rack", "claim_ids": ["C1"]},
+    {"id": "A2", "kind": "a_plus", "task": "Help compare available desk space with overall dimensions", "layout_id": "02", "text": "Overall Size: 30 x 20 x 25 cm", "claim_ids": ["C5"]}
+  ],
+  "gaps": ["Real product photographs and adjustment detail photo", "Brand, load test and warranty policy", "Current title and bullet field requirements", "A+ eligibility, actual module slots, sizes and mobile behavior", "Human review of copy against actual documents; images and PSD not inspected"]
+}

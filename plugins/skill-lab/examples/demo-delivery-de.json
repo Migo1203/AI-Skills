@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "status": "draft",
+  "context": {"sku": "DEMO-RACK-01", "market": "DE", "language": "de-DE", "category": "Desktop storage"},
+  "evidence": [
+    {"id": "E1", "kind": "document", "source": "Synthetic fixture: examples/demo-brief.md, not a real product", "sku": "DEMO-RACK-01", "verified": true},
+    {"id": "V1", "kind": "visual", "source": "Synthetic reference record only; no real photograph provided", "sku": "DEMO-RACK-01", "verified": false}
+  ],
+  "claims": [
+    {"id": "C1", "text": "Schreibtischregal", "evidence_ids": ["E1"]},
+    {"id": "C2", "text": "Stahlrahmen", "evidence_ids": ["E1"]},
+    {"id": "C3", "text": "Verstellbare Regalbodenhöhe", "evidence_ids": ["E1"]},
+    {"id": "C4", "text": "Herausnehmbare Ablage", "evidence_ids": ["E1"]},
+    {"id": "C5", "text": "Gesamtmaße 30 x 20 x 25 cm", "evidence_ids": ["E1"]},
+    {"id": "C6", "text": "Ein Regal enthalten", "evidence_ids": ["E1"]}
+  ],
+  "listing": {
+    "title": {"text": "Schreibtischregal mit verstellbarer Regalbodenhöhe und herausnehmbarer Ablage, Stahlrahmen, 30 x 20 x 25 cm", "claim_ids": ["C1", "C2", "C3", "C4", "C5"]},
+    "bullets": [
+      {"text": "Verstellbare Regalbodenhöhe: Ändern Sie die Position des Regalbodens, um den Abstand zwischen den Böden anzupassen.", "claim_ids": ["C3"]},
+      {"text": "Herausnehmbare Ablage: Die Ablage lässt sich aus dem Regal nehmen.", "claim_ids": ["C4"]},
+      {"text": "Stahlrahmen: Das Regal hat einen Rahmen aus Stahl.", "claim_ids": ["C2"]},
+      {"text": "Platz prüfen: Vergleichen Sie die Gesamtmaße von 30 x 20 x 25 cm vor der Auswahl mit Ihrem Schreibtisch.", "claim_ids": ["C5"]},
+      {"text": "Lieferumfang: Ein Schreibtischregal ist enthalten.", "claim_ids": ["C1", "C6"]}
+    ]
+  },
+  "images": [
+    {"id": "I1", "kind": "main", "task": "Identify the exact product", "layout_id": "product_only", "text": "", "claim_ids": ["C1", "C6"]},
+    {"id": "I2", "kind": "secondary", "task": "Explain adjustable height", "layout_id": "05", "text": "Verstellbare Regalbodenhöhe", "claim_ids": ["C3"]}
+  ],
+  "gaps": ["Synthetic language fixture, not reviewed by a German-language reviewer", "Real product documents, images and current DE category rules not provided"]
+}

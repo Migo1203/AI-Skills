@@ -9,7 +9,7 @@ AIGC 作品与音箱项目在 [AIGC 仓库](https://github.com/Migo1203/AIGC)管
 1. 看[入门与官方参考](学习资料/入门与官方参考.md)，分清“保存源文件”“安装到环境”和“实际调用”。
 2. 打开[我的技能](我的技能/README.md)，按“个人·自建／融合改编／原有导出”找到三份个人维护技能；维护状态见[技能清单](技能清单.md)，第三方技能与源码见[已知技能](已知技能/README.md)。
 3. 从[第一次练习](学习资料/第一次练习.md)了解已完成的使用示例，再阅读[学习技能](plugins/skill-lab/skills/study-skill/SKILL.md)和自己的[电商视觉规划技能](plugins/skill-lab/skills/plan-ecommerce-visuals/SKILL.md)。
-4. 做产品分析、视觉策略、背景/概念图提示词与自主PS排版时，使用新建的[电商视觉策略与PS指导](plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md)。它结合两份来源技能，保留原版，默认只交付文字方案。
+4. 做国内电商或Amazon文案、主图、详情页和A+时，使用[个人电商全案与可编辑制作 v0.4.0](plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md)。统一流程为AI策划→按规划制作素材与SVG→用户审稿调整→用户定稿→AI检查；[完整使用说明](plugins/skill-lab/使用说明.md)包含调用示例与工具边界。生图取决于环境实际能力，上传仓库不等于已启用。
 5. 要创建新技能时，使用[SKILL.md 模板](模板/SKILL.md.template)，写一个具体、能重复使用的任务。
 
 ## 当前内容
@@ -18,7 +18,9 @@ AIGC 作品与音箱项目在 [AIGC 仓库](https://github.com/Migo1203/AIGC)管
 | --- | --- |
 | 我的技能：自建、融合改编与原有导出 | [个人归档入口](我的技能/README.md) |
 | 三份 Skill 的源文件 | [plugins/skill-lab/skills](plugins/skill-lab/skills) |
-| 融合技能的验证范围与结果 | [电商视觉策略技能验证](学习资料/电商视觉策略技能验证.md) |
+| 统一技能使用说明 | [v0.4.0使用说明](plugins/skill-lab/使用说明.md) |
+| 最新融合迁移与验证 | [v0.4.0迁移与验证](plugins/skill-lab/迁移与验证.md) |
+| 历史融合技能的验证范围与结果 | [电商视觉策略技能验证](学习资料/电商视觉策略技能验证.md) |
 | Codex 技能插件声明 | [plugin.json](plugins/skill-lab/.codex-plugin/plugin.json) |
 | 本仓库的插件目录 | [marketplace.json](.agents/plugins/marketplace.json) |
 | 来源、状态与练习记录 | [技能清单](技能清单.md) |

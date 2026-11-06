@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "experiment_id": "example-experiment",
+  "sku": "example-sku",
+  "market": "US",
+  "source": "Synthetic test fixture; no Amazon or customer data",
+  "data_kind": "synthetic",
+  "metric": "unique-user-purchase-rate",
+  "unit": "unique_user_binary",
+  "window": {"start": "2026-10-01", "end": "2026-10-15"},
+  "arms": {"A": {"n": 1000, "events": 100}, "B": {"n": 1000, "events": 150}},
+  "checks": {
+    "deduplicated": true, "concurrent": true, "instrumentation_stable": true,
+    "no_known_confounders": true, "fixed_horizon_reached": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "brand_id": "example-brand",
+  "revision": "draft-1",
+  "status": "hypothesis",
+  "defaults": {
+    "style": {
+      "palette_roles": {"background": "light neutral", "body": "dark neutral", "accent": "choose from confirmed brand assets"},
+      "typography": {"heading": "one consistent heading family", "body": "legible at the intended mobile display size"},
+      "icons": "consistent stroke and label alignment",
+      "spacing": "shared content margins across the series",
+      "photography": "real product identity, consistent lighting direction",
+      "avoid": ["unreadable promotional badges", "invented certifications"]
+    },
+    "voice": {"tone": "clear and specific", "avoid": ["unsupported superlatives"]},
+    "glossary": [],
+    "assets": []
+  },
+  "series": {}
+}

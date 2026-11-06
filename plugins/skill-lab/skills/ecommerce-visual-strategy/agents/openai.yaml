@@ -1,4 +1,4 @@
 interface:
-  display_name: "电商视觉策略与PS指导"
-  short_description: "分析产品资料，提供视觉策略、文案与画面提示词，支持自主PS排版和审稿"
-  default_prompt: "使用 $ecommerce-visual-strategy，根据产品资料制定视觉策略、图内文案和背景或概念图提示词，并按当前阶段提供PS建议。"
+  display_name: "个人电商全案与可编辑制作"
+  short_description: "统一国内电商与Amazon文案布局、素材和SVG制作，支持用户改稿与定稿检查"
+  default_prompt: "使用 $ecommerce-visual-strategy，根据平台和当前范围策划文案与布局，制作素材和可编辑SVG供我审稿调整；我定稿后检查最终版。"

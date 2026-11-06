@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "brand_id": "synthetic-desk-brand",
+  "revision": "demo-1",
+  "status": "hypothesis",
+  "defaults": {
+    "style": {
+      "palette_roles": {"background": "warm white", "body": "charcoal", "accent": "blue"},
+      "typography": {"heading": "consistent sans-serif hierarchy", "body": "legible mobile body text"},
+      "icons": "simple line icons", "spacing": "shared content margins", "photography": "soft upper-left lighting"
+    },
+    "voice": {"tone": "plain and factual", "avoid": ["unsupported durability or safety claims"]},
+    "glossary": [{"source": "removable tray", "target": "herausnehmbare Ablage", "language": "de-DE", "status": "proposed"}],
+    "assets": []
+  },
+  "series": {"desk": {"style": {"palette_roles": {"accent": "teal"}}}}
+}

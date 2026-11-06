@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "experiment_id": "example-experiment",
+  "sku": "example-sku",
+  "market": "US",
+  "hypothesis": "A clearer feature heading may help users understand the product.",
+  "variable": "one secondary-image heading",
+  "variants": {"A": "Existing heading", "B": "Revised heading; same facts, image and layout"},
+  "primary_metric": {
+    "name": "unique-user-purchase-rate",
+    "event": "at least one attributed purchase per assigned user within the prespecified window",
+    "denominator": "unique eligible assigned users",
+    "unit": "unique_user_binary",
+    "direction": "maximize"
+  },
+  "minimum_absolute_effect": 0.01,
+  "sample_size_basis": "Illustrative placeholder values only; determine sample size from baseline, effect and power before use.",
+  "design": {
+    "assignment": "randomized_concurrent",
+    "registered_before_start": false,
+    "stopping_rule": "fixed_sample",
+    "allocation_b": 0.5,
+    "planned_n_a": 1000,
+    "planned_n_b": 1000
+  }
+}

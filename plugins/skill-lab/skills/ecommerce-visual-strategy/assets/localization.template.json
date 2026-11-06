@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "sku": "example-sku",
+  "source_context": {"market": "US", "language": "en-US"},
+  "target_context": {"market": "DE", "language": "de-DE"},
+  "audience": [],
+  "terminology": [],
+  "unit_conversions": [],
+  "omitted_claim_ids": [],
+  "review": {"language": "not_reviewed", "visual": "not_reviewed"}
+}

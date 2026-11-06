@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "sku": "DEMO-RACK-01",
+  "source_context": {"market": "US", "language": "en-US"},
+  "target_context": {"market": "DE", "language": "de-DE"},
+  "audience": [{"finding": "Desk-space fit may be a purchase concern.", "basis": "hypothesis", "source": "Synthetic scenario; no audience study"}],
+  "terminology": [{"source": "removable tray", "target": "herausnehmbare Ablage", "status": "proposed"}],
+  "unit_conversions": [],
+  "omitted_claim_ids": [],
+  "review": {"language": "not_reviewed", "visual": "not_reviewed"}
+}

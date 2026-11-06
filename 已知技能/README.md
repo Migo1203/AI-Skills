@@ -1,6 +1,6 @@
 # 已知技能
 
-更新：2026-11-06。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
+更新：2026-11-07。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
 
 当前记录 **29 个技能**：7 个已安装或注册到项目，22 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
 
@@ -10,7 +10,7 @@
 
 另见[商业美术指导与品牌视觉](分类/商业美术指导与品牌视觉.md)：产品创意表现、品牌视觉识别和参考图驱动的品牌概念。三项均为方法储备，未验证电商适配或实际提案质量。
 
-新增阅读：[两份第三方电商技能与个人现有技能的对比及用法](分类/电商技能对比与使用.md)。2026-11-06更新已有的ecommerce-visual-copywriting固定版本并首次收录Amazon Listing Skill；归档步骤未改变安装状态；随后按用户要求将个人融合版更新至v0.2.0，加入按需布局库。
+新增阅读：[两份第三方电商技能与个人现有技能的对比及用法](分类/电商技能对比与使用.md)。2026-11-06更新已有的ecommerce-visual-copywriting固定版本并首次收录Amazon Listing Skill；归档步骤未改变安装状态；后续于2026-11-07同步个人融合版v0.4.0，统一国内/Amazon与16类布局，新增SVG制作、品牌、本地化及工具；[使用说明](../plugins/skill-lab/使用说明.md)。此为已有个人技能升级，不增加清单总数。
 
 ## 怎么使用这个文件夹
 
@@ -32,7 +32,7 @@
 | [skill-creator](源文件/openai--codex/codex-rs/skills/src/assets/samples/skill-creator/SKILL.md) | 第三方·原版 | 创建、修改和基础校验 Codex 技能 | AI-Skills：已安装；初始化和校验脚本已实测 |
 | [frontend-design](源文件/anthropics--skills/skills/frontend-design/SKILL.md) | 第三方·原版 | 网站视觉方向、字体、配色、布局与页面实现 | AIGC：已安装；网站尚未开始实现 |
 | [web-design-guidelines](源文件/vercel-labs--agent-skills/skills/web-design-guidelines/SKILL.md) | 第三方·原版 | 对照官方规则检查网页代码 | AIGC：已安装；规则可读取，代码审查待有网站后进行 |
-| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | **个人·融合改编** | 资料分析、视觉策略、文案、画面提示词与自主PS指导 | v0.2.0，新增[按需布局库](../plugins/skill-lab/skills/ecommerce-visual-strategy/references/layout-library.md)；AI-Skills与AIGC的历史注册记录保留，本轮未重验本机链接；验证范围见[记录](../学习资料/电商视觉策略技能验证.md)，商业美术提案能力仍需改进和验证 |
+| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | **个人·融合改编** | 国内电商与Amazon文案、16类布局、素材/SVG制作、审稿及定稿检查 | v0.4.0；AIGC当前项目已统一入口；GitHub源更新不等于其他环境已安装。38项工具测试及结构校验通过，[记录](../plugins/skill-lab/迁移与验证.md)；真实成图、兼容性和商业效果仍待验证 |
 
 上表的“已安装”由项目文件与安装清单验证，不等于当前云聊天已自动加载全部技能。
 
