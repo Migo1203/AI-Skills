@@ -1,14 +1,16 @@
 # 已知技能
 
-更新：2026-10-30。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
+更新：2026-11-06。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
 
-当前记录 **28 个技能**：7 个已安装或注册到项目，21 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
+当前记录 **29 个技能**：7 个已安装或注册到项目，22 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
 
-按来源查找：[我的技能](../我的技能/README.md)收录3项个人维护技能，分别标为“个人·自建”“个人·融合改编”“个人·原有导出”；其余25项为第三方原版收录。用途分类与来源标记分别记录，个人入口不增加技能总数。
+按来源查找：[我的技能](../我的技能/README.md)收录3项个人维护技能，分别标为“个人·自建”“个人·融合改编”“个人·原有导出”；其余26项为第三方原版收录。用途分类与来源标记分别记录，个人入口不增加技能总数。
 
 按用途查找：[国内电商视觉设计](分类/国内电商视觉设计.md)（产品分析与策略、详情页与信息图、商业生图服务和外部工作流）。
 
 另见[商业美术指导与品牌视觉](分类/商业美术指导与品牌视觉.md)：产品创意表现、品牌视觉识别和参考图驱动的品牌概念。三项均为方法储备，未验证电商适配或实际提案质量。
+
+新增阅读：[两份第三方电商技能与个人现有技能的对比及用法](分类/电商技能对比与使用.md)。2026-11-06更新已有的ecommerce-visual-copywriting固定版本并首次收录Amazon Listing Skill；只归档，不改个人技能或安装状态。
 
 ## 怎么使用这个文件夹
 
@@ -51,7 +53,8 @@
 | [copywriting](源文件/coreyhaines31--marketingskills/skills/copywriting/SKILL.md) | 根据真实产品资料写标题、卖点和页面文案 | 按实际受众和用途提供资料，缺失事实需说明 |
 | [copy-editing](源文件/coreyhaines31--marketingskills/skills/copy-editing/SKILL.md) | 修改已有营销文案，改善清晰度和语气 | 适合已有初稿或局部修改任务 |
 | [canvas-design](源文件/anthropics--skills/skills/canvas-design/SKILL.md) | 概念海报、封面和静态视觉艺术 | 含配套字体及其许可；偏艺术表达，产品摄影另需图像工具 |
-| [ecommerce-visual-copywriting](源文件/feichanggege--ecommerce-visual-copywriting-skill/SKILL.md) | 国内电商产品分析、购买理由、图组规划、文案与提示词 | 含配套参考与交付模板；当前规则仍需官方核验 |
+| [ecommerce-visual-copywriting](源文件/feichanggege--ecommerce-visual-copywriting-skill/SKILL.md) | 国内与跨境电商产品分析、购买理由、图组规划、文案与提示词 | 固定至7fd4aba（仍标v3.0，增量属Unreleased），含参考/模板/机械检查脚本；规则另核验 |
+| [Amazon Listing Skill / amazon-image-skill](源文件/OnestarQQ--amazon-listing-skill/SKILL.md) | Amazon商品标题、五点、基础信息表与Listing/A+套图Prompt | 已归档未安装；尺寸/版本存在冲突，缺少明确开源许可，详见[来源](源文件/OnestarQQ--amazon-listing-skill/来源.md) |
 | [taobao-detail-long-image](源文件/xianyu110--ecommerce-image-skills/skills/taobao-detail-long-image/SKILL.md) | 详情页分屏规划、逐屏提示词、长图拼接和切片 | 拼接需Python/Pillow；作者配置不是平台现行规范 |
 | [multi-angle-set](源文件/xianyu110--ecommerce-image-skills/skills/multi-angle-set/SKILL.md) | 基于产品参考图组织正面、侧面、背面、45°、俯视等套图 | 归档未安装；可配合支持参考图的生图工具；不能保证产品结构完全一致 |
 | [baoyu-infographic](源文件/jimliu--baoyu-skills/skills/baoyu-infographic/SKILL.md) | 中文卖点信息图、参数对比、结构与流程可视化 | 通用信息图；生图工具和可选API分支需另行配置 |
@@ -64,7 +67,7 @@
 
 ## 一起归档的关联技能
 
-以下3项是上述候选引用的关联技能，未计入28项主清单，也没有安装：
+以下3项是上述候选引用的关联技能，未计入29项主清单，也没有安装：
 
 - [grilling](源文件/mattpocock--skills/skills/productivity/grilling/SKILL.md)：需求与设计追问。
 - [domain-modeling](源文件/mattpocock--skills/skills/engineering/domain-modeling/SKILL.md)：术语和设计决定记录。
@@ -80,6 +83,7 @@
 - [Marketing Skills](源文件/coreyhaines31--marketingskills/来源.md)：`copywriting`、`copy-editing`。
 - [Vercel Agent Browser](源文件/vercel-labs--agent-browser/来源.md)：`agent-browser`及配套流程资料。
 - [电商视觉策划](源文件/feichanggege--ecommerce-visual-copywriting-skill/来源.md)：`ecommerce-visual-copywriting`。
+- [Amazon Listing Skill](源文件/OnestarQQ--amazon-listing-skill/来源.md)：内部名`amazon-image-skill`，上架文案与套图提示词。
 - [电商详情长图与多角度套图](源文件/xianyu110--ecommerce-image-skills/来源.md)：`taobao-detail-long-image`、`multi-angle-set`。
 - [Baoyu Skills](源文件/jimliu--baoyu-skills/来源.md)：`baoyu-infographic`。
 - [Linkpix Skills](源文件/autoagc--linkpix-skills/来源.md)：淘宝/天猫与京东图像工作流。
