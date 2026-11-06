@@ -8,7 +8,7 @@
 
 | 技能与源文件 | 来源标记 | 用途分类 | 版本与验证状态 | 来源说明 |
 | --- | --- | --- | --- | --- |
-| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | **个人·融合改编** | 电商视觉／产品分析、策略、文案、提示词与PS指导 | v0.1.0；流程与事实处理有验证，商业美术提案能力仍需改进和验证 | [融合来源与许可](../plugins/skill-lab/skills/ecommerce-visual-strategy/来源.md) |
+| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | **个人·融合改编** | 电商视觉／产品分析、策略、文案、提示词与PS指导 | v0.2.0；新增按需布局库，结构校验与场景走查见[记录](../学习资料/电商视觉策略技能验证.md)；原流程与事实处理有历史验证，商业美术提案能力仍需改进和验证 | [融合来源与许可](../plugins/skill-lab/skills/ecommerce-visual-strategy/来源.md) |
 | [study-skill](../plugins/skill-lab/skills/study-skill/SKILL.md) | **个人·自建** | 学习辅助／读懂和试用Skill | 未单独设版本；已有直接读取后使用的[练习记录](../学习资料/第一次练习.md) | [创建记录](../plugins/skill-lab/skills/study-skill/来源.md) |
 | [plan-ecommerce-visuals](../plugins/skill-lab/skills/plan-ecommerce-visuals/SKILL.md) | **个人·原有导出** | 电商视觉／信息规划、排版与审稿 | 未单独设版本；保留云端原文及原有使用记录 | [导出来源](../plugins/skill-lab/skills/plan-ecommerce-visuals/来源.md) |
 
@@ -20,12 +20,14 @@
 
 `ecommerce-visual-strategy`的两份来源继续保留。新收录的`art-direction`、`brand-identity`和`generate-reference-inspired-brand-worlds`仍归[第三方方法储备](../已知技能/分类/商业美术指导与品牌视觉.md)，没有加入融合版。商业提案的后续验证在[AIGC独立任务](https://github.com/Migo1203/AIGC/tree/main/任务/商业视觉提案验证)推进。
 
+v0.2.0新增[电商布局参考库](../plugins/skill-lab/skills/ecommerce-visual-strategy/references/layout-library.md)，把单图/整页布局选择、系列样式与PS衔接接入现有流程。学习amazon-image-skill的布局选择思路后重新编写，原档继续保留，未把无明确许可的模板原文复制进个人技能。
+
 ## 归档标记约定
 
 - 来源性质与用途分开记录：自建、融合改编、原有导出、第三方原版分别标明，再填写学习辅助、电商视觉等用途。
 - 每项链接到唯一维护源及来源说明；融合改编保留上游版本、署名与许可，第三方原版不标成个人原创。
 - 版本与验证范围按实际记录填写；“已归档”“已安装或注册”“已验证效果”分别记录。没有单独版本号时以Git提交追踪，不补造版本。
 
-本轮只整理归档标记，没有修改技能指令、名称或安装状态。
+本轮更新ecommerce-visual-strategy的指令与参考文件，名称、其余个人技能和安装配置未变。
 
 [返回仓库首页](../README.md) · [三份技能维护清单](../技能清单.md) · [全部已知技能](../已知技能/README.md)

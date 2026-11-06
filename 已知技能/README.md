@@ -10,7 +10,7 @@
 
 另见[商业美术指导与品牌视觉](分类/商业美术指导与品牌视觉.md)：产品创意表现、品牌视觉识别和参考图驱动的品牌概念。三项均为方法储备，未验证电商适配或实际提案质量。
 
-新增阅读：[两份第三方电商技能与个人现有技能的对比及用法](分类/电商技能对比与使用.md)。2026-11-06更新已有的ecommerce-visual-copywriting固定版本并首次收录Amazon Listing Skill；只归档，不改个人技能或安装状态。
+新增阅读：[两份第三方电商技能与个人现有技能的对比及用法](分类/电商技能对比与使用.md)。2026-11-06更新已有的ecommerce-visual-copywriting固定版本并首次收录Amazon Listing Skill；归档步骤未改变安装状态；随后按用户要求将个人融合版更新至v0.2.0，加入按需布局库。
 
 ## 怎么使用这个文件夹
 
@@ -32,7 +32,7 @@
 | [skill-creator](源文件/openai--codex/codex-rs/skills/src/assets/samples/skill-creator/SKILL.md) | 第三方·原版 | 创建、修改和基础校验 Codex 技能 | AI-Skills：已安装；初始化和校验脚本已实测 |
 | [frontend-design](源文件/anthropics--skills/skills/frontend-design/SKILL.md) | 第三方·原版 | 网站视觉方向、字体、配色、布局与页面实现 | AIGC：已安装；网站尚未开始实现 |
 | [web-design-guidelines](源文件/vercel-labs--agent-skills/skills/web-design-guidelines/SKILL.md) | 第三方·原版 | 对照官方规则检查网页代码 | AIGC：已安装；规则可读取，代码审查待有网站后进行 |
-| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | **个人·融合改编** | 资料分析、视觉策略、文案、画面提示词与自主PS指导 | 新建v0.1.0，AI-Skills与AIGC项目均已注册；验证范围见[记录](../学习资料/电商视觉策略技能验证.md)，商业美术提案能力仍需改进和验证 |
+| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | **个人·融合改编** | 资料分析、视觉策略、文案、画面提示词与自主PS指导 | v0.2.0，新增[按需布局库](../plugins/skill-lab/skills/ecommerce-visual-strategy/references/layout-library.md)；AI-Skills与AIGC的历史注册记录保留，本轮未重验本机链接；验证范围见[记录](../学习资料/电商视觉策略技能验证.md)，商业美术提案能力仍需改进和验证 |
 
 上表的“已安装”由项目文件与安装清单验证，不等于当前云聊天已自动加载全部技能。
 
