@@ -8,7 +8,7 @@
 
 | 技能与源文件 | 来源标记 | 用途分类 | 版本与验证状态 | 来源说明 |
 | --- | --- | --- | --- | --- |
-| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | **个人·融合改编** | 国内电商＋Amazon全案／文案、16类布局、素材与SVG、用户改稿及定稿检查 | v0.4.0；融合本地Amazon项目，含品牌、本地化、批量与实验模块；38项工具测试及结构校验通过，见[记录](../plugins/skill-lab/迁移与验证.md)；真实成图、编辑兼容与商业效果待验证 | [来源与许可](../plugins/skill-lab/skills/ecommerce-visual-strategy/来源.md) |
+| [ecommerce-visual-strategy](../plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md) | **个人·融合改编** | 国内电商＋Amazon全案／文案、16类布局、素材与SVG、用户改稿及定稿检查 | v0.4.1；融合本地Amazon项目，含品牌、本地化、批量与实验模块；38项工具测试及结构校验通过，见[记录](../plugins/skill-lab/迁移与验证.md)；真实成图、编辑兼容与商业效果待验证 | [来源与许可](../plugins/skill-lab/skills/ecommerce-visual-strategy/来源.md) |
 | [study-skill](../plugins/skill-lab/skills/study-skill/SKILL.md) | **个人·自建** | 学习辅助／读懂和试用Skill | 未单独设版本；已有直接读取后使用的[练习记录](../学习资料/第一次练习.md) | [创建记录](../plugins/skill-lab/skills/study-skill/来源.md) |
 | [plan-ecommerce-visuals](../plugins/skill-lab/skills/plan-ecommerce-visuals/SKILL.md) | **个人·原有导出** | 电商视觉／信息规划、排版与审稿 | 未单独设版本；保留云端原文及原有使用记录 | [导出来源](../plugins/skill-lab/skills/plan-ecommerce-visuals/来源.md) |
 
@@ -24,7 +24,7 @@
 
 ## 当前版本使用
 
-2026-11-07同步v0.4.0，统一调用`$ecommerce-visual-strategy`，不再单独安装amazon-listing-studio。六类旧布局去重合并到16类库，保留原线框和整页方法；Amazon规则在专用模块读取，国内稿不套Amazon校验。完整示例见[使用说明](../plugins/skill-lab/使用说明.md)。默认制作到用户审阅包，用户确认最终版后AI只检查指定文件。
+2026-11-07同步v0.4.1，统一调用`$ecommerce-visual-strategy`，不再单独安装amazon-listing-studio。六类旧布局去重合并到16类库，保留原线框和整页方法；Amazon规则在专用模块读取，国内稿不套Amazon校验。完整示例见[使用说明](../plugins/skill-lab/使用说明.md)。v0.4.1将交付整理为四类目录及一份使用说明，JSON/HTML按需生成。默认制作到用户审阅包，用户确认最终版后AI只检查指定文件。
 
 ## 归档标记约定
 

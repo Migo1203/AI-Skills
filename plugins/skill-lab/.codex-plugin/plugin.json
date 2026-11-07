@@ -1,6 +1,6 @@
 {
   "name": "migo-ai-skills",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Migo的技能学习与电商实践，包含学习技能、原有视觉技能和统一国内/Amazon文案布局、素材与可编辑SVG制作的个人电商技能。",
   "author": {
     "name": "Migo"

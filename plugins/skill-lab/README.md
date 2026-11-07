@@ -1,6 +1,6 @@
 # 个人电商全案与可编辑制作
 
-当前版本0.4.0（2026-11-06融合；2026-11-07同步GitHub），统一技能名`ecommerce-visual-strategy`。合并个人通用电商视觉v0.3.0与Amazon Listing Studio v0.3.0；国内与Amazon任务不再分别维护两套技能。
+当前版本0.4.1（2026-11-07；v0.4.0于2026-11-06融合），统一技能名`ecommerce-visual-strategy`。合并个人通用电商视觉v0.3.0与Amazon Listing Studio v0.3.0；国内与Amazon任务不再分别维护两套技能。此补丁简化默认交付：四类目录和一份使用说明，过程记录集中存放，不默认为每次检查生成JSON或HTML。
 
 - [使用说明](使用说明.md)：调用、输入、制作、审稿、定稿检查与常用示例。
 - [技能入口](skills/ecommerce-visual-strategy/SKILL.md)：按平台/任务读取参考。
