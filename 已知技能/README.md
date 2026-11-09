@@ -1,16 +1,18 @@
 # 已知技能
 
-更新：2026-11-07。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
+更新：2026-11-09。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
 
-当前记录 **29 个技能**：7 个已安装或注册到项目，22 个为已知候选。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
+当前记录 **42 个技能条目**：7 个已安装或注册到项目，35 个为已知候选；候选中34项有源码归档，1项仅保存待许可的来源链接。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
 
-按来源查找：[我的技能](../我的技能/README.md)收录3项个人维护技能，分别标为“个人·自建”“个人·融合改编”“个人·原有导出”；其余26项为第三方原版收录。用途分类与来源标记分别记录，个人入口不增加技能总数。
+按来源查找：[我的技能](../我的技能/README.md)收录3项个人维护技能，分别标为“个人·自建”“个人·融合改编”“个人·原有导出”；其余39项为第三方技能候选或收录，包含上游自己的改编版本及1项待许可链接；不标为个人技能。用途分类与来源标记分别记录，个人入口不增加技能总数。
 
 按用途查找：[国内电商视觉设计](分类/国内电商视觉设计.md)（产品分析与策略、详情页与信息图、商业生图服务和外部工作流）。
 
 另见[商业美术指导与品牌视觉](分类/商业美术指导与品牌视觉.md)：产品创意表现、品牌视觉识别和参考图驱动的品牌概念。三项均为方法储备，未验证电商适配或实际提案质量。
 
 新增阅读：[两份第三方电商技能与个人现有技能的对比及用法](分类/电商技能对比与使用.md)。2026-11-06更新已有的ecommerce-visual-copywriting固定版本并首次收录Amazon Listing Skill；归档步骤未改变安装状态；后续于2026-11-07同步个人融合版v0.4.1，统一国内/Amazon与16类布局，新增SVG制作、品牌、本地化及工具；[使用说明](../plugins/skill-lab/使用说明.md)。此为已有个人技能升级，不增加清单总数。
+
+2026-11-09新增：[品牌设计、角色IP与网站系统](分类/品牌设计与角色IP.md)，含13项候选记录及固定版本源码／待许可说明；[归档与校验记录](../学习资料/品牌技能归档-2026-11-09/README.md)。
 
 ## 怎么使用这个文件夹
 
@@ -38,7 +40,7 @@
 
 ## 已知候选，尚未安装
 
-本节均为**第三方·原版**，用于学习与选择；保存源码不标为个人自建或融合改编。
+本节为第三方技能，保留原作者版本；Cofoundy属于第三方上游改编，yang0仅归档链接。用于学习与选择，均不标为个人自建或个人融合改编。
 
 | 技能与源文件 | 用途与使用时机 | 关键依赖或边界 |
 | --- | --- | --- |
@@ -64,10 +66,23 @@
 | [art-direction](源文件/rampstackco--claude-skills/skills/art-direction/SKILL.md) | 已有品牌下的产品摄影、活动KV和具体交付物美术brief | 非电商专用；需要品牌与渠道输入，未覆盖商品卖点叙事、文案及国内平台规则；归档未安装 |
 | [brand-identity](源文件/arnabbagxd--brand-building-skills/skills/brand-identity/SKILL.md) | 品牌识别提案：Logo方向、色彩、字体、摄影与图形语言 | 后续品牌作品集储备；输出brief，不是完整VI成品或电商方案；未安装 |
 | [generate-reference-inspired-brand-worlds](源文件/mengto--skills/agent-skills/codex/generate-reference-inspired-brand-worlds/SKILL.md) | 拆解参考图视觉语言，探索品牌campaign概念 | 默认调用生图并生成词标；当前仅学习方法，原样运行不符合用户自主生图与PS分工；未安装 |
+| [brand-context（Arnab）](源文件/arnabbagxd--brand-building-skills/skills/brand-context/SKILL.md) | 整理主体、受众、定位、人格和目标 | 已归档；本轮基础简报采用部分框架；未安装，未知信息不编造 |
+| [personal-brand（Arnab）](源文件/arnabbagxd--brand-building-skills/skills/personal-brand/SKILL.md) | 个人品牌受众、能力证据、介绍与表达 | 已归档；本轮基础简报采用部分框架；不虚构权威、经历与客户 |
+| [brand-strategy（Arnab）](源文件/arnabbagxd--brand-building-skills/skills/brand-strategy/SKILL.md) | 问卷与完整品牌策略报告结构 | 已归档未安装；原文要求缺信息时推断，不能原样用于事实核验任务 |
+| [brand-discovery（RampStack）](源文件/rampstackco--claude-skills/skills/brand-discovery/SKILL.md) | 受众、竞争环境、问题与定位领域研究 | 已归档未安装；研究缺口须如实标明，个人求职需裁剪商业研究范围 |
+| [brand-ideation（RampStack）](源文件/rampstackco--claude-skills/skills/brand-ideation/SKILL.md) | 比较定位、情绪板、视觉与叙事方向 | 已归档未安装；已有确认名称时跳过重新命名，方案不是定稿 |
+| [brand-identity（RampStack）](源文件/rampstackco--claude-skills/skills/brand-identity/SKILL.md) | Logo、色彩、字体、图像、图标与动效系统 | 已归档未安装；需要已确认方向，模板不能替代实际设计与检查 |
+| [logo-design（RampStack）](源文件/rampstackco--claude-skills/skills/logo-design/SKILL.md) | 字标、符号、组合标、多尺寸和交付规格 | 已归档未安装；需真实渲染、字距和应用测试，不保证原创性 |
+| [brand-identity（Fatih Aydost）](源文件/fatihaydost--brand-identity-skill/skills/brand-identity/SKILL.md) | 成套 Logo、字体和色彩比较、测量、规范导出 | 已归档未安装；Python 3.10+、浏览器与字体下载；当前环境尚未实测 |
+| [brand-strategy（Cofoundy）](源文件/cofoundy--brand-skills/skills/brand-strategy/SKILL.md) | 品牌问卷和报告；上游第三方改编版本 | 已归档未安装；NOTICE 说明改编自 Arnab，不作为独立方法验证 |
+| [hue（Dominik Martin）](源文件/dominikmartn--hue/SKILL.md) | 把参考与既有方向整理为设计语言技能、tokens 与预览 | 已归档未安装；品牌确定后用于网站，当前仅阅读相关段落 |
+| [brand-guidelines（Anthropic）](源文件/anthropics--skills/skills/brand-guidelines/SKILL.md) | 套用 Anthropic 自己的颜色与字体 | 已归档未安装；不用于定义 Migo 或其他独立品牌 |
+| [page-mascot（nilbuild）](源文件/nilbuild--page-mascot/skills/page-mascot/SKILL.md) | React 指针跟随、点击反应与精灵图制作 | 已归档未安装；保留技能脚本与许可，未复制整套角色图库；API 生图另有费用 |
+| [mascot-ip-studio（yang0）](源文件/yang0--mascot-ip-studio/来源.md) | 原创吉祥物三方案、改版与视觉 QA 流程研究 | 仅归档链接与评估，未复制源码；许可待确认，不计入源码已归档数 |
 
 ## 一起归档的关联技能
 
-以下3项是上述候选引用的关联技能，未计入29项主清单，也没有安装：
+以下3项是上述候选引用的关联技能，未计入42项主清单，也没有安装：
 
 - [grilling](源文件/mattpocock--skills/skills/productivity/grilling/SKILL.md)：需求与设计追问。
 - [domain-modeling](源文件/mattpocock--skills/skills/engineering/domain-modeling/SKILL.md)：术语和设计决定记录。
@@ -75,7 +90,7 @@
 
 ## 来源和版本
 
-- [Anthropic Skills](源文件/anthropics--skills/来源.md)：`frontend-design`、`canvas-design`。
+- [Anthropic Skills](源文件/anthropics--skills/来源.md)：原有 `frontend-design`、`canvas-design`，及本轮新增 `brand-guidelines`；按各技能固定提交分别保留。
 - [Vercel Skills CLI](源文件/vercel-labs--skills/来源.md)：`find-skills`。
 - [Vercel Agent Skills](源文件/vercel-labs--agent-skills/来源.md)：`web-design-guidelines`。
 - [OpenAI Codex](源文件/openai--codex/来源.md)：当前 Codex 源码中的`skill-creator`。
@@ -88,8 +103,13 @@
 - [Baoyu Skills](源文件/jimliu--baoyu-skills/来源.md)：`baoyu-infographic`。
 - [Linkpix Skills](源文件/autoagc--linkpix-skills/来源.md)：淘宝/天猫与京东图像工作流。
 - [OpenDesign](源文件/nexu-io--open-design/来源.md)：`ecommerce-image-workflow`。
-- [Rampstack美术指导](源文件/rampstackco--claude-skills/来源.md)：`art-direction`。
-- [品牌识别提案](源文件/arnabbagxd--brand-building-skills/来源.md)：`brand-identity`。
+- [RampStack](源文件/rampstackco--claude-skills/来源.md)：原有 `art-direction`，本轮新增 discovery、ideation、identity、logo-design；分提交保留。
+- [Arnab 品牌基础与识别](源文件/arnabbagxd--brand-building-skills/来源.md)：原有 `brand-identity`，新增 context、personal-brand、strategy。
+- [Fatih 品牌识别制作](源文件/fatihaydost--brand-identity-skill/来源.md)。
+- [Cofoundy 策略改编](源文件/cofoundy--brand-skills/来源.md)。
+- [Hue 网站设计语言](源文件/dominikmartn--hue/来源.md)。
+- [Page Mascot 网页互动](源文件/nilbuild--page-mascot/来源.md)。
+- [Mascot IP Studio 待许可链接](源文件/yang0--mascot-ip-studio/来源.md)。
 - [Mengto品牌概念探索](源文件/mengto--skills/来源.md)：`generate-reference-inspired-brand-worlds`。
 - 仓库原有两份技能的来源见[技能清单](../技能清单.md)。
 

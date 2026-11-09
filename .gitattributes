@@ -1,0 +1,15 @@
+# Preserve the exact upstream bytes for the 2026-11-09 skill archives.
+已知技能/源文件/arnabbagxd--brand-building-skills/skills/brand-context/** -text
+已知技能/源文件/arnabbagxd--brand-building-skills/skills/personal-brand/** -text
+已知技能/源文件/arnabbagxd--brand-building-skills/skills/brand-strategy/** -text
+已知技能/源文件/arnabbagxd--brand-building-skills/LICENSE.20261109 -text
+已知技能/源文件/rampstackco--claude-skills/skills/brand-discovery/** -text
+已知技能/源文件/rampstackco--claude-skills/skills/brand-ideation/** -text
+已知技能/源文件/rampstackco--claude-skills/skills/brand-identity/** -text
+已知技能/源文件/rampstackco--claude-skills/skills/logo-design/** -text
+已知技能/源文件/rampstackco--claude-skills/LICENSE.20261109 -text
+已知技能/源文件/anthropics--skills/skills/brand-guidelines/** -text
+已知技能/源文件/fatihaydost--brand-identity-skill/** -text
+已知技能/源文件/cofoundy--brand-skills/** -text
+已知技能/源文件/dominikmartn--hue/** -text
+已知技能/源文件/nilbuild--page-mascot/** -text

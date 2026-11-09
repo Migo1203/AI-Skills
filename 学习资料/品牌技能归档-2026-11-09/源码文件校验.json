@@ -1,0 +1,1448 @@
+{
+  "date": "2026-11-09",
+  "verification": "每份文件与固定提交 GitHub tree 的 Git blob SHA-1 核对，并回读本地字节；未运行上游脚本",
+  "sources": [
+    {
+      "repo": "arnabbagxd/brand-building-skills",
+      "commit": "4a0a8b5b7a0f64bf0fc551978a18a591670a5223",
+      "skill_directories_complete": true,
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "archive_path": "已知技能/源文件/arnabbagxd--brand-building-skills/LICENSE.20261109",
+          "bytes": 1056,
+          "git_blob_sha1": "14fac913ccf80234b1848540089a3bbcb6e5283d",
+          "sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685"
+        },
+        {
+          "upstream_path": "skills/brand-context/SKILL.md",
+          "archive_path": "已知技能/源文件/arnabbagxd--brand-building-skills/skills/brand-context/SKILL.md",
+          "bytes": 3374,
+          "git_blob_sha1": "d0ac03d7dd7f804103c2eb674682bf1861019997",
+          "sha256": "9d6c187d1ca1e953912e6cc2bb517d81e025942e15bfb7a8a7b44328a1d541ed"
+        },
+        {
+          "upstream_path": "skills/brand-strategy/SKILL.md",
+          "archive_path": "已知技能/源文件/arnabbagxd--brand-building-skills/skills/brand-strategy/SKILL.md",
+          "bytes": 10204,
+          "git_blob_sha1": "0369b162edf2874b6e5021088cb2749f95b4aa0e",
+          "sha256": "d2b366d20f8e101f47184364203d0ec13d3c3ce25ccef67302ac31091faaf37a"
+        },
+        {
+          "upstream_path": "skills/brand-strategy/evals/evals.json",
+          "archive_path": "已知技能/源文件/arnabbagxd--brand-building-skills/skills/brand-strategy/evals/evals.json",
+          "bytes": 2614,
+          "git_blob_sha1": "e1fdb1d8efaa21c58fe1b2e53660106eceddfe4c",
+          "sha256": "2d97837d158732878f65da5553310efefd15975b4ccf9b04d7f9127092eccdfc"
+        },
+        {
+          "upstream_path": "skills/personal-brand/SKILL.md",
+          "archive_path": "已知技能/源文件/arnabbagxd--brand-building-skills/skills/personal-brand/SKILL.md",
+          "bytes": 7700,
+          "git_blob_sha1": "c5d3b7851255c4d8e963399e02943b0268e97151",
+          "sha256": "c87f3ea842a1ea0e77789b9182fbc93ab63881cb20b632ff6740c822b7f0dbe8"
+        }
+      ]
+    },
+    {
+      "repo": "rampstackco/claude-skills",
+      "commit": "059051082ab0c1dc02d271506d7318eca6b55f51",
+      "skill_directories_complete": true,
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/LICENSE.20261109",
+          "bytes": 1070,
+          "git_blob_sha1": "9d5acfd7a3ad1c3c164a15834a06ff101197cae4",
+          "sha256": "7957f4b291988f21be7cb75637d2efb6edd0369a95d3814cac7ef931f7f10b7c"
+        },
+        {
+          "upstream_path": "skills/brand-discovery/README.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-discovery/README.md",
+          "bytes": 356,
+          "git_blob_sha1": "595397a0fe9e42aae62008ebc93ec18b0ee353a7",
+          "sha256": "40e75157d235543892ea95b039a342cc8b0bc17a25de52bfb13c8728b8790cbc"
+        },
+        {
+          "upstream_path": "skills/brand-discovery/SKILL.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-discovery/SKILL.md",
+          "bytes": 9702,
+          "git_blob_sha1": "ae3e8012523a6d50f1c0ece6bb5caa60f364df6c",
+          "sha256": "1826d52344ec219bf964ac594ed22ac3573b046999ff56b39ec3f7c05cda773f"
+        },
+        {
+          "upstream_path": "skills/brand-discovery/references/discovery-report-template.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-discovery/references/discovery-report-template.md",
+          "bytes": 4597,
+          "git_blob_sha1": "68844e78bb3a7672ec9788979a3cbb3d5f754bee",
+          "sha256": "bd86756ba7e05d2a14017447976e699ec7943cc49f9162574617ade7aa65c19c"
+        },
+        {
+          "upstream_path": "skills/brand-discovery/references/interview-guide.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-discovery/references/interview-guide.md",
+          "bytes": 6923,
+          "git_blob_sha1": "340ee32bb32ba1db4d90934dfa6275e44a564563",
+          "sha256": "284421b5bd389ebcd0f0eac36beff90eb5661f691a12f8e62b04652d29b83c46"
+        },
+        {
+          "upstream_path": "skills/brand-ideation/README.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-ideation/README.md",
+          "bytes": 355,
+          "git_blob_sha1": "e4ea156e81f5e3193253c7ce8cb525c67a44fd58",
+          "sha256": "2c579c63015df496456f28941e32c0551622d71a42f2d4c5ee9a6b2004d5987d"
+        },
+        {
+          "upstream_path": "skills/brand-ideation/SKILL.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-ideation/SKILL.md",
+          "bytes": 9612,
+          "git_blob_sha1": "e449b1b3872af208dc80d378d4e29d93cf47d3c5",
+          "sha256": "af477efaf396388b0c957b3c17de27c57847e7ae8b07d2e142c22cfa4d4e77d7"
+        },
+        {
+          "upstream_path": "skills/brand-ideation/references/ideation-output-template.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-ideation/references/ideation-output-template.md",
+          "bytes": 4755,
+          "git_blob_sha1": "e3d208cac7b3568cda671efea2dbd21135f75f13",
+          "sha256": "57e4312d98f9db6f527bd2913480a6b6b6febc9a5756305db9c5db6eb771252e"
+        },
+        {
+          "upstream_path": "skills/brand-ideation/references/naming-evaluation-rubric.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-ideation/references/naming-evaluation-rubric.md",
+          "bytes": 6497,
+          "git_blob_sha1": "44ba95073a52de400509fd8742933af563260953",
+          "sha256": "80ed4223a90d4bd8fb1db9c961a8ec3771b352a3620feca0c0bd8e0fe8b3d0e3"
+        },
+        {
+          "upstream_path": "skills/brand-identity/README.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-identity/README.md",
+          "bytes": 355,
+          "git_blob_sha1": "bc8ff82447c84235ccc187ce57a8ffc71dbac50a",
+          "sha256": "c7e7280acebdb3f39790349e22f032cfb6421f74e09c47a38db144385a416544"
+        },
+        {
+          "upstream_path": "skills/brand-identity/SKILL.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-identity/SKILL.md",
+          "bytes": 10632,
+          "git_blob_sha1": "f3a8ef85cffcc47d639cfb3406d188e58d5ec9ce",
+          "sha256": "91dc7f2acc3a0ad57867329adc327c0d531e1df3881c83f4115409079a67b63b"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/contrast-and-accessibility.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-identity/references/contrast-and-accessibility.md",
+          "bytes": 6761,
+          "git_blob_sha1": "d0f964e66517fcc61b8608117d9168b143dede54",
+          "sha256": "180f2472fca45b4ac0cf17dd8c23dc2b1dcc2ee408cf908387e44b863b0b494c"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/identity-system-spec.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/brand-identity/references/identity-system-spec.md",
+          "bytes": 6266,
+          "git_blob_sha1": "4b08849cfd0b1a7bf9f9a4b0cfb63c899be98999",
+          "sha256": "57c239004570288f85abf57b6ff14b621b6f2b26da339187479e420891abf168"
+        },
+        {
+          "upstream_path": "skills/logo-design/README.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/README.md",
+          "bytes": 352,
+          "git_blob_sha1": "e27771164528f66511b6e17bf7f9011b8bac9517",
+          "sha256": "159ae7d0c15cdd968285086090c68acdac18063e59f8ee2a52836d67b7465440"
+        },
+        {
+          "upstream_path": "skills/logo-design/SKILL.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/SKILL.md",
+          "bytes": 23396,
+          "git_blob_sha1": "75d1e26bd754a4913dd7bebfac9dcf566868465d",
+          "sha256": "81f4dce86b45e901a89c93fa1f5f2e82d6ecb1754fe1ac7b6077d78de1db0711"
+        },
+        {
+          "upstream_path": "skills/logo-design/references/application-contexts.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/references/application-contexts.md",
+          "bytes": 17153,
+          "git_blob_sha1": "a9cba889e90eaf6c807b0faf5e7b37d897e536ee",
+          "sha256": "5aad2091c8e66c6fc256e75b307544a23095e387d5c8e3f6c493ee0add9fb70e"
+        },
+        {
+          "upstream_path": "skills/logo-design/references/architectures-explained.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/references/architectures-explained.md",
+          "bytes": 14068,
+          "git_blob_sha1": "4eac4c831557e626eab69b6da79bf69b96a39971",
+          "sha256": "4e23b69addb6837c148c4fd0a23a3cd4586af83c64fdb65a3abcf20cff7a080b"
+        },
+        {
+          "upstream_path": "skills/logo-design/references/category-conventions.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/references/category-conventions.md",
+          "bytes": 24902,
+          "git_blob_sha1": "b2735d261e4673c70f322d9ee910f23798b7af3e",
+          "sha256": "fa1db8e1388e8678048d0e50eece780d432ea812d03e29ae7797c09d05768b15"
+        },
+        {
+          "upstream_path": "skills/logo-design/references/client-package.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/references/client-package.md",
+          "bytes": 10036,
+          "git_blob_sha1": "e41adf049560a2071db6253a555cd6ecdb4494f6",
+          "sha256": "47f4ebb7f34ef971a838f2199dc166cd1a7bab7f11646da9755d0233a3660bd6"
+        },
+        {
+          "upstream_path": "skills/logo-design/references/example-variant-spec.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/references/example-variant-spec.md",
+          "bytes": 9457,
+          "git_blob_sha1": "111b6b26a4f460401261dee6608487f075026e51",
+          "sha256": "7c10711a934233c2b0210d345acae580bbe15aec06dc7feea6cb3bb32361d05e"
+        },
+        {
+          "upstream_path": "skills/logo-design/references/symbol-approaches.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/references/symbol-approaches.md",
+          "bytes": 20630,
+          "git_blob_sha1": "1cc31167ba062d5e9594209f80aa3fcf089de68d",
+          "sha256": "cba62bc2c40ba78e9a42fa3958351093caa5aca5f496701adf533837ed2caf55"
+        },
+        {
+          "upstream_path": "skills/logo-design/references/typographic-registers.md",
+          "archive_path": "已知技能/源文件/rampstackco--claude-skills/skills/logo-design/references/typographic-registers.md",
+          "bytes": 20910,
+          "git_blob_sha1": "2a5cdbbc113528934883f529769bfb5a5e8abf57",
+          "sha256": "5b377e8e698fea94ab8cae1aa93106f72a3cf431587c48e4a78032a455a4a23e"
+        }
+      ]
+    },
+    {
+      "repo": "fatihaydost/brand-identity-skill",
+      "commit": "3ba008e57b9363cf2a9117303237f951a7c1ef00",
+      "skill_directories_complete": true,
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/LICENSE",
+          "bytes": 1069,
+          "git_blob_sha1": "044de06aa8b0476545f944dff0c3c5b0e25c8d1c",
+          "sha256": "e5752c117331230800416425ef6ac33d214747e6509a2241d93d76ab9d8b8d6e"
+        },
+        {
+          "upstream_path": "README.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/README.md",
+          "bytes": 12004,
+          "git_blob_sha1": "556f9ac361d46b3637ef1c0d0b5e4bf826d7508f",
+          "sha256": "61852574af9d8f6cccd23cc73d98de2807b1b54d2a5be0139b2cfe9c362e78d4"
+        },
+        {
+          "upstream_path": "THIRD_PARTY_NOTICES.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/THIRD_PARTY_NOTICES.md",
+          "bytes": 27020,
+          "git_blob_sha1": "9a013f4919458f67290dbd903ae9107946ed5e1f",
+          "sha256": "1a31a0e175afbea9dc230a731d569a65b2e25b18a6f1e1414249f3391e0e61d0"
+        },
+        {
+          "upstream_path": "TRADEMARKS.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/TRADEMARKS.md",
+          "bytes": 2052,
+          "git_blob_sha1": "1f13d7eae07e316b1c339340c87066aac46cb263",
+          "sha256": "edf45a856f3f9872fac1280bf98d26393cb3a88d2272e3f553a5fbeacf2ea556"
+        },
+        {
+          "upstream_path": "requirements.txt",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/requirements.txt",
+          "bytes": 56,
+          "git_blob_sha1": "a9fa6da21614055adac96f128f862756cfb52495",
+          "sha256": "4b1c3cbd8a9b552b5cd8fb337979f5df39c7e2df4f794a5dc805f1df800e18a5"
+        },
+        {
+          "upstream_path": "skills/brand-identity/LICENSE",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/LICENSE",
+          "bytes": 1069,
+          "git_blob_sha1": "044de06aa8b0476545f944dff0c3c5b0e25c8d1c",
+          "sha256": "e5752c117331230800416425ef6ac33d214747e6509a2241d93d76ab9d8b8d6e"
+        },
+        {
+          "upstream_path": "skills/brand-identity/SKILL.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/SKILL.md",
+          "bytes": 8140,
+          "git_blob_sha1": "21ebeac313d5187857d155efa7f4ef5e776eb5fc",
+          "sha256": "3a94503fcc5b149c78e74b71d260ea3470d0804dc2aaef8d1e37dd67f7cd3a83"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/ai-defaults.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/ai-defaults.json",
+          "bytes": 8280,
+          "git_blob_sha1": "b4baabc68aadb29e3f56809b2b45b242d07cd20e",
+          "sha256": "252ca7f8e4be61435f107987e20295bcd9098a7c0c1fcfb8e5a80a975f2f02ac"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/fonts/catalog.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/fonts/catalog.json",
+          "bytes": 1174768,
+          "git_blob_sha1": "fcb04906fecb1c90e660225051e7e6649da69935",
+          "sha256": "93ae9d0dd623ad5e20bf959124d36b91fd561be44e0c9bc02b75c5378f989492"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/fonts/gf-latin-core.txt",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/fonts/gf-latin-core.txt",
+          "bytes": 11718,
+          "git_blob_sha1": "0cf1cde3af1716bc0d428bbad0a5addde61efbd1",
+          "sha256": "5dbe7a97649ea3c811c40dd70e0c53802ef111050eac70aa4b6194565510ed64"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/i18n/en.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/i18n/en.json",
+          "bytes": 21850,
+          "git_blob_sha1": "afb058fd47dda066c3010d56cbb80ed6c4a9e934",
+          "sha256": "9d9fe709b3d51a398c51242e62c0b090d9da4e72755fa295484f31dbf1ea7752"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/i18n/tr.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/i18n/tr.json",
+          "bytes": 23234,
+          "git_blob_sha1": "90c05b8b1e67aeed7604a10b67923e68c71b68f1",
+          "sha256": "b01f80f5abeb4c2c77fa36ee32ec6b6072230b0fa5f7cc57e23ad80082fa9071"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/languages.json.gz",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/languages.json.gz",
+          "bytes": 111852,
+          "git_blob_sha1": "7fc3aaca58c1704fa572e939e74e45fc9cbb3c02",
+          "sha256": "e5b82892e78e45e08bae7845744f3f26a5801f2b6ea7deeee4d0ec470a6ea3a1"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/library/catalog.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/library/catalog.json",
+          "bytes": 579812,
+          "git_blob_sha1": "4269b841b64dfcf2ac355c328fb8d3d925d39967",
+          "sha256": "5051b66673d230ee1effab9739755a53ca9c22ea008e6bcc72a0ba466f282e2e"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/library/classifications.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/library/classifications.json",
+          "bytes": 121868,
+          "git_blob_sha1": "a5ec283a5fa8e8150686a79b89534479dae75e0b",
+          "sha256": "907e70e35ff57953fcac3deede595238fe915a9432049504808f3969e57707ae"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/library/gallery.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/library/gallery.html",
+          "bytes": 312141,
+          "git_blob_sha1": "b61decfd573d890aa70f6adb6708ff105279d6c7",
+          "sha256": "a46745360f992d2c4a08ad1193b9647aa947fb13696c697de1d57bb7cfe78d2e"
+        },
+        {
+          "upstream_path": "skills/brand-identity/assets/library/stats.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/assets/library/stats.json",
+          "bytes": 31611,
+          "git_blob_sha1": "4729bdb9f63e0d5febb0ca22c03166f914da0503",
+          "sha256": "6d7cf233156f84fb31a0a69b5b480ee98c9d32d3ccea5092daac0b90e370d275"
+        },
+        {
+          "upstream_path": "skills/brand-identity/evals/evals.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/evals/evals.json",
+          "bytes": 10666,
+          "git_blob_sha1": "723fb4bba951170c09047411484f158269869882",
+          "sha256": "21e3a3d435762e314d751164cf56a3a8fc7db22073d4fd954fe21882bb142369"
+        },
+        {
+          "upstream_path": "skills/brand-identity/evals/trigger-evals.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/evals/trigger-evals.json",
+          "bytes": 3601,
+          "git_blob_sha1": "2d7fb015c977970a8fd69f2ad32d8701ebdbb9f6",
+          "sha256": "b98bafc1dc396519675524594e0c1a1156423ed16a8d479ab15f99da13c6e56a"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/accessibility.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/accessibility.md",
+          "bytes": 3710,
+          "git_blob_sha1": "bffd0c8076cfc626aa35e59f88a19a726967d2c9",
+          "sha256": "ae9b1a05a983c76b1dc084d09371acff29e6833dc7776e4f8e4d49ebcd4e0d42"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/ai-defaults.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/ai-defaults.md",
+          "bytes": 3061,
+          "git_blob_sha1": "c8a31b3ca9016f13fd2c35f970e93c1f0c27eef2",
+          "sha256": "dbcd0b40a25be5f75bdb3cde81359fd38f7b365d73807ffa04398e3f504d21f4"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/cohesion.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/cohesion.md",
+          "bytes": 4606,
+          "git_blob_sha1": "bdffb02a38dc5a5048f266ebe6d1f5f4d3d30de1",
+          "sha256": "158f6c5512281dc05dab7494db4b76377b3322b868d8490e07ef0e6b55622d10"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/color.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/color.md",
+          "bytes": 4961,
+          "git_blob_sha1": "16d12feca87a6e2a5f80e71d8efce75693996875",
+          "sha256": "dc1d1245216f8e14ed3144716769361ad05ae896fe213f4b26a5ca7e9010bf0c"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/critique.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/critique.md",
+          "bytes": 4009,
+          "git_blob_sha1": "2c91dce9f5ee2ff508e6998ff7bba7f975cfc27c",
+          "sha256": "56f3476fb5844cdf63b08ce3d13cbb478a7995b05306077c188b1af5006834bc"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/discovery-brief.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/discovery-brief.md",
+          "bytes": 3768,
+          "git_blob_sha1": "ec40910df698eb4db0e1afdf5c056fed6cce5683",
+          "sha256": "c3d559d5bbf6b7e582c4b9c555bfd0335d7404853edd7addd42e7dfbb26419ef"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/kit.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/kit.md",
+          "bytes": 5118,
+          "git_blob_sha1": "b99e751a5f18ef8456ef85c8798b62801a736324",
+          "sha256": "d5226b36586272f8bede6f9baab06aeb9ddf02f7ee076360b11446e28c685f13"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/logo.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/logo.md",
+          "bytes": 6137,
+          "git_blob_sha1": "7db31e81122ea106eab46f82d3a5ce6a68299054",
+          "sha256": "b79656a8198863ffd5600bb650b778f0012f4f40da1c304f40fc7a5ad7155b5c"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/reproduction.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/reproduction.md",
+          "bytes": 3819,
+          "git_blob_sha1": "c86193e104c98ab4c1f7e7c79220ac46bea2f8a9",
+          "sha256": "3ae5f0d6ce891d6fb58f97131c5563e25ff727b66f3415128dbb9a5338019dea"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/site-preview.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/site-preview.md",
+          "bytes": 3753,
+          "git_blob_sha1": "fd4620e8fb8fa3d655d58da06376f73e2a86b88f",
+          "sha256": "d1e179620ffb56d1aa1b299c0bedb52e08a4843141019afd95bb839ff4d4e51b"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/tokens-export.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/tokens-export.md",
+          "bytes": 3708,
+          "git_blob_sha1": "6e465bc27f26d36c1a7747f00e8c5325db8b988f",
+          "sha256": "56073f4db409907d73e9e68c50d116de236ecc1d8ece3246b4ece953f43d4223"
+        },
+        {
+          "upstream_path": "skills/brand-identity/references/type.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/references/type.md",
+          "bytes": 5198,
+          "git_blob_sha1": "a6c7453ea00dba53638528b19f8a399cc3d5cfcf",
+          "sha256": "c813a8bfecd9719942c77f99f6dffca907423a165d22b0149fc413ae90eba648"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/brand.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/brand.py",
+          "bytes": 17396,
+          "git_blob_sha1": "44daffdde18c10df99ba95c940e03c45f9880ecd",
+          "sha256": "4353dffbd5b71e84e0b0c089eaf22fb8fe3a761b2bb42bb1c3f517464d83c9af"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/build_catalog.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/build_catalog.py",
+          "bytes": 34492,
+          "git_blob_sha1": "1e3c7ca68a46162d869518a5342eeaf6269a6e70",
+          "sha256": "a1c57773d3afb18a8517d120fb33524c8f880ba01665b4b69830caa63cef039f"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/cdplib.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/cdplib.py",
+          "bytes": 79016,
+          "git_blob_sha1": "a4462b9fabe2999d9db3a9c5610117dd67e00c64",
+          "sha256": "93a59f151991fe63896562129282bfa2d0c5db9e9cf29b7b08a8ba4691c3a428"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/colorlib.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/colorlib.py",
+          "bytes": 34011,
+          "git_blob_sha1": "a107acd2d87db64f77db59d5d8f6cf46fa229add",
+          "sha256": "13bb3cc730212b790093ad4a30d2e3ac98e6f1db818864c677071f52a06aa2bd"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/export_tokens.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/export_tokens.py",
+          "bytes": 24243,
+          "git_blob_sha1": "f7ffc0a37a3a151f5abdc55f540c0ed030242035",
+          "sha256": "844d7219be95db4d7945ded50c4d64d0f1fd94ec12d0690dfa070a1b8ec35126"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/font_audit.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/font_audit.py",
+          "bytes": 50153,
+          "git_blob_sha1": "0dfff14bcd07d10dd06245d906cd3b2c1b0e8909",
+          "sha256": "d8c1b8a7bc50b158b6ac8176ac34d6f2b15e00366c9c82cc49df294c5c0d7e8a"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/i18nlib.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/i18nlib.py",
+          "bytes": 9416,
+          "git_blob_sha1": "a3f7221ae0cb4db2dd4c25fb6be3435562793048",
+          "sha256": "33b72e03848afdc80a4c0b0c7dc77843fad884202b3045928f543584cd2d2efd"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/identity_board.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/identity_board.py",
+          "bytes": 18842,
+          "git_blob_sha1": "cd5ec30cf326d79e5e04c6d15bb9393ee0b99957",
+          "sha256": "2a77f1825323c91747ead826f9c1f54c0bc2a03117c8cefdf62f1701420274d0"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/identity_card.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/identity_card.py",
+          "bytes": 28971,
+          "git_blob_sha1": "5b9213f3984166f402fc41aa551196fcae5befb0",
+          "sha256": "136782c24fe4f187b99a617b9e531cdbeac8571f7cddf353ee6139c03115d503"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/identitylib.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/identitylib.py",
+          "bytes": 16678,
+          "git_blob_sha1": "801fad2e25c61676186eb317c40dcffc7ad34974",
+          "sha256": "717857c54179f5a6fee29c444142694c45d4c19b7734596e87bc1c9aebc987aa"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/kit_build.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/kit_build.py",
+          "bytes": 57427,
+          "git_blob_sha1": "c27c54ffeb65d2b9515d676f7bb94b94b472d153",
+          "sha256": "0b2a62715cfa04d7008990103fee9c6c74e94d0729b33df4de23f827fa214cd3"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/logo_audit.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/logo_audit.py",
+          "bytes": 53254,
+          "git_blob_sha1": "40618faa3bfef7e79f90fdd44ccf51365330bd17",
+          "sha256": "14a27d38c04a889d8665a2e128e2151ed9ef0902702ce8fb5b397cda87f7b551"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/logolib.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/logolib.py",
+          "bytes": 128182,
+          "git_blob_sha1": "1c66740035a6dba191cd467df1c976bba326d4cd",
+          "sha256": "8b93bb6c50b7ac101b4228a72f6e0c7995bbe6788bd0f439e30eb11745db6394"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/palette_audit.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/palette_audit.py",
+          "bytes": 52079,
+          "git_blob_sha1": "933e3c3ec5b6b68ae907030aa1f7b4642b880be6",
+          "sha256": "a275ff21afa4d64bfa9d6037c718a116f5b00b8f2eaf8d6034d0062d89176b1d"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/palette_board.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/palette_board.py",
+          "bytes": 38662,
+          "git_blob_sha1": "9e75222ab83caa86067fd93d6f896fe9b76d365c",
+          "sha256": "127b90106f966c9755d2fb5e6e9c4afb007eebf3d6bb3c11680aae3baf0d0f77"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/palette_build.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/palette_build.py",
+          "bytes": 56462,
+          "git_blob_sha1": "4fcef8c0ec6f91f1ddc0d5add306c2d665307e1a",
+          "sha256": "ac0be8f3c64131555025edac746af48c689a703c656460e13e7982576fe85968"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/pipeline.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/pipeline.py",
+          "bytes": 30068,
+          "git_blob_sha1": "015b32b32995502b6e4e605bde2970f401990c28",
+          "sha256": "291ea431bd18a2f65f2fd49efad082b6c10777a6b30c5317bd731bc744e60a59"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/presentlib.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/presentlib.py",
+          "bytes": 39001,
+          "git_blob_sha1": "c9dfeb401111a01ce83f1309c560d137033343c8",
+          "sha256": "c7e656e1eb6d0b16ab8e7d65cec8f139c28bcad75d535dc15e3142db888ce5f9"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/pydeps.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/pydeps.py",
+          "bytes": 7367,
+          "git_blob_sha1": "96dcea97910f16174889386dbb2dc7ea692cfed0",
+          "sha256": "8f9c78071e67365a6b878f941ba3bab4382d76a00af0b5adaf00cf8dd8f67139"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/render_png.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/render_png.py",
+          "bytes": 49938,
+          "git_blob_sha1": "d0b8f15e55775ff40f5bee3bd5d207e084506136",
+          "sha256": "b64fc1750395a9ed6adea1164c1407b2a8217ef0355cf3ad4644516017c62fb1"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/search_library.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/search_library.py",
+          "bytes": 11763,
+          "git_blob_sha1": "cb6ddcfe3c18642b7d6d7c2385f54c1cf39a171c",
+          "sha256": "77d0a4813d7fbbc8105292f15a567979496d35578c6965681a3c66112dd8d41f"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/site/README.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/site/README.md",
+          "bytes": 1596,
+          "git_blob_sha1": "de5ff5d62012c8dbbd2248cd47af2855c7b0815d",
+          "sha256": "f6924b56c0c09765e9d45d70e941fdda3ddd37b255caa9cff9c4d320f531ccdf"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/site/selftest.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/site/selftest.html",
+          "bytes": 1182,
+          "git_blob_sha1": "71b0abc1ca7a50591e49295f9295af1becdc064a",
+          "sha256": "2fa445a8a797b6b5262510feb77584a6808720256165761da9cc3fa9e2b94bff"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/site/site_engine.js",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/site/site_engine.js",
+          "bytes": 97716,
+          "git_blob_sha1": "9102bfec4a44c0bf070519908579f724c4ca46e8",
+          "sha256": "fd6e95bcf34a037d617c5015d8cd80f2765d805232eb7bce615972d9cdc5f233"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/site_palette.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/site_palette.py",
+          "bytes": 73983,
+          "git_blob_sha1": "ac6520cd396648c7cd8d0ef874624650469cb2c7",
+          "sha256": "7939fdfdd2b01501ee2a6c3d67e4f918af9b9c8ffa15c332c46da7b28eebced9"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/site_preview.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/site_preview.py",
+          "bytes": 53818,
+          "git_blob_sha1": "610a07c9772210fc9a363b65940fb4dcec43bfbe",
+          "sha256": "7ef6041d5944eb3871fb9581209dfd2a18093ac501c87f7c8469516d4c41ce32"
+        },
+        {
+          "upstream_path": "skills/brand-identity/scripts/typelib.py",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/scripts/typelib.py",
+          "bytes": 31195,
+          "git_blob_sha1": "15b7755f5557731c3b9db9dc77f29926b51d58c8",
+          "sha256": "db1ebab6270f089d2013819ee379ca2106466dbe13d68564f864d1353c8b99ee"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/board/board.css",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/board/board.css",
+          "bytes": 4353,
+          "git_blob_sha1": "395f6fc6e4813c1a0ac2edf54c9197bc5d1e61a7",
+          "sha256": "314bcb794700822054963ced2bbc656e79cfd4664346ef3982f2622e720658c8"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/board/board.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/board/board.html",
+          "bytes": 919,
+          "git_blob_sha1": "f446b608864a14942e7d5f2cc4d5c865b9bd8a39",
+          "sha256": "332caae3a97e35e00dfcc68412edc16775e9ba0030181183d35ce324faedc3c5"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/board/review.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/board/review.html",
+          "bytes": 247,
+          "git_blob_sha1": "6b82e924df1fefba8fd23f4a55f76f4b8bce8c38",
+          "sha256": "bdeb532737c3a980a66345e29845e75521541c5938410cb0bfc86cc6767b0ba0"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/card/card.css",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/card/card.css",
+          "bytes": 12321,
+          "git_blob_sha1": "90818669b9909d4889e7909a36ee86ff4ae294e5",
+          "sha256": "d73573743971d71c1fd8ac0c55a4112af62af3ffda79634bcc577a456254d9c9"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/card/card.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/card/card.html",
+          "bytes": 5558,
+          "git_blob_sha1": "c943a361000aa54d4ac73516191c020b63e3443c",
+          "sha256": "798f511319d0e5bd340ed96941c0c0c8d9fcc5d6bd10ef399ccebb577d298d86"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/brief.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/brief.json",
+          "bytes": 551,
+          "git_blob_sha1": "2fd9946f5145855b4cbfa7be69b0c0160ca3131d",
+          "sha256": "993009597a2dbc920458e0ecf18c85fdd65bd8c3b6762f5583888aceffe95631"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/A/identity.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/A/identity.json",
+          "bytes": 3086,
+          "git_blob_sha1": "fe17525e100e0e5dd6191c8082e3b74434c2a071",
+          "sha256": "6d610327979798612cb172a1f462f0852f21ca3fa680101b1fffddff346e3361"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/A/logo/build/horizontal.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/A/logo/build/horizontal.svg",
+          "bytes": 7245,
+          "git_blob_sha1": "4bdd90fbdff8b7d5973687e5b7a01f3b7dab1081",
+          "sha256": "bc03d41822a3a65f1eec6eabefddff0fdc6ac41a713b5c4aa48ab5aa71d50c76"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/A/logo/build/stacked.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/A/logo/build/stacked.svg",
+          "bytes": 7212,
+          "git_blob_sha1": "fb82ba3f311e25b7535eb04054365fb8e66e6182",
+          "sha256": "6b15b7fb2fdff53abeb5ae1d3fc146699ccdb2cca8118ef90fbae30a77387f0e"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/A/logo/build/symbol.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/A/logo/build/symbol.svg",
+          "bytes": 404,
+          "git_blob_sha1": "cf9eb2217007cc70c710ef7d3b6d5486ce4ac774",
+          "sha256": "4fbd4dbf6019b2157ff026cd9573570bd868a9455d77bb722dd458b39798be98"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/A/logo/build/wordmark.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/A/logo/build/wordmark.svg",
+          "bytes": 6816,
+          "git_blob_sha1": "c266b88d0139c74bcfd7963320c88565fbea201d",
+          "sha256": "eb168191ed8a97c6e44d326d36d8d841acd80dc09379007b580ed124910257c2"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/A/logo/symbol.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/A/logo/symbol.svg",
+          "bytes": 404,
+          "git_blob_sha1": "cf9eb2217007cc70c710ef7d3b6d5486ce4ac774",
+          "sha256": "4fbd4dbf6019b2157ff026cd9573570bd868a9455d77bb722dd458b39798be98"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/A/palette.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/A/palette.json",
+          "bytes": 6080,
+          "git_blob_sha1": "2e001fb72cc35f7801fa3371eb46106fa642ccea",
+          "sha256": "3d15865e8fb06e37ad6a86e0ad0149c48c932ed5a895d1a63a5ab3a8992350bb"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/B/identity.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/B/identity.json",
+          "bytes": 2894,
+          "git_blob_sha1": "ea9080be4c16ac51ce0843ed9b380f73a1d63f19",
+          "sha256": "6f2a71df7ab8711721f5add2d283fb2aba495d479e5f0157499bd73045a5b7a3"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/B/logo/build/horizontal.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/B/logo/build/horizontal.svg",
+          "bytes": 7891,
+          "git_blob_sha1": "329c6ab679a90a82014e506d0d2307a734215a01",
+          "sha256": "986924a038f6dd818e9789a1d27cdb2abc5bc2bba1b7cfb30407b8218d1e7107"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/B/logo/build/wordmark.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/B/logo/build/wordmark.svg",
+          "bytes": 7891,
+          "git_blob_sha1": "329c6ab679a90a82014e506d0d2307a734215a01",
+          "sha256": "986924a038f6dd818e9789a1d27cdb2abc5bc2bba1b7cfb30407b8218d1e7107"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/B/palette.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/B/palette.json",
+          "bytes": 5204,
+          "git_blob_sha1": "a9118162a1448701b1c36a437edde6eca2ea9f1f",
+          "sha256": "a6a543fb7707b81a38f31acc388b3633a25855d21378a30e29451a410e43f689"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/C/identity.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/C/identity.json",
+          "bytes": 2976,
+          "git_blob_sha1": "5976e45f4b91992d14d38f7ca55a7548cd244557",
+          "sha256": "dad3bc0391348e26a62382a0e58a2432b42bb8878b709474300bdc99de2e8627"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/C/logo/build/horizontal.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/C/logo/build/horizontal.svg",
+          "bytes": 5635,
+          "git_blob_sha1": "b056acdfcf0a80af6344481ae342f3b3a644a73e",
+          "sha256": "ecb713c330d69ca747d83f6daad755f1a80d8b0528f6b587796482187b1b3a60"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/C/logo/build/stacked.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/C/logo/build/stacked.svg",
+          "bytes": 5603,
+          "git_blob_sha1": "e2537f3b9ba9ab80a16c125fad3ddac686cdb009",
+          "sha256": "a66c10d1f4494b891d2070952cca3b5edd487c781fde97deb4523624353d00c7"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/C/logo/build/symbol.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/C/logo/build/symbol.svg",
+          "bytes": 316,
+          "git_blob_sha1": "13e6256c74c0534b74d09e9aeda7d56c4406ecd6",
+          "sha256": "42f14a60d94c13c7a161fbe62a9e6c4043dab8ce3e57b1d215ca4bceccf043b3"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/C/logo/build/wordmark.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/C/logo/build/wordmark.svg",
+          "bytes": 5294,
+          "git_blob_sha1": "56963eba641f79adc4501b1f408b977edf5b6fa2",
+          "sha256": "9b50bca281089583491596885a1d4fdbb5332cad8191d13f0a5afe8c258228e3"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/C/logo/symbol.svg",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/C/logo/symbol.svg",
+          "bytes": 316,
+          "git_blob_sha1": "13e6256c74c0534b74d09e9aeda7d56c4406ecd6",
+          "sha256": "42f14a60d94c13c7a161fbe62a9e6c4043dab8ce3e57b1d215ca4bceccf043b3"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/demo/sets/C/palette.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/demo/sets/C/palette.json",
+          "bytes": 5001,
+          "git_blob_sha1": "ca99732ebbd246fc5a378c67158e8d90bfee836d",
+          "sha256": "88357947d05eb889a27ccd91ed4fb3c39cef8a7d4f3f69e0726e4ae267b46fd9"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/identity.example.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/identity.example.json",
+          "bytes": 3487,
+          "git_blob_sha1": "9317796915810d6292dba10efdcaf7d3b093fe14",
+          "sha256": "c6d5e20c63b994bf79e34a3d76fa9c9a2177eda6710e42cb3f3f4400b7917e45"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/kit/kit.css",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/kit/kit.css",
+          "bytes": 15776,
+          "git_blob_sha1": "d5bbb88a75b90b42af3d4bfb939d081744c9da37",
+          "sha256": "eab5a2853ae13490291a585b79ca131c974341cda02d18a958acc7cf55a9c1a9"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/kit/kit.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/kit/kit.html",
+          "bytes": 227,
+          "git_blob_sha1": "28833a7684135463b79f2a4cd38dd98f263d880a",
+          "sha256": "0e8f21f1c6faf2c4eef9848580a8f59de315559c24f437fb0e09ef5829a63ec6"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/kit/page.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/kit/page.html",
+          "bytes": 582,
+          "git_blob_sha1": "2d507ac7c5a01584fbfbd93c9cc9b48f8c2e2bb5",
+          "sha256": "c7759a5bd61c8fc5d13a51eb318e46d7f57f3b96a9eabf57080e64dcbe52dbfd"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/mock-sites/OFL.txt",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/mock-sites/OFL.txt",
+          "bytes": 4538,
+          "git_blob_sha1": "9a39a8edc6fe70ee6e72d3db359cc6d7e981af50",
+          "sha256": "c27a3c53c3beed7f5c26853afa15991478ff7145d3754a36b0382f84e10c0d03"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/mock-sites/app.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/mock-sites/app.html",
+          "bytes": 149049,
+          "git_blob_sha1": "590ab27277e18da7918b0ef5b0bb2f5aa0495e7c",
+          "sha256": "192b55d53a65e30093910a32317e29e5b3420da9a98aa11bf85ce42171834479"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/mock-sites/card.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/mock-sites/card.html",
+          "bytes": 120243,
+          "git_blob_sha1": "3694ff9408689e29de654c95208d14fa14cddfc0",
+          "sha256": "9ca3c75bb33f80f5d8ec8dcbde55babb31170b64c2d8e3822a416e63a1494ec1"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/mock-sites/copy/README.md",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/mock-sites/copy/README.md",
+          "bytes": 4264,
+          "git_blob_sha1": "c65cbf021e68df6c0c0c546554dc29026876e21e",
+          "sha256": "106c02eb1c8fefddddedc0ecd6c8eef4651289a951fc4a3e4bb1e09eea4cad1f"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/mock-sites/copy/en.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/mock-sites/copy/en.json",
+          "bytes": 12827,
+          "git_blob_sha1": "80ba7d264ebe90fc4bcea8d6318bde8d1f215249",
+          "sha256": "8799d6b2f4c829e6c4197472d7298f683ee2fdb38da9e59751e5ff238e6d8882"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/mock-sites/landing.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/mock-sites/landing.html",
+          "bytes": 138110,
+          "git_blob_sha1": "d4194202179c65c98ae097538eecb0af8d0568a6",
+          "sha256": "9104f0da069c8821fbe9e1668d7e7a118cbb58582fb4b98f9a8efc90766d49c7"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/mock-sites/product.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/mock-sites/product.html",
+          "bytes": 120228,
+          "git_blob_sha1": "c3a3888cc38adb960b8f295b22dd0e6316602db0",
+          "sha256": "7cc46615362c9a96a72589da59f4b8ec3d9893df4a0013cd6d1d6801bfbae366"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/mock-sites/social.html",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/mock-sites/social.html",
+          "bytes": 118556,
+          "git_blob_sha1": "5a89eeb215a4d2a2269ed8e586766b2c837131f4",
+          "sha256": "eb54e5534f7252ef6972aae80ead2a95f58387ac140e0d0383d13ea503f8b658"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/palette.example.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/palette.example.json",
+          "bytes": 9438,
+          "git_blob_sha1": "695fbd78e814edd0e7bd3a245f2fda75fd3c8038",
+          "sha256": "71fa253ae3105c8e58e65436f6731e10ba45fbeca596c27c2b6bbf5d6cd02440"
+        },
+        {
+          "upstream_path": "skills/brand-identity/templates/sets.example.json",
+          "archive_path": "已知技能/源文件/fatihaydost--brand-identity-skill/skills/brand-identity/templates/sets.example.json",
+          "bytes": 14041,
+          "git_blob_sha1": "bbc91883974478c9f108de7e541fe2e87fe337aa",
+          "sha256": "a5465040c1919687424fe497f5a7c64873502a11c0f1c2e33dc08ddc1835be80"
+        }
+      ]
+    },
+    {
+      "repo": "cofoundy/brand-skills",
+      "commit": "810e69db8971a3df75acf51261bd1b49a433e943",
+      "skill_directories_complete": true,
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "archive_path": "已知技能/源文件/cofoundy--brand-skills/LICENSE",
+          "bytes": 1252,
+          "git_blob_sha1": "0f1e49062486144192f069189199fbea73acdf45",
+          "sha256": "84151f64df2922275b49d05dcb53f7c1093fc3192cf343602ed4283f8551c80e"
+        },
+        {
+          "upstream_path": "NOTICE",
+          "archive_path": "已知技能/源文件/cofoundy--brand-skills/NOTICE",
+          "bytes": 2951,
+          "git_blob_sha1": "a1863ab5f6fe9f9990e468c0d86ff542f4a3e492",
+          "sha256": "bc1a3b95c3c49c89e475cd457658d5a32cf7c7d38b89598ae86c6a0df76bacb2"
+        },
+        {
+          "upstream_path": "README.md",
+          "archive_path": "已知技能/源文件/cofoundy--brand-skills/README.md",
+          "bytes": 9310,
+          "git_blob_sha1": "6f722984a4affb55c0b9812853df0217af57d189",
+          "sha256": "da4a6855c284c25e99f789e73a9e168c27c018d23f8d58e009970dd2ad7ca6ba"
+        },
+        {
+          "upstream_path": "skills/brand-strategy/SKILL.md",
+          "archive_path": "已知技能/源文件/cofoundy--brand-skills/skills/brand-strategy/SKILL.md",
+          "bytes": 10263,
+          "git_blob_sha1": "953211e5278e816e24350e270ecf195311c6bc30",
+          "sha256": "bfb3ac55b2e01567d8685341f15b41392b269e04b93cdc5118c432393589dbb8"
+        },
+        {
+          "upstream_path": "skills/brand-strategy/evals/evals.json",
+          "archive_path": "已知技能/源文件/cofoundy--brand-skills/skills/brand-strategy/evals/evals.json",
+          "bytes": 2614,
+          "git_blob_sha1": "e1fdb1d8efaa21c58fe1b2e53660106eceddfe4c",
+          "sha256": "2d97837d158732878f65da5553310efefd15975b4ccf9b04d7f9127092eccdfc"
+        }
+      ]
+    },
+    {
+      "repo": "dominikmartn/hue",
+      "commit": "a910e31cd24b45b9455c0c3502150413aa5a3b32",
+      "skill_directories_complete": true,
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/LICENSE",
+          "bytes": 1071,
+          "git_blob_sha1": "409719d0280e710502107d55ed06442f5c100fae",
+          "sha256": "36c580eea1b0bd48f40210d4a085c6a107099be2ca10530cb726490687740dea"
+        },
+        {
+          "upstream_path": "README.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/README.md",
+          "bytes": 2834,
+          "git_blob_sha1": "864bc1405bb45c2706659ecf8a00c97b81ac36d1",
+          "sha256": "f739a93614d7836da1b87fc3b30d1be6f94a8a45f7ada2632acb8505c5831ce8"
+        },
+        {
+          "upstream_path": "SKILL.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/SKILL.md",
+          "bytes": 62649,
+          "git_blob_sha1": "3dc68827a9aad57fb82b6a44ab264fa518bb27d9",
+          "sha256": "9d4632d0e7cc13c639a3d43c2de182926182c9cd1a8489e8ceb5f5535344d398"
+        },
+        {
+          "upstream_path": "examples/atlas/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/atlas/design-model.yaml",
+          "bytes": 8138,
+          "git_blob_sha1": "37ac68a05bdd0156ea334d861dc55f7684272a11",
+          "sha256": "64d0b0f0c0222e06fe22e130be31af5ede080c75cf5acbaac898c6908312caba"
+        },
+        {
+          "upstream_path": "examples/atlas/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/atlas/landing-page.html",
+          "bytes": 36075,
+          "git_blob_sha1": "56eb305a79bcce885b299807b4491cd6c00aebaf",
+          "sha256": "05e7ab8f08bdcfc48c3310ce28128cfb912541247493f7305882b6fb9ae406a4"
+        },
+        {
+          "upstream_path": "examples/auris/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/auris/design-model.yaml",
+          "bytes": 8611,
+          "git_blob_sha1": "aab1e4c80fc575794ade89cf5c2ff12df2ead247",
+          "sha256": "926b3a3badbe0a0d4caaba422d8ffcc2d1610a97b20b79db1a5becdeb3181bbd"
+        },
+        {
+          "upstream_path": "examples/auris/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/auris/landing-page.html",
+          "bytes": 27567,
+          "git_blob_sha1": "23297f44ddc7115d608e02b50ffd4e93e478cda3",
+          "sha256": "bdc21a2c7719717bd56d79d7a37883f50e5e10082b2b4e0c3af54763132bce88"
+        },
+        {
+          "upstream_path": "examples/drift/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/drift/design-model.yaml",
+          "bytes": 8559,
+          "git_blob_sha1": "252a6dd6b78241b2148207135911c89e4b51a073",
+          "sha256": "844e5017857c78058f94bbf758d248f9347c50c165cded9666d708dfdb720b36"
+        },
+        {
+          "upstream_path": "examples/drift/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/drift/landing-page.html",
+          "bytes": 40711,
+          "git_blob_sha1": "76cd0b4766bfd7b3a471a88facabfeedc5efaa85",
+          "sha256": "04a497885c1a25b95d1256415d30e58994de1e322573bc70a0a98666be41b118"
+        },
+        {
+          "upstream_path": "examples/fizz/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/fizz/design-model.yaml",
+          "bytes": 9871,
+          "git_blob_sha1": "dcda54c205a8218309c256dffef11081a4912fda",
+          "sha256": "f0eba637463c2127ab8839adc42657f1e28810fbf97992d9e55b07a797b3391f"
+        },
+        {
+          "upstream_path": "examples/fizz/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/fizz/landing-page.html",
+          "bytes": 41587,
+          "git_blob_sha1": "7cbbd2481aea0c92e30f43cb7e561228fdb20d60",
+          "sha256": "7c4d8b5962841ed62297a0bad9fb62b8538ed01d540edcb2a7dc26dac2eddc34"
+        },
+        {
+          "upstream_path": "examples/halcyon/component-library.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/halcyon/component-library.html",
+          "bytes": 189940,
+          "git_blob_sha1": "2ec0aa7c0dd58f43accf8e2c9ab8a91526604865",
+          "sha256": "b138c6e7d497e27990588a5b051c7f451cfdec3182f1ae0c1b2b491da103f835"
+        },
+        {
+          "upstream_path": "examples/halcyon/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/halcyon/design-model.yaml",
+          "bytes": 8656,
+          "git_blob_sha1": "69a3761f2b3de1a3e2d4a88d6bcfe853e6d7a5e5",
+          "sha256": "77a548f48eaa3d2a3d9d158fe08ae018cacb37af5921fb36e87905c7cf32a8ff"
+        },
+        {
+          "upstream_path": "examples/halcyon/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/halcyon/landing-page.html",
+          "bytes": 27131,
+          "git_blob_sha1": "6bcee23c7817ca3eb1aa522f13bd9d3d7cad90f9",
+          "sha256": "8029686c438f515b67c2ba177d6ee9195e2e4a8acbecc34ce488898afb24c721"
+        },
+        {
+          "upstream_path": "examples/index.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/index.html",
+          "bytes": 33221,
+          "git_blob_sha1": "65a1fabedff3c4b13493aa5871c136ef8a0370ed",
+          "sha256": "2fe8eceff13a4f170b97d5712cb03186997b4f75fe21379a505ddb1f224b1189"
+        },
+        {
+          "upstream_path": "examples/kiln/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/kiln/design-model.yaml",
+          "bytes": 8621,
+          "git_blob_sha1": "4ede3b17966a3fb9eb4b5d6a77d48146e395db6b",
+          "sha256": "2c96c5207574bff0e8e942e34e43952d8ec726676d874ac58b66dc3fce459a56"
+        },
+        {
+          "upstream_path": "examples/kiln/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/kiln/landing-page.html",
+          "bytes": 44492,
+          "git_blob_sha1": "078e5bee3c9e05270d7812473eb35c5feceff7f4",
+          "sha256": "1d2cb26842203dbbdaf378b0b271f98b6d8249f2ac40a98934656221691ee769"
+        },
+        {
+          "upstream_path": "examples/ledger/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/ledger/design-model.yaml",
+          "bytes": 8565,
+          "git_blob_sha1": "baa44b065f7f6231a8a3524ac3688e160b7ffda9",
+          "sha256": "c2ace8c3f7e261665ce95969b61c9db24a0550897646ca33c9831257000a6a97"
+        },
+        {
+          "upstream_path": "examples/ledger/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/ledger/landing-page.html",
+          "bytes": 47117,
+          "git_blob_sha1": "2079d935c185ad3850e3321a97c4f1056f2bd0ed",
+          "sha256": "84bbac9e61ca7ad6c61904c90cec4d5d0e0de33b202054b01451414476a99bad"
+        },
+        {
+          "upstream_path": "examples/meadow/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/meadow/design-model.yaml",
+          "bytes": 18219,
+          "git_blob_sha1": "ee3e0ae97af76f2b43489a06db5df654eaac6104",
+          "sha256": "fa332fb7d206ecad9dccc1add0cbd9fdb7161b6321e64707157ad616e448a88c"
+        },
+        {
+          "upstream_path": "examples/meadow/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/meadow/landing-page.html",
+          "bytes": 35446,
+          "git_blob_sha1": "6cbf173d12704d241056c2ac77c811e23813d7a0",
+          "sha256": "7893824dc55aa28201342b74df238d8daf77d784f035d17e7e26efb02d42f8a0"
+        },
+        {
+          "upstream_path": "examples/orivion/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/orivion/design-model.yaml",
+          "bytes": 6791,
+          "git_blob_sha1": "45dd93149b8e5382fb688979b1ee5af0408e1db2",
+          "sha256": "4485af6e4443179b1faddde48072b8b347cb64db23407223cfb1a3450ad2d480"
+        },
+        {
+          "upstream_path": "examples/orivion/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/orivion/landing-page.html",
+          "bytes": 31121,
+          "git_blob_sha1": "60bd31f7eca519c5e3fc83627b294afdf6d62843",
+          "sha256": "d3e25bdf779c4f00de9ed508683066e1697b9a954ae03e779ad02c6004e6d251"
+        },
+        {
+          "upstream_path": "examples/oxide/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/oxide/design-model.yaml",
+          "bytes": 8792,
+          "git_blob_sha1": "20a664b4a90b566d5b202b806ce04c71b2feab0b",
+          "sha256": "104a9d1205fdac05c9d59fa89213724a5b63d3e2596a73f95769df91aff21558"
+        },
+        {
+          "upstream_path": "examples/oxide/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/oxide/landing-page.html",
+          "bytes": 22384,
+          "git_blob_sha1": "b40f99c3cf4dcc90af00e3684c58058e76af5da1",
+          "sha256": "40f6328e96db9367fb65f2dbc813819fa0177a2d40005646a582d4e857dc7557"
+        },
+        {
+          "upstream_path": "examples/prism/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/prism/design-model.yaml",
+          "bytes": 8753,
+          "git_blob_sha1": "f3b6affad2cfa01c3cf95067423b61fc7d90e7e8",
+          "sha256": "f88d7d4b262d80b4771f3f511ed7d4a7dd4c0c6c234dafe544519b874c8944f9"
+        },
+        {
+          "upstream_path": "examples/prism/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/prism/landing-page.html",
+          "bytes": 34771,
+          "git_blob_sha1": "7edf03e5db4b474f6ec0c0818edd24c3e14677b7",
+          "sha256": "75bf3d2ae9ab2c67b6128a9a7d81a5c49d03ae3a4ee885efcb4e03c3744abb86"
+        },
+        {
+          "upstream_path": "examples/relay/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/relay/design-model.yaml",
+          "bytes": 8167,
+          "git_blob_sha1": "5c3b743028f6554bfe21d8267f6ac63178dcd15b",
+          "sha256": "13657c6b2236eaad0df0330c7b0f423097edf25a4d42190b4ad314766a9e81b4"
+        },
+        {
+          "upstream_path": "examples/relay/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/relay/landing-page.html",
+          "bytes": 43924,
+          "git_blob_sha1": "16a3bf5d8439289f82656b559dc995da408031cf",
+          "sha256": "1da03a2c9a7205db73cdfa08aca2ac41951dbf7e5d4907da68cb66c39a6c32a2"
+        },
+        {
+          "upstream_path": "examples/ridge/app-screen.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/ridge/app-screen.html",
+          "bytes": 38998,
+          "git_blob_sha1": "71a9dcc60a95f019353fe5fde91fa5098764fae9",
+          "sha256": "860844b987404d7392a9ee1f088c38a1cf05721dc412792416f3e72a1438b146"
+        },
+        {
+          "upstream_path": "examples/ridge/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/ridge/design-model.yaml",
+          "bytes": 6820,
+          "git_blob_sha1": "043efe95cd2191405a86278681d1ba27ae13c5d6",
+          "sha256": "e16eb75a3208b9004cd7074694fe49e81334ec978034c96df76dce845bda8109"
+        },
+        {
+          "upstream_path": "examples/ridge/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/ridge/landing-page.html",
+          "bytes": 36140,
+          "git_blob_sha1": "dfd7e0f88817c36f4c87924b83eeb351ba4eafba",
+          "sha256": "5e2a9c022d2a69b3c35f3a7ef1259667cf52dab9b558a500199fb82ae5978e31"
+        },
+        {
+          "upstream_path": "examples/solvent/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/solvent/design-model.yaml",
+          "bytes": 9319,
+          "git_blob_sha1": "77a4f8cb82548f3beb6d4afc401d67607c26533d",
+          "sha256": "ae326e2407f4728a7cd39f534b24923bfe82361b7c8c2ffb773bb7576efd9971"
+        },
+        {
+          "upstream_path": "examples/solvent/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/solvent/landing-page.html",
+          "bytes": 43255,
+          "git_blob_sha1": "d4d4a61a9e93bff32ede69a133a39cfe27263b73",
+          "sha256": "89e3a8f7f9d5a16983e87e583fb33295ba91b2109c83b351b5a1dfbf46460147"
+        },
+        {
+          "upstream_path": "examples/stint/app-screen.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/stint/app-screen.html",
+          "bytes": 39828,
+          "git_blob_sha1": "74946b97382e181d50004b8d16d71f1c0d0bafce",
+          "sha256": "f2218fa707ed194abda885e80d1fae1863193d42cee3223727fb0f554ca0691d"
+        },
+        {
+          "upstream_path": "examples/stint/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/stint/design-model.yaml",
+          "bytes": 6246,
+          "git_blob_sha1": "4822cc33456d2c45b17e6a5ec9d0819340542610",
+          "sha256": "75c62486128254534be78227f5bfde14a126a9e8d5b4186dd53ebce14d0e2163"
+        },
+        {
+          "upstream_path": "examples/stint/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/stint/landing-page.html",
+          "bytes": 36380,
+          "git_blob_sha1": "d5ebef4d46363e58ae8398b666194196ccc9a52b",
+          "sha256": "2c3b3548778c8d132e4fb5bd1554a0bf14af21ea00addbf0f964a4b754e8575f"
+        },
+        {
+          "upstream_path": "examples/thrive/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/thrive/design-model.yaml",
+          "bytes": 9881,
+          "git_blob_sha1": "f6ce4a093bbac6ae52b3ff3b298b3f5d49894a98",
+          "sha256": "d239cfd9a7c5c9bcfdc60a307d351ca88e4c7b1b8f5e1412c172d5213f394958"
+        },
+        {
+          "upstream_path": "examples/thrive/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/thrive/landing-page.html",
+          "bytes": 34603,
+          "git_blob_sha1": "25fc46589d5c82b3fcb9e564a958bc9a5bd4f6d4",
+          "sha256": "6949ec09441a7416ba6a6b6bc8f020607539ac9085b39ed214a7f71394d33d4e"
+        },
+        {
+          "upstream_path": "examples/velvet/design-model.yaml",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/velvet/design-model.yaml",
+          "bytes": 9179,
+          "git_blob_sha1": "971c4c9c74cb99dd858f593dd3535a091d25ab90",
+          "sha256": "1bebaf06a471abe8b781df9ceb0a98717b33ed5369127552c94e477850800ff5"
+        },
+        {
+          "upstream_path": "examples/velvet/landing-page.html",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/examples/velvet/landing-page.html",
+          "bytes": 39759,
+          "git_blob_sha1": "1edaff168e19122d463cbe06048faef9abc70c9a",
+          "sha256": "14c89fa59419960f405c6bbed48eb4abb9bb3b42200e509ea73f5858eef0a06a"
+        },
+        {
+          "upstream_path": "references/app-screen-template.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/app-screen-template.md",
+          "bytes": 11376,
+          "git_blob_sha1": "72e9a6fcb442cf3503dece2bab9316658201dcb7",
+          "sha256": "007e70226439fda7cf0ded5ed73728387f82b9cb44af28c269963e59c27bde22"
+        },
+        {
+          "upstream_path": "references/background-graphics.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/background-graphics.md",
+          "bytes": 20293,
+          "git_blob_sha1": "f9af56fe8df172bbb607f63ac04405a318a2fcbc",
+          "sha256": "526d4687854d701aa4a38d26dfeed40401b01114587e97cbeceac1c2f322c984"
+        },
+        {
+          "upstream_path": "references/background-shaders.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/background-shaders.md",
+          "bytes": 20458,
+          "git_blob_sha1": "abfefcd002bfc851c5cf47c1196eb3798b19fb2f",
+          "sha256": "4fe9e1514ba55449eb6bbca7865be032b7b77d155f7de564b15e4d21904143c9"
+        },
+        {
+          "upstream_path": "references/component-library-template.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/component-library-template.md",
+          "bytes": 32273,
+          "git_blob_sha1": "741287adbc933e94af04528f171fcee33e9663ea",
+          "sha256": "e9f9f650a34edb99f5425fcada65ba93156f7b1617bafe128ddf99c0aa8d60b1"
+        },
+        {
+          "upstream_path": "references/components-template.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/components-template.md",
+          "bytes": 19847,
+          "git_blob_sha1": "009901a241391a9f65cb376ce544fddd82534c8e",
+          "sha256": "1be112774e14c294799197e4bbf284939042efd44dea5ddca0c3f2691a2920a1"
+        },
+        {
+          "upstream_path": "references/hero-stage.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/hero-stage.md",
+          "bytes": 38913,
+          "git_blob_sha1": "0d1b24862f083317e9dbc11d58f41c71a051976f",
+          "sha256": "4f8adbf68d7df155dfce7074891d62c26f1fff029d1499a5727da01d46b6d98b"
+        },
+        {
+          "upstream_path": "references/icon-kits.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/icon-kits.md",
+          "bytes": 10480,
+          "git_blob_sha1": "5ec9bac3c2578e9fd26e25f82997295dffb500fb",
+          "sha256": "62c0989c1f46d6f95a524a659a9639dbb9f5ecfc1e935d59c9e7a7ae910af758"
+        },
+        {
+          "upstream_path": "references/landing-page-template.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/landing-page-template.md",
+          "bytes": 17172,
+          "git_blob_sha1": "e06fd9bc6b8e9260bd479d9278c8c6f6b0d18024",
+          "sha256": "b25e7b89a3b7b05628a32af29075a6f4230ea2e4b40e7c0af5fc50a569a29262"
+        },
+        {
+          "upstream_path": "references/platform-mapping-template.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/platform-mapping-template.md",
+          "bytes": 13282,
+          "git_blob_sha1": "abf9abc2cfa910415d9278f03b3e970f8a3d6f57",
+          "sha256": "d5b8ccb452a65b01558307a3c6917feb2e19b998b13aa07d4b19a4908e253858"
+        },
+        {
+          "upstream_path": "references/preview-template.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/preview-template.md",
+          "bytes": 10761,
+          "git_blob_sha1": "bf2d6735116394f91c7f27b3e8469fabe6406a2d",
+          "sha256": "ba787247b69d8282e4bf41240d2eb87c0f8a287b9afc4b6cc6e407e8ef9a7d0a"
+        },
+        {
+          "upstream_path": "references/skill-template.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/skill-template.md",
+          "bytes": 2111,
+          "git_blob_sha1": "bf5c05d8664480e0adfd0a3e38b0df984c25ffdf",
+          "sha256": "f18d3c6d98487da279d6d05fe45d911ac527e0b9a3e754fbb8dc6f2304479b3a"
+        },
+        {
+          "upstream_path": "references/tokens-template.md",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/references/tokens-template.md",
+          "bytes": 12749,
+          "git_blob_sha1": "4d72d3c653a291bc74f6dc4d9595a63d11c58dde",
+          "sha256": "dea56372d8480ab0a21852bdd1331f706c695cc970a0e9902764868fb2c5dce5"
+        },
+        {
+          "upstream_path": "scripts/validate.mjs",
+          "archive_path": "已知技能/源文件/dominikmartn--hue/scripts/validate.mjs",
+          "bytes": 18227,
+          "git_blob_sha1": "81ea7f4771dcaea2b8d04850e3d8c1751c7d79d4",
+          "sha256": "a67bce6625e529e33dedb3c13b8e20cff8ab9e7abadbc235fab0783b6405b225"
+        }
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "skill_directories_complete": true,
+      "files": [
+        {
+          "upstream_path": "skills/brand-guidelines/LICENSE.txt",
+          "archive_path": "已知技能/源文件/anthropics--skills/skills/brand-guidelines/LICENSE.txt",
+          "bytes": 11345,
+          "git_blob_sha1": "4f881c52d1f72f4cfb720e339e2d35c3058d01a9",
+          "sha256": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+        },
+        {
+          "upstream_path": "skills/brand-guidelines/SKILL.md",
+          "archive_path": "已知技能/源文件/anthropics--skills/skills/brand-guidelines/SKILL.md",
+          "bytes": 2235,
+          "git_blob_sha1": "47c72c607bdb5dd81bdea5de2b5e4f3992a5fd59",
+          "sha256": "1120b3769e2985cefb3d25be981b1f914abeba57ae079b83c20c666c164fa9fe"
+        }
+      ]
+    },
+    {
+      "repo": "nilbuild/page-mascot",
+      "commit": "76a44ed9180063bf4852b9dd724b656f4a828ac7",
+      "skill_directories_complete": true,
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/LICENSE",
+          "bytes": 1090,
+          "git_blob_sha1": "ffe07aa615bcef6f34d70f7ec2c112e8ee6d7059",
+          "sha256": "33da9fbdab1e00d5207e293521bc8e0393cb65cdc6a2e552e9abd7319670adb7"
+        },
+        {
+          "upstream_path": "README.md",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/README.md",
+          "bytes": 2487,
+          "git_blob_sha1": "3b4811e38369f6b5a7137eba3e16e7241929df10",
+          "sha256": "edfee28fc65b681b073c8f172e0b1378d793d319e778405b734c37451ae65701"
+        },
+        {
+          "upstream_path": "package.json",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/package.json",
+          "bytes": 1649,
+          "git_blob_sha1": "02493912e4d9a0a4376274a4a24817f903df4d05",
+          "sha256": "7340300a354b48f26a1773397f5eb0871933b52c39b259f6b57d570b96845951"
+        },
+        {
+          "upstream_path": "skills/page-mascot/SKILL.md",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/SKILL.md",
+          "bytes": 12757,
+          "git_blob_sha1": "990a11ed039b86c4691671212349998d7b94121f",
+          "sha256": "1f9c7628c3aa316162ee6be2d367cdf92d7d837dcdc5b658d00161df3402d466"
+        },
+        {
+          "upstream_path": "skills/page-mascot/mascot.tsx",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/mascot.tsx",
+          "bytes": 6216,
+          "git_blob_sha1": "9b97fa55c29165f775eb21529346b509ae1c03c5",
+          "sha256": "c0710682c1c7fb6cae82797d66870bc8188ce3f02f80b5b3ebd57e8c6f4c8dd2"
+        },
+        {
+          "upstream_path": "skills/page-mascot/reference/characters.md",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/reference/characters.md",
+          "bytes": 1014,
+          "git_blob_sha1": "ecc96488536f62f20cabb09770e4a0fb73959bb8",
+          "sha256": "1fb5db7cbcee34e217df0188bdabf0410b58257c35d221b7daf3525babf22150"
+        },
+        {
+          "upstream_path": "skills/page-mascot/reference/design-rules.md",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/reference/design-rules.md",
+          "bytes": 15243,
+          "git_blob_sha1": "bd94cf434b7c361bf35b99144b9da59a0155fc4b",
+          "sha256": "cd7929ab5aa4d4131e386ce63ed90e642d0a600de0d68ec24156a70f0fc6d9d2"
+        },
+        {
+          "upstream_path": "skills/page-mascot/reference/prompts.md",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/reference/prompts.md",
+          "bytes": 15644,
+          "git_blob_sha1": "5a239e0ee8eb7e3d7cb985c114909c45922b7865",
+          "sha256": "992a63d0f725506c8c4eb80c9971e357945d31c9b10401fb89cfc1cf41ccf963"
+        },
+        {
+          "upstream_path": "skills/page-mascot/scripts/build.py",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/scripts/build.py",
+          "bytes": 18226,
+          "git_blob_sha1": "3d38bbfd77cd1ccce7a356832177b039f05b8d49",
+          "sha256": "258cfa67f7601756d18222f3048ef966a8ca2d5a56c3b74fad8dae83c93ece8a"
+        },
+        {
+          "upstream_path": "skills/page-mascot/scripts/generate.py",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/scripts/generate.py",
+          "bytes": 18443,
+          "git_blob_sha1": "ba91f069d67df99959a7937f7b4ab9143acb850c",
+          "sha256": "af71725668e1751225c2267e6563f6f0e45de21a46bebeb54f9fb5a98bc77d12"
+        },
+        {
+          "upstream_path": "skills/page-mascot/scripts/key.py",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/scripts/key.py",
+          "bytes": 9529,
+          "git_blob_sha1": "d535548298e24242667b431cb49bcb6491a2a030",
+          "sha256": "287d51589609110f80cb65af134501e63abcee35633146ba9279e3ef39e95db7"
+        },
+        {
+          "upstream_path": "skills/page-mascot/scripts/mascot.py",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/scripts/mascot.py",
+          "bytes": 9498,
+          "git_blob_sha1": "09431659b0e6af325bff990a078fff36ab88feab",
+          "sha256": "faefbdd634a742aeebad2717876d8e1f2baa8de7a3158421c8e7953012286aa5"
+        },
+        {
+          "upstream_path": "skills/page-mascot/scripts/requirements.txt",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/scripts/requirements.txt",
+          "bytes": 48,
+          "git_blob_sha1": "c78f6bd9f63dcdbc03a88f915b5497f73548bff9",
+          "sha256": "56f4de4956c0aff93cefebcd84e83cdc7b16456d7a7dad46834d5b8e795c6f7f"
+        },
+        {
+          "upstream_path": "skills/page-mascot/scripts/screen.py",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/scripts/screen.py",
+          "bytes": 3393,
+          "git_blob_sha1": "a0ffcc55cf53605f78adc321eb97142bf20dcf22",
+          "sha256": "a0468c32b0f51c64d2bb5028ed5c7d79dd480fb555cf7493929cf35234ddbeaf"
+        },
+        {
+          "upstream_path": "skills/page-mascot/scripts/verify.py",
+          "archive_path": "已知技能/源文件/nilbuild--page-mascot/skills/page-mascot/scripts/verify.py",
+          "bytes": 5482,
+          "git_blob_sha1": "be28df15c9218e1483d8f2c69e39c4f6a3c9d77a",
+          "sha256": "67d7c420660c1d397cbb28f7bf4972504437587b20e2fb681e1f8ea615dbb078"
+        }
+      ]
+    }
+  ]
+}
