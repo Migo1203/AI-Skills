@@ -12,7 +12,17 @@ AIGC 作品与音箱项目在 [AIGC 仓库](https://github.com/Migo1203/AIGC)管
 4. 做国内电商或Amazon文案、主图、详情页和A+时，使用[个人电商全案与可编辑制作 v0.4.1](plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md)。统一流程为AI策划→按规划制作素材与SVG→用户审稿调整→用户定稿→AI检查；[完整使用说明](plugins/skill-lab/使用说明.md)包含调用示例与工具边界。生图取决于环境实际能力，上传仓库不等于已启用。
 5. 要创建新技能时，使用[SKILL.md 模板](模板/SKILL.md.template)，写一个具体、能重复使用的任务。
 
-2026-11-15新增：[taste-skill、Impeccable与diagram-design的来源及使用说明](已知技能/分类/网页设计与图解三项技能.md)，完整源码已收录，未自动安装。
+## 三项设计技能：范围与入口
+
+更新：2026-11-15。完整适用范围与NED项目用法分别记录，源码已收录，不等于自动安装或全部场景已实测。
+
+| 技能 | 完整定位与适用对象 | 入口 |
+| --- | --- | --- |
+| taste-skill | 前端网页视觉设计与实现：品牌官网、产品／服务网站、店铺与作品集等 | [来源与源码](已知技能/源文件/Leonxlnx--taste-skill/来源.md) |
+| Impeccable | 跨平台界面与体验设计：网页、产品UI、组件、后台，以及原生iOS／Android界面 | [来源与源码](已知技能/源文件/pbakaus--impeccable/来源.md) |
+| diagram-design | 多载体信息图解：架构、流程、图表、用户旅程等，服务于PPT、报告、文章、社媒与文档 | [来源与源码](已知技能/源文件/cathrynlavery--diagram-design/来源.md) |
+
+[完整适用范围、官方依据与使用示例](已知技能/分类/界面设计与信息图解技能.md)。taste-skill旧合集的迁移关系也在该页说明，不能把其他仓库的功能算作当前已收录。
 
 ## 当前内容
 
@@ -26,6 +36,7 @@ AIGC 作品与音箱项目在 [AIGC 仓库](https://github.com/Migo1203/AIGC)管
 | Codex 技能插件声明 | [plugin.json](plugins/skill-lab/.codex-plugin/plugin.json) |
 | 本仓库的插件目录 | [marketplace.json](.agents/plugins/marketplace.json) |
 | 来源、状态与练习记录 | [技能清单](技能清单.md) |
+| 前端视觉、跨平台UI／UX与信息图解三项技能 | [完整范围与用法](已知技能/分类/界面设计与信息图解技能.md) |
 | 已知技能、固定版本源码与来源说明 | [已知技能](已知技能/README.md) |
 | 品牌基础、视觉识别、角色IP与网站系统候选 | [品牌设计与角色IP](已知技能/分类/品牌设计与角色IP.md) |
 | 2026-11-09品牌归档与文件核验 | [本轮归档记录](学习资料/品牌技能归档-2026-11-09/README.md) |

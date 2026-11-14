@@ -1,6 +1,6 @@
 # 已知技能
 
-更新：2026-11-09。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
+更新：2026-11-15。集中保存本项目已经阅读、核验过的技能，方便学习、选择和以后创建自己的 Skill。
 
 当前记录 **45 个技能条目**：7 个已安装或注册到项目，38 个为已知候选；候选中37项有源码归档，1项仅保存待许可的来源链接。候选资料的保存不会安装或运行这些技能，也不会使它们自动出现在当前云聊天的可用列表中。
 
@@ -14,7 +14,7 @@
 
 2026-11-09新增：[品牌设计、角色IP与网站系统](分类/品牌设计与角色IP.md)，含13项候选记录及固定版本源码／待许可说明；[归档与校验记录](../学习资料/品牌技能归档-2026-11-09/README.md)。
 
-2026-11-15新增[网页设计与图解三项技能](分类/网页设计与图解三项技能.md)：taste-skill、Impeccable、diagram-design，固定版本完整收录；手动读取与安装启用分开。
+2026-11-15新增[界面设计与信息图解三项技能](分类/界面设计与信息图解技能.md)：分别覆盖前端网页、跨平台UI／UX及多载体图解；完整范围与NED应用记录分开，保留固定版本与许可。
 
 ## 怎么使用这个文件夹
 
@@ -42,12 +42,15 @@
 
 ## 已知候选，尚未安装
 
-本轮新增：[taste-skill](源文件/Leonxlnx--taste-skill/来源.md)、[Impeccable](源文件/pbakaus--impeccable/来源.md)、[diagram-design](源文件/cathrynlavery--diagram-design/来源.md)。详见[调用名、安装位置与用法](分类/网页设计与图解三项技能.md)。
+本轮三项的完整范围与调用示例见[界面设计与信息图解](分类/界面设计与信息图解技能.md)；NED网站仅为当前应用实例。
 
 本节为第三方技能，保留原作者版本；Cofoundy属于第三方上游改编，yang0仅归档链接。用于学习与选择，均不标为个人自建或个人融合改编。
 
 | 技能与源文件 | 用途与使用时机 | 关键依赖或边界 |
 | --- | --- | --- |
+| [design-taste-frontend](源文件/Leonxlnx--taste-skill/skills/taste-skill/SKILL.md) | 品牌官网、产品／服务页、店铺等前端视觉与实现 | Node与浏览器；未安装或运行完整gate；旧合集迁移不等于本库全部收录 |
+| [impeccable](源文件/pbakaus--impeccable/.agents/skills/impeccable/SKILL.md) | 网页、产品UI、组件及原生iOS／Android的UX、排版、动效、审阅与设计系统 | 按平台和命令使用配套参考及运行能力；未自动安装 |
+| [diagram-design](源文件/cathrynlavery--diagram-design/skills/diagram-design/SKILL.md) | 架构、流程、图表等，供演示、报告、文章、社媒及文档使用 | HTML为源，SVG／PNG导出按脚本与环境检查；首次品牌作图先配置主题 |
 | [grill-me](源文件/mattpocock--skills/skills/productivity/grill-me/SKILL.md) | 通过分轮追问明确计划、需求与设计决定 | 入口依赖`grilling`；适合梳理作品集首版范围 |
 | [grill-with-docs](源文件/mattpocock--skills/skills/engineering/grill-with-docs/SKILL.md) | 边讨论边维护术语和重要决定 | 依赖`grilling`、`domain-modeling`，会涉及文档写入 |
 | [improve-codebase-architecture](源文件/mattpocock--skills/skills/engineering/improve-codebase-architecture/SKILL.md) | 调查现有代码，给出架构改进候选 | 需要已有代码及关联技能；用于结构分析 |
