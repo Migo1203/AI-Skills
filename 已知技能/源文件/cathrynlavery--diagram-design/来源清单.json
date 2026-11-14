@@ -1,0 +1,1922 @@
+{
+  "仓库": "cathrynlavery/diagram-design",
+  "固定提交": "f6db0decea96de66b901331a0f79a8d4b147ebae",
+  "归档范围": "skills/diagram-design",
+  "归档日期": "2026-11-15",
+  "文件": [
+    {
+      "路径": "LICENSE",
+      "字节数": 1071,
+      "源GitBlobSHA1": "5270ecfc40942fc2da652a7a2f3e687fc6851ba3",
+      "SHA256": "bb7e12e91fecef43024111123ff784cec6c485585561d8b552557c0173b3ed29"
+    },
+    {
+      "路径": "README.md",
+      "字节数": 57226,
+      "源GitBlobSHA1": "9a1ba32665c9fc50d6b0073d9bd603782847d5fc",
+      "SHA256": "87e14081accb116c309fc830d7051a35160ffa4d093386e4a53d479603cc8e98"
+    },
+    {
+      "路径": "skills/diagram-design/SKILL.md",
+      "字节数": 31967,
+      "源GitBlobSHA1": "610196e17c8b7d97472a055f8988a8512e0a31cc",
+      "SHA256": "fba2015046dd6bfdd99b91c4b17c30bff5ebb3bd088de0e6863b41259c5026b8"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-arc-diagram-dark.html",
+      "字节数": 8288,
+      "源GitBlobSHA1": "47f49fff3e8ff6251c8bfc3766faca5d790db663",
+      "SHA256": "acd6b0c9d174b7d915d1e4e1a98a6019c30b02b8e5264f53f4ef2657dcbde77e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-arc-diagram-full.html",
+      "字节数": 11761,
+      "源GitBlobSHA1": "314f64077493d865253472d04a719369cc5836a7",
+      "SHA256": "e785227378c5bde8a09d323ba743cf0f53b8dccb5e029325e99cccaed6a8f669"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-arc-diagram.html",
+      "字节数": 8203,
+      "源GitBlobSHA1": "e1b06d48f7cd439a31d9a6b535a948b09125dbd5",
+      "SHA256": "49044919cbfcdbd2b4b6025df2d52e42a553dddbf2fde2523e5185ba8d5cec08"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture-containment-dark.html",
+      "字节数": 14552,
+      "源GitBlobSHA1": "cd5743840768844aa4a11b1a5baab9424111075c",
+      "SHA256": "853399a330a541d63d5ca05834bb9f1545364fff61546754190899a49e54d28a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture-containment-full.html",
+      "字节数": 17524,
+      "源GitBlobSHA1": "0b9fdf3ce45fbb72ce4e0abb73bab43f3228faba",
+      "SHA256": "4b96ed9774d236c3b4968a10be0f7b5c8805095b0206d249bd8e53b4e893debe"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture-containment.html",
+      "字节数": 14411,
+      "源GitBlobSHA1": "ab1dff6c52010ac888afc0d9237d6fb23d19ef82",
+      "SHA256": "10013c62e6449880627c2271edacfdc094f006a16e365a55f117e844097fe2de"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture-dark.html",
+      "字节数": 12036,
+      "源GitBlobSHA1": "435e2ec89742c71c7200027ceb2fe2d451f81649",
+      "SHA256": "b471f857f2d8745705925ee49659d8506de291c3a7b3761a3fb47a0394b9c8df"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture-delta-dark.html",
+      "字节数": 20558,
+      "源GitBlobSHA1": "0b1da51999f70de1564fc62f19a69a6d6131597e",
+      "SHA256": "d3f0984c7ff145656bb400ff294e9595d7f5f1209d156edbb5e5676e8ee199b9"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture-delta-full.html",
+      "字节数": 22225,
+      "源GitBlobSHA1": "c357942287806c29452b05899d517d57cae756cf",
+      "SHA256": "cd23ff4b3dcc2a734a13ab31807ce46c1e26dd82c3a91bac7b161f0d3abaeea0"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture-delta.html",
+      "字节数": 20459,
+      "源GitBlobSHA1": "c9dfc5fc042e9647a50f5a77a6bd4d7e18b3668a",
+      "SHA256": "0a88e1e44fcac97be87accccb429c4930380938f59534468090e82c45ceabfc6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture-full.html",
+      "字节数": 14981,
+      "源GitBlobSHA1": "e33a359c4ff7fd5e6a274f1c6e5bd763115e22a3",
+      "SHA256": "6c3951cbb3cdb94b1825efbfabbf5dda996c20106f00fa1d06511d58792b0248"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-architecture.html",
+      "字节数": 12099,
+      "源GitBlobSHA1": "dee30d264a3fc2f9be21542237f1be4f2ac93911",
+      "SHA256": "a9e8b59854d31e70288abba522509494f82a319bc684c3694e08e67dfc990bc5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-campus-animated.html",
+      "字节数": 47875,
+      "源GitBlobSHA1": "706b31be945186ecc6a388651cfa376dcf2326f7",
+      "SHA256": "72420915d79afb6daaa6f6215ac08754b4d2dc02b8c844cb5e25b52771002350"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-campus-dark.html",
+      "字节数": 31662,
+      "源GitBlobSHA1": "69e1a2a6764540fb097cc756badd9918674240b6",
+      "SHA256": "7d13e33fcfa93e177179c357c0ad884fbb73d826ba79123420ad513ea174ba7c"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-campus-full.html",
+      "字节数": 34299,
+      "源GitBlobSHA1": "da17392f07abd5bee6238a2749f6ea9412a4b668",
+      "SHA256": "e1d28913537b8e206af137c8e6fbc212cb47203de3f69baa4fac2cee96beea19"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-campus.html",
+      "字节数": 31659,
+      "源GitBlobSHA1": "7559a84bcf4ebeee21d0b550ed77e951e681f641",
+      "SHA256": "5d03a724dd85ec929dd17643294dbec7a6fd6165ee010fd0fef44dc72bdf1e31"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-coffee-shop-animated.html",
+      "字节数": 55593,
+      "源GitBlobSHA1": "d89d3b5d876f8c0cb8780fdd1666023414c3d030",
+      "SHA256": "7c948dc5daf9c9568c6ce1b22fae4c2b0c0c330794785f767655ebaf7da6e70e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-coffee-shop-dark.html",
+      "字节数": 39572,
+      "源GitBlobSHA1": "f207674b33438222ea3b5193369007912737c708",
+      "SHA256": "0d5836e9b4ca2f85c4a1fd976ef0b7f89a29a29fb169dcb59b483a4e731bd46b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-coffee-shop-full.html",
+      "字节数": 42146,
+      "源GitBlobSHA1": "bf8516527a95dc9c718bd13f239e0732e7a8a1b4",
+      "SHA256": "ba03f90070b4bda66dc8cdbe3ba8334fadfa77e94f8ddde3d3aa3aa6b4d97e5a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-coffee-shop.html",
+      "字节数": 39381,
+      "源GitBlobSHA1": "f61d965ead18f222f6addeca2f2bef3cd990f950",
+      "SHA256": "90f8f78c306ea5b96b64c6c5c5e68c85e13fdd9a4f40aecc25dccf1f9b34283e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-dark.html",
+      "字节数": 28850,
+      "源GitBlobSHA1": "53a5e45f0894f834be4843d24a3da764424b2e29",
+      "SHA256": "fa041519f9e71e518069334397886c6e545f9286b28dcdbc254a6aaa96a1034a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-full.html",
+      "字节数": 31351,
+      "源GitBlobSHA1": "f717c54e921af8166c2351492fa748cc180548b6",
+      "SHA256": "13a7506ec0f4576a4f10313ba954b9c85a88bda258542c0c2017189f15a06adc"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-warehouse-animated.html",
+      "字节数": 54978,
+      "源GitBlobSHA1": "8c32c86e037fba9957c25a795691fa7583324d64",
+      "SHA256": "e43acc91d852143ea615cd30b4251627a3e1224c95e433565c185bb4045620f6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-warehouse-dark.html",
+      "字节数": 39154,
+      "源GitBlobSHA1": "0302fa0c7d08084c5442668a4253f67ac50ff627",
+      "SHA256": "a85d79254ec2e1813a13055efb9951b84ea55a04f43aa6fb6c880aa448924d38"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-warehouse-full.html",
+      "字节数": 41540,
+      "源GitBlobSHA1": "592cab6a983f018a67c8817d84cd048196eebe7b",
+      "SHA256": "596cf38433b5c5a3c0a1af348863a61e6c31ecff3c1b46e04d989b10822c37a5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan-warehouse.html",
+      "字节数": 38780,
+      "源GitBlobSHA1": "cb79b797900d31cfb7c9a4b7148f2428b9df232f",
+      "SHA256": "aed38ba8afc9c560fe22c7cbba1448e3c8f0efe43853d2c457b32e76d1bfef76"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-axonometric-plan.html",
+      "字节数": 28651,
+      "源GitBlobSHA1": "aa76f4118ac1851dab9f3b3ddcaecaaa3517c1ad",
+      "SHA256": "1ffd4767dbb9c0fd49190582a7304d0aac4cd6df7cd7d538eb6e84cd1803f30a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bar-dark.html",
+      "字节数": 9122,
+      "源GitBlobSHA1": "0d9aa66b39499ddde9ee4f89113e3eb336e4913f",
+      "SHA256": "fb96534eff0910a006dabca940d71aeb1019076abfbe9a020758747c2e2cbb0a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bar-full.html",
+      "字节数": 11252,
+      "源GitBlobSHA1": "c4533c7c7d42fb320af9b6a2b57afe0f9e6bfadc",
+      "SHA256": "ac8eff087cc5f2f04cffda1cb63b4e95641e9b05ca151a580e4df0016ddd08e1"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bar.html",
+      "字节数": 8917,
+      "源GitBlobSHA1": "7340852f39cfa684dd4dd02d1ec5d13266c0505f",
+      "SHA256": "b82fea59d393f0754f1543cf1e8d9189542fb93cf458bcd256a0c56fa060461b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-beeswarm-dark.html",
+      "字节数": 32654,
+      "源GitBlobSHA1": "9746cf6b4db45a66f8c166abd8a446f895ca7617",
+      "SHA256": "597cf05ad582eb0dbe8040949c6f164096ce84631e6d3ba85d5fbf778d2b1dc7"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-beeswarm-full.html",
+      "字节数": 36450,
+      "源GitBlobSHA1": "19899cbdef3a4629e4136877f50f15e2ed0a5348",
+      "SHA256": "515edbc59376ad9bc99afc8cf9d55c0fa6a7e68f8eca95a02cf282086857e6cc"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-beeswarm.html",
+      "字节数": 32180,
+      "源GitBlobSHA1": "0bf5c803d345685c50697c6d2324e92b002ef79a",
+      "SHA256": "e69a9b7ac33fae509c02a1ef06b39e1a548cd3925644e7cefd3ff2119a88a060"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-box-plot-dark.html",
+      "字节数": 11533,
+      "源GitBlobSHA1": "e052dc591db81e31b0e1a902b3c3577d625dbbc4",
+      "SHA256": "28bc2a9b9df1e715b07c11a57b2ab8d0ee59ed5ebc782dacd74f3401e0cdd39b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-box-plot-full.html",
+      "字节数": 15046,
+      "源GitBlobSHA1": "3ebd0a8105b7dacfdae67847cfd90b1e8f8c3cfd",
+      "SHA256": "a9bf7fc36d4db874b0fda6d27140fb6d3b9e51b06b13ca657e8dfb414a5fe617"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-box-plot.html",
+      "字节数": 11399,
+      "源GitBlobSHA1": "6d9f34e8c9fc057c6591e857643b6dce4543c7c6",
+      "SHA256": "16449419e0cca7dc153bc23c9c416dcb149ddcdfe4ca45c9535708719aa0b909"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bubble-dark.html",
+      "字节数": 11428,
+      "源GitBlobSHA1": "626f6e4d92ed8d3e5268ed75a41838ae18ba38ee",
+      "SHA256": "e5297625f2a81cebcd63250dcd7455f5c84160da501354f530dfcf59baf0ab9e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bubble-full.html",
+      "字节数": 15124,
+      "源GitBlobSHA1": "3e322f51689e1b4450858af6dd6d76b5360541e6",
+      "SHA256": "6aaf526da9c9eccb82c3f88d502e831268003c01f1de6cdc171b2a8970b03b99"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bubble.html",
+      "字节数": 11335,
+      "源GitBlobSHA1": "484fb393b089e647d673d86d5ebd3d82f9b27ad1",
+      "SHA256": "48f6b009e1a05d780a66a8f9f3c3c9323da5aa3a6f7f6c50003558b4ba163657"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bump-dark.html",
+      "字节数": 12926,
+      "源GitBlobSHA1": "01a085fe4469a11c730e9cbf8ad4827b02ea4c72",
+      "SHA256": "0e1ed31a2850405f60a00df02942532642bcd1bd5c2d728721e2087045c12840"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bump-full.html",
+      "字节数": 16635,
+      "源GitBlobSHA1": "fc1461a348b08780d8a798fe47392455ab5091af",
+      "SHA256": "aa62110a0d9dc11b19477013de1da1e09d37efb58f1b56b4af47fe9e80a7de0f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-bump.html",
+      "字节数": 12807,
+      "源GitBlobSHA1": "52a1b043f8cf436115733533025afff873179d63",
+      "SHA256": "cdf62733836ff70f2b04e3a9062609b24f17d3b8be60d110a8182f9bc12a02a7"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-data-flow-dark.html",
+      "字节数": 12966,
+      "源GitBlobSHA1": "22b75a35e6ecbfd5c4f6cd1526d83d4e735e3374",
+      "SHA256": "a3f5f27b4a690a6d806c735bf2db42b1e3d7f235387018200830329379829917"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-data-flow-full.html",
+      "字节数": 15830,
+      "源GitBlobSHA1": "15c464697066845824aa9638794fae48a1fbf18b",
+      "SHA256": "606d1f7650ea6db8e84f977beb591616fa32df9bc3085c09072da81885db5133"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-data-flow.html",
+      "字节数": 12798,
+      "源GitBlobSHA1": "2c4a28f7d28fa39ee61c95e13b7fff66837ce76c",
+      "SHA256": "f65978b77410fff9993fc099f4cf0d25bcaf67ce98fea2e281976e2406783b99"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-datalake-dark.html",
+      "字节数": 25092,
+      "源GitBlobSHA1": "61f48597190510fc926ee39a3b365cbf1afc1ff3",
+      "SHA256": "7eb08a81b703a1fb87877d33c79c0f31fcbd9a8fbc1dac20646e3f68aff93404"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-datalake-full.html",
+      "字节数": 28598,
+      "源GitBlobSHA1": "6d7faf546b60591470ccec4238851ea3ca58439d",
+      "SHA256": "f978706df71ffcdd6b2408aaeab78360ad68010487b9a849459219cd8cb8f5a3"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-datalake.html",
+      "字节数": 26674,
+      "源GitBlobSHA1": "0846dd3493a80967df3d73db6a9b3958237895c8",
+      "SHA256": "311b9143dc66cb96d7fe1ca3fa6d9cbf17b864976b8168ee3e8e8c497fe264d6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-db-schema-dark.html",
+      "字节数": 24740,
+      "源GitBlobSHA1": "18d7c014c5eb87f6902efcfbfbefc670615c425f",
+      "SHA256": "c1f566f092642c8c58969b7609598272ea78eae5beb172f35afe1d1366078c6a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-db-schema-full.html",
+      "字节数": 27627,
+      "源GitBlobSHA1": "2bbad9b0f18fee880a89c1ff41cbd2852739e065",
+      "SHA256": "897c88e8cde6537409e0b0359495dfa33e658dc40581fdf0039bc65a0433cd25"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-db-schema.html",
+      "字节数": 24523,
+      "源GitBlobSHA1": "4bbb2d6f2516bbd515456029036516fafbd79b44",
+      "SHA256": "5b65adae081c31b8f4a9772d8ba4a4066e759625197e2111885ac503cf8c2104"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dependency-dark.html",
+      "字节数": 17822,
+      "源GitBlobSHA1": "bbbfd2c177abecf87f2777acfcd1415be227a0b6",
+      "SHA256": "2e7f6d263d67bd751ca8d00111dcccd4a6a18d4d4241a709321cd043b630785d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dependency-full.html",
+      "字节数": 21122,
+      "源GitBlobSHA1": "c8faff05a14725142338bdff8fe9bd2901bcb443",
+      "SHA256": "8498d290f2a74e85e99836ca1146879c6068e476ac8f2a847daa837c4cd1cd7d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dependency.html",
+      "字节数": 17607,
+      "源GitBlobSHA1": "8f040159be8a1c2e1811a0ec09c22dedd475d296",
+      "SHA256": "c75e1d72834ed4bbdd57f7470136d272f13d0cc7c41b02e84ae187553a6e893b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-deployment-dark.html",
+      "字节数": 13554,
+      "源GitBlobSHA1": "dd3c0d876ab0af864179c443ebc3d5932d0c5c62",
+      "SHA256": "2c0c99d16f6d85fac54552bd4fe102ce9e0286fdf8eabd97ab4d90e5a97667e6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-deployment-full.html",
+      "字节数": 16827,
+      "源GitBlobSHA1": "dc04ed7df01e0d760f95330b9899e8c59e0346a8",
+      "SHA256": "9187eaafb9107e979c2e43bcde77edf63e974fc59cf72a50fef33ea8df460650"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-deployment.html",
+      "字节数": 13448,
+      "源GitBlobSHA1": "774e01454e643efd65b796909ad1d6866b631e12",
+      "SHA256": "8e4cee0bc1105dcd040b19d0000f84c69f81bde75d4cb16d2261fab617a7aee5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dp-integration-dark.html",
+      "字节数": 14898,
+      "源GitBlobSHA1": "29783cba6cf6e7938efbe2f2fbc59a48d9aab8cf",
+      "SHA256": "d28f525d2c7d0666b61d6e80133d006da942f1dfeefa41b0c8d32faf2120ca64"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dp-integration-full.html",
+      "字节数": 17415,
+      "源GitBlobSHA1": "272195c8a3488e451b484d4ad15b39bb5cee7102",
+      "SHA256": "fa9393528e19170873437c3f661fb7aa3cbaa94fa4001985f9d8faa7479708c6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dp-integration.html",
+      "字节数": 14867,
+      "源GitBlobSHA1": "1a7790bddc10320475a36896b25f751438ab9d60",
+      "SHA256": "d521d09532183ee10d5ebdcea9cbc509a45d90cd85c35973ba40dbe94f338291"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dp-security-matrix-dark.html",
+      "字节数": 10279,
+      "源GitBlobSHA1": "f71aa8c86f52f1496840b4ed58d3e97d9d8ccd91",
+      "SHA256": "1d93ac4553013cbb5d5fe962517601a0dadf03a8d1bf9ae522f10d7a83e05968"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dp-security-matrix-full.html",
+      "字节数": 12601,
+      "源GitBlobSHA1": "181dde242c08e33102022a849c0488ea6f8b58d5",
+      "SHA256": "8f34f504368ba9fd13c2bb20b028d2fc27800fbb46c238e73b0aa65101ca4ad0"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-dp-security-matrix.html",
+      "字节数": 10905,
+      "源GitBlobSHA1": "6b69cf05de11e10fab6eb283a557c0f0bf52d86c",
+      "SHA256": "9ae674dcec652483ea75a9368f88fd4c61a447b34354b2f2386049c10491e83f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-er-dark.html",
+      "字节数": 14198,
+      "源GitBlobSHA1": "a21c32e68cac11e37a31f1a1195fba79a49ea52c",
+      "SHA256": "c007c14d88a48a8ea30b1144dd4ac392ee7891a2278262e2a6f6836b43aa7fdf"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-er-full.html",
+      "字节数": 17123,
+      "源GitBlobSHA1": "8ceeec0903a1253c18963a855801d574994a7c3a",
+      "SHA256": "e778b7e790c3fd3f9219807aef3115bda4d7b1efb9998df413bcd224f77ed163"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-er.html",
+      "字节数": 14134,
+      "源GitBlobSHA1": "5fd3bcf42c8dc37c18e7093a8b47ab88c6136bda",
+      "SHA256": "dcbca24c5eeeb84711510a60fae190754503f9b57d9551936b086f3fb589f617"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-event-modeling-dark.html",
+      "字节数": 9401,
+      "源GitBlobSHA1": "2b8827df4bfaf002697dfd11d9bd593944bb44bb",
+      "SHA256": "367030eae9b906d2553b2e54cf83ce676b48d14dc219d29f51fd1cd6526810de"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-event-modeling-full.html",
+      "字节数": 9690,
+      "源GitBlobSHA1": "71e89ec31764b4cd200505f2de745b0af9d3e679",
+      "SHA256": "d36023c30ecc3a7c1af61ead4fcb6fb2ddafb1793731bd71d1ee55eb3941a6f0"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-event-modeling.html",
+      "字节数": 9231,
+      "源GitBlobSHA1": "3a6685ba27b49134c728a5c1abbe7e1be1e19a19",
+      "SHA256": "142b4e758159448e05d31a3b3c55e0da12662920bd22bc9bd21c01cd85abeb74"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-ai-stack-animated.html",
+      "字节数": 53486,
+      "源GitBlobSHA1": "b57052458246af33ba441416ac780156d62f4fa4",
+      "SHA256": "f8448f23ac359dc698cf19a1288080f1f804fb8f157fbc830aa7d50fc1c930a0"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-ai-stack-dark.html",
+      "字节数": 36043,
+      "源GitBlobSHA1": "cba3faf4625fea05ca43b6db037bf273e54ea8a1",
+      "SHA256": "2c249164a0959ad426b7d6e071c5c66fc05037e6a425601ea1b90025b81f29b0"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-ai-stack-full.html",
+      "字节数": 38911,
+      "源GitBlobSHA1": "b04ca261b271114722b247b9d2eeb3b4ba60fe7f",
+      "SHA256": "0f1ba200c4f6391fde4e1b350889ec50d63c4c1ead0fee680b1bcf4b4e9cce6f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-ai-stack.html",
+      "字节数": 36058,
+      "源GitBlobSHA1": "2f8066518f48a9161c8b33384d99cd91fea057fd",
+      "SHA256": "d2ac4530f8e3fb8eb9b4f344704ab9c36c3e983e6e5f8725250df1aa06b0ef2b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-dark.html",
+      "字节数": 8543,
+      "源GitBlobSHA1": "da38b5c36d44f9c957b60445863abec18a07f7ad",
+      "SHA256": "408cdc4779bf0db7456cdda4651cd1678adbb129c5c06ba6bf0d6632b544770c"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-full.html",
+      "字节数": 11447,
+      "源GitBlobSHA1": "21c44a86602e0070a86b35063e2475e2441fa07c",
+      "SHA256": "3f1ab91f536a6dd3547a61e2150b31a49bf9ba154ecc6f3bb813fd3d9269f16c"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-keyboard-animated.html",
+      "字节数": 208294,
+      "源GitBlobSHA1": "04cd068932af340c19da970bfeb057e7332345fe",
+      "SHA256": "7fac285e6daf22592a35cf1dedd6c54673923815b6c1f2ab20477464978e7566"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-keyboard-dark.html",
+      "字节数": 180795,
+      "源GitBlobSHA1": "6c4a3ff654106387d6de0e3a946c832689f606d0",
+      "SHA256": "95ab0d91853a75c45e8b66de73373ae55bcd71fb722fda15ad586b6b0c04b0b4"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-keyboard-full.html",
+      "字节数": 193684,
+      "源GitBlobSHA1": "fa242d9f13e4f58440d1607ec57367f143a344c4",
+      "SHA256": "8b1fb4cee1d8a80f710296cdf25e3985ae4041a3b6a3084b35e8e695de3527ca"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-keyboard.html",
+      "字节数": 190868,
+      "源GitBlobSHA1": "cfebe94e795c9554970c8b9106d3b1778829350a",
+      "SHA256": "858d60f2af6025301751a296125aca03cd7ea253d3efa8fef0e74df953992dc8"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-phone-animated.html",
+      "字节数": 34616,
+      "源GitBlobSHA1": "dd67f08331630f0ff45b1b27f33f38395f792039",
+      "SHA256": "de0bb80121f68b34449a08f028da0d1b5007aae88848ae79c8db7419a8d77067"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-phone-dark.html",
+      "字节数": 17431,
+      "源GitBlobSHA1": "8808014dfcd8f6c899b3cbf2348320bfff2ca089",
+      "SHA256": "7dc2c3785b4456b54229f8c5fe56a22253614fc464ba7550e7f73c0619c21731"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-phone-full.html",
+      "字节数": 20048,
+      "源GitBlobSHA1": "6e38feeeba9d47344585a6134609d43160858207",
+      "SHA256": "87c750c84a4e8811e09eef44cb9fba5567ff7fbc559718683b92922b954f6c4f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-phone.html",
+      "字节数": 17302,
+      "源GitBlobSHA1": "c243788230decae29a1437c6dfb61717e3c4d47e",
+      "SHA256": "3866a52045df1b95333b09347b010871a73422f785bd7aad5de14fcf1f2189ef"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-unboxing-animated.html",
+      "字节数": 34065,
+      "源GitBlobSHA1": "a14bd803fb3f648f67a125dafc2b531cd96e3b74",
+      "SHA256": "b0b081c3435ec728c776638757f69b8bbe286d40eadcafb0c1816d65b315eb00"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-unboxing-dark.html",
+      "字节数": 16707,
+      "源GitBlobSHA1": "b66cac1935ec107402c3cd8a3c32e2cd0094fb3e",
+      "SHA256": "3bbe1e9be1c611e49796bdfe47bf69c714ec5e0ff5a13921cce548cfafe94f0b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-unboxing-full.html",
+      "字节数": 19391,
+      "源GitBlobSHA1": "9e60aaa7b1e8b27ce893aeef99686e491e375b44",
+      "SHA256": "601554b9fc46d378031b89f78454a595821a0a693d4eeb916c088d2ec157c628"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded-unboxing.html",
+      "字节数": 16644,
+      "源GitBlobSHA1": "1bfc7a444132ae744f145e4db10bb331a1085feb",
+      "SHA256": "9cbec60cb42ca24315f5e3392485699d24a3d22cd0879e128eae5d3988b4333f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-exploded.html",
+      "字节数": 8724,
+      "源GitBlobSHA1": "04c3d89236b048f12c89c2876af6a1d41ddc521d",
+      "SHA256": "07eb320afdaa31516c221a80a9ae6a8e72be62185a8b790841237db823ef638a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-fishbone-dark.html",
+      "字节数": 8675,
+      "源GitBlobSHA1": "46e6c2fca4e6c3f948540271c7b119647bdf0158",
+      "SHA256": "f884b81b83f7ce40cf85b8aa6c3a55db99b7fb2d38502deff222aaff36d7db47"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-fishbone-full.html",
+      "字节数": 11407,
+      "源GitBlobSHA1": "d461dab269f68f14c0dc2ed48c63acd132b9f31f",
+      "SHA256": "cb55d2df262eec426d61503758aaef8c1f31322e71ac8fec5a2912655bfc337c"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-fishbone.html",
+      "字节数": 8648,
+      "源GitBlobSHA1": "554a4ace4476e9983a284e90e8727c82f461b2a8",
+      "SHA256": "d0925f006f7ae339b7e3467886dc069e73def905e1316a5de00b2baeb61a63b2"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-flowchart-dark.html",
+      "字节数": 9446,
+      "源GitBlobSHA1": "e918695855b7bec1f4e26854f004c9c590495023",
+      "SHA256": "9b69415f880744d1c3dff23cf1dfa6bfbcc3bf38178456ce6668a74b783647ef"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-flowchart-full.html",
+      "字节数": 12295,
+      "源GitBlobSHA1": "42df4401f58ef784d9714742e50dabfe911efc3c",
+      "SHA256": "68bdada8201f46df8c76aa27be10194bc8d870a683696d400435817a19f0b696"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-flowchart.html",
+      "字节数": 9395,
+      "源GitBlobSHA1": "cf9053045f852422949990caacb74b366f15d89a",
+      "SHA256": "f9c92596d77b010417b78f710ae96cf161395831ad8e51153caa41fa4a31446c"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-gantt-dark.html",
+      "字节数": 10331,
+      "源GitBlobSHA1": "35a71807adb453caa23a9fd68664e34ccdb674f4",
+      "SHA256": "777c051f19001dbfdf9ced01d836622bda2ee5ad9d2d753012cd6f23fdde70d4"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-gantt-full.html",
+      "字节数": 11895,
+      "源GitBlobSHA1": "c0d47865fe9086d6beb9107bea33ebd4f81abf63",
+      "SHA256": "171c7bed870d24976124e3f56aa884bd107d46380dd212bb0300fd92badd91b2"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-gantt.html",
+      "字节数": 10072,
+      "源GitBlobSHA1": "06d68820e688c38755584bcebd366a635689e4f7",
+      "SHA256": "4e017a543771aec9338e15df3be5f9278fa4883e306373c4ea0555b65c7c43a4"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-heatmap-dark.html",
+      "字节数": 18248,
+      "源GitBlobSHA1": "5e35f908f17a109557438e8d662ad2c819204927",
+      "SHA256": "6ec2953db65dbabcdbd5abe3d43f7e001524317ddd3e1230398f9de927e547c0"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-heatmap-full.html",
+      "字节数": 22036,
+      "源GitBlobSHA1": "5c917de2817e8715e5b5746e81815d4c34245a4c",
+      "SHA256": "f3b92bf979a5504fd2c5bc4c107830ec50b43cc6685f662976a28739c9691f2d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-heatmap.html",
+      "字节数": 18108,
+      "源GitBlobSHA1": "043b40f7562bff14e94e674da0777469119807f9",
+      "SHA256": "18ee707bd2235b0530250218a4aa98574db42abcbfa02dae92c70b48cb0261da"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-high-level-dark.html",
+      "字节数": 24080,
+      "源GitBlobSHA1": "899cd54dcdceba3c92b60604bdddd1bf859fe206",
+      "SHA256": "d47d9056f2972d8ae68ddaabefdaf65c644cfafa2e19123e9ee0a675d19a0438"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-high-level-full.html",
+      "字节数": 28360,
+      "源GitBlobSHA1": "d92aca58b97480d07fcb3f724c6600b0b8580c4f",
+      "SHA256": "359dc10e77c8de97550dbfab993c4ce4d683bd089a44302e20c1dcd4ad27501e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-high-level-vertical-dark.html",
+      "字节数": 24854,
+      "源GitBlobSHA1": "a1cd5653dbc1f51fbe0d12c60d3fdd97d32a8827",
+      "SHA256": "aabf08d05808d96ef6c5b16395830234022ce1f48abf8c56b2719acdde9a8aa2"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-high-level-vertical-full.html",
+      "字节数": 28619,
+      "源GitBlobSHA1": "396b913d02a308e4c3a24404d8c11a9be4753a13",
+      "SHA256": "70a7fd733caba9e8c1bd05ea96b10bb22cb15594f24435058acfd4735f6fa3ae"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-high-level-vertical.html",
+      "字节数": 30380,
+      "源GitBlobSHA1": "7ec275faabba62816cc71f0c363c734a02791820",
+      "SHA256": "371385a4fd00a7d9f3896ac44417352bd7276e86488c3f4eaa72bd6df2902ae7"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-high-level.html",
+      "字节数": 26902,
+      "源GitBlobSHA1": "7ed148b77bff7801be31150f90aff96776baffc8",
+      "SHA256": "7fc2cd00413de7a5221dde192403f87a8bef883984f8331f64c56f3bc387fa5e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-import-drawio.html",
+      "字节数": 12079,
+      "源GitBlobSHA1": "429d716142aafbabfa49b9b6e31d817b63df5c68",
+      "SHA256": "4404af257bf1216ef9959f3340cd82f2117d29d548b571e94ccf7931d4dd6bcd"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-import-excalidraw.html",
+      "字节数": 7689,
+      "源GitBlobSHA1": "273a7e8f9ec0ffdd25ae960b4bb3f25e76b99c48",
+      "SHA256": "8a09e53ae6b0efbb9360784917117e784f90da53a4cc1de2a838e3ccef57d712"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-import-mermaid.html",
+      "字节数": 8105,
+      "源GitBlobSHA1": "dc77361bc55f599c0d4ca2c1b980614d955ab78a",
+      "SHA256": "ed6109da74fe8fa2f5d6385ef1dda20e1b2d95c3e3d2d274499362de1aa20db9"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-import-plantuml.html",
+      "字节数": 10239,
+      "源GitBlobSHA1": "94f9e5ef14f211403937c60acc32ee965fa50e92",
+      "SHA256": "95cc95bca1bbfc327e442783c71427fabe02383a0d0793bd91fd7b2e5c474106"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-it-state-dark.html",
+      "字节数": 11992,
+      "源GitBlobSHA1": "69e7e485c32fbdf420f4dc7321400fa08a84e622",
+      "SHA256": "3b571ce2bc0810586d8c125936fa1d90a898bad74b1079a6d8c6699024ae4c15"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-it-state-full.html",
+      "字节数": 14223,
+      "源GitBlobSHA1": "835afb113fbee9f3cfab74988d7bc37c6888caa5",
+      "SHA256": "ca864942c8d70da13e2ee19a35661c45be8c42ae79317eb08da2b1f5689a51ba"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-it-state.html",
+      "字节数": 12498,
+      "源GitBlobSHA1": "8481df94002b1e1ad15e41991b4a9363846f3305",
+      "SHA256": "9a91ec8959b77734745ddfa19f3dbf2992a3bf1134cb7352b9778ab3253e8d5b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-journey-dark.html",
+      "字节数": 9153,
+      "源GitBlobSHA1": "1111ff0d932aaec76087b8a9f2afdb520127e18d",
+      "SHA256": "c1866ca355d8859d27f6e99d9e2415daf204c313ed4463ae9663ba9e930a9949"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-journey-full.html",
+      "字节数": 11721,
+      "源GitBlobSHA1": "df7d946355c10553f405841ca73dcc0ed9d4d951",
+      "SHA256": "e739a7a1dbdd24bd3d9faae798ca02ed7d25b6e6944db1f43307287d541b348d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-journey.html",
+      "字节数": 9109,
+      "源GitBlobSHA1": "f09031f73c8b799c1386ceb2c01c9db716870fb2",
+      "SHA256": "3703a5f553e1daabbf17d9785626ab63508bde326967bbce1390c1a72a0f2b37"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-kanban-dark.html",
+      "字节数": 11036,
+      "源GitBlobSHA1": "bf6643cc76b514cdc81c649cd42f305de70422c3",
+      "SHA256": "30809cae8600a1852131362df275d9ab1c6aeedc65d3855caed264d48e19f5dc"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-kanban-full.html",
+      "字节数": 13899,
+      "源GitBlobSHA1": "d7ee559ea32d3f56c9476fa5863467344b44c2b9",
+      "SHA256": "e557f78ae75b4f088f148ff7e3006d8c4aa0f8dfc0824e237ba656eb566021f8"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-kanban.html",
+      "字节数": 10945,
+      "源GitBlobSHA1": "4ed1e033b4c007509f615fabcd36090457cb6ae0",
+      "SHA256": "9171e229f6ca68c228a8ab3f47bd4a4b69f2ea77c2738282713a5f6271b32e1e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-layers-dark.html",
+      "字节数": 6913,
+      "源GitBlobSHA1": "c03f897714fd75a8e116ac0c4e016d3c73e9bf01",
+      "SHA256": "412df7b0710cf14cd95c1e806e708241bda6b3bc8e1f142107adf857ed6aa7d1"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-layers-full.html",
+      "字节数": 10023,
+      "源GitBlobSHA1": "1779f0c6a04af9fe01705542cb6ad5eef76362f4",
+      "SHA256": "6d9a2dc1eaa4f2d7309d93b8dedb9e379bb9debe42787030ee474725d26e68d8"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-layers.html",
+      "字节数": 6875,
+      "源GitBlobSHA1": "92faaafc3b87cc0446e82d1a61dd9c2564a4ed21",
+      "SHA256": "e4edabd125d9d9de3e27d2a530b7e791042910e97ec71c3d8e23912eafda5082"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-line-dark.html",
+      "字节数": 7608,
+      "源GitBlobSHA1": "87294a6c22dafb8f1d76136b84705326e35114c8",
+      "SHA256": "552abdcac08788dac5ee7fa419ab854c5e09451b69822eb48935712880382a9d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-line-full.html",
+      "字节数": 10051,
+      "源GitBlobSHA1": "2ec71a97705eb5a4c65929f60bd01879dbc6f14f",
+      "SHA256": "d121a15bc242986e2ce490ea34623ceba4eca96d6e16a531ab985fbc60dfd079"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-line.html",
+      "字节数": 7440,
+      "源GitBlobSHA1": "e59922159af342ed8c9c65ab4ba7ef052c2cfac1",
+      "SHA256": "8d53adb388306a8593a72c4eea063b8a95a0ba79d2134f51313a645c2554e227"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-loop-dark.html",
+      "字节数": 6821,
+      "源GitBlobSHA1": "ecad93f0701ab0f5fcff4f6b4f5a394b9fe36de5",
+      "SHA256": "8ef6feecb47dc6043e1a7714fd0a795e357d484d38df35b594be85105029eb01"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-loop-full.html",
+      "字节数": 9964,
+      "源GitBlobSHA1": "cde9ee5be1b779f9c1530f37e37c611d4c0da346",
+      "SHA256": "975a0d3e2954b928473fdc4e6e1720c84ebf23a84cc295434ea2ec74894d4cc5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-loop-terminal.html",
+      "字节数": 9993,
+      "源GitBlobSHA1": "2e22273acb3910760c78b646c004678a4a9254a0",
+      "SHA256": "93a2f86cca043537bf472973c6c1d51de54d85208ec54cd448c40e3f09aa73e8"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-loop.html",
+      "字节数": 6789,
+      "源GitBlobSHA1": "c9d7ac5cbaff24216b0c4ebc7eb2e7978f04a7ab",
+      "SHA256": "7346157c67b6994b274772d0ffeb6c5ae2e935991246bd541e4aab84e31f3a8d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-marimekko-dark.html",
+      "字节数": 13604,
+      "源GitBlobSHA1": "5134a660a789907a84bcccd33aa71a4eb969d808",
+      "SHA256": "91371c8c9915cd5a9fa5d04ddd425d2a17df8b495e2c1a195de8e73130bb3f44"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-marimekko-full.html",
+      "字节数": 17040,
+      "源GitBlobSHA1": "271ed6bd757bccecc1571b2b5d8e1d0f39277317",
+      "SHA256": "e809f059a9df5634a62bcf0444311bb391b2168b45f4c4d4842a2692f1ff48b5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-marimekko.html",
+      "字节数": 13496,
+      "源GitBlobSHA1": "6ea9884b836883612de54e040ba5f708b935fddd",
+      "SHA256": "2b1407bcdc69114d3c74ac4a7e257d5081212b87c2aff05913044fc622c46b4a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-medallion-dark.html",
+      "字节数": 13052,
+      "源GitBlobSHA1": "5019dbced2c923c4a7c10f814b1ffffb65729f42",
+      "SHA256": "de936de0ee480c4fe9d789f576e1f9bbbc69613c903b73435879f5cbf02cb23e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-medallion-full.html",
+      "字节数": 15894,
+      "源GitBlobSHA1": "69eee77f0fa99d662e0ba7db88ab0b4f1b69034a",
+      "SHA256": "8d75d30cb7ae0d3a5479a929d0b288b8ec8cc9072e1ed167d68e97c64321b376"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-medallion.html",
+      "字节数": 12861,
+      "源GitBlobSHA1": "a75304d4e00b3bc15fdf60d7bfbedfc9347e5533",
+      "SHA256": "ccd63d89878af1f9d1bcc83e126ea11254f4bbfedb3d87a21e7242793cb2c526"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-nested-dark.html",
+      "字节数": 6735,
+      "源GitBlobSHA1": "bebcbdb01a0e149fdc1b8d08672338c41700de6d",
+      "SHA256": "8c9862a5a41d2fc5485b51cb9aab318595ceadd2f799ccab7b57e3183906c4c5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-nested-full.html",
+      "字节数": 9844,
+      "源GitBlobSHA1": "911f53f1c16f6db8c11726bcf18668c6c5338137",
+      "SHA256": "2b87e484fee759346562080dc7639549176af7998389cb0a8be7303649246494"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-nested.html",
+      "字节数": 6854,
+      "源GitBlobSHA1": "2b1413caf0a4d755c37c7670ec980b3c0f370e27",
+      "SHA256": "fd4001be8af64a8aeae2c9b46e6f476030fcd8791ea3f9b508a503fc5bc70ffb"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-org-chart-dark.html",
+      "字节数": 11599,
+      "源GitBlobSHA1": "b1ebf40523af007f57afdedd1d9851005f842dc6",
+      "SHA256": "2cb9f912a9ab635fe72924425a23aabb3ddfcbc704e6fdbc12cd0399b2d1de5f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-org-chart-full.html",
+      "字节数": 12049,
+      "源GitBlobSHA1": "e0b3b5479154f0fa282a57dd7b6f072f9553bf9a",
+      "SHA256": "f74b14ed6e30a7cf8bcdc8e78dd97c7549d6c73187dea81a13c06edb6e6b1d78"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-org-chart.html",
+      "字节数": 11527,
+      "源GitBlobSHA1": "5191b2a397ae48d4af680e9a942a1ea9bb899ace",
+      "SHA256": "82356766f5d5af0c10fa60a728c784674138c45416933c15f58d5553a7f4b9b4"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-paved-road-animated.html",
+      "字节数": 28321,
+      "源GitBlobSHA1": "526b5d3d1d0b83a3aab3db8b868a4727347ca592",
+      "SHA256": "a17f220a610f0616a1d416bde05cb8591182293ac6cd25e3746eaaf08663fc19"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-polar-dark.html",
+      "字节数": 10447,
+      "源GitBlobSHA1": "fcb1944f856779a42b65d3aa37d20c300e55cc05",
+      "SHA256": "7c284696cfed61e832dd4dde814840901967cca64bd54a4cddfff7cbeaddb04e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-polar-full.html",
+      "字节数": 12653,
+      "源GitBlobSHA1": "e2967fc4a239a7fca3813f5f1e88044d35a3d08b",
+      "SHA256": "be8080fa08a05dd27191d3a26585d1246153f9fbdcd5122533833ae57eb016b0"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-polar.html",
+      "字节数": 10385,
+      "源GitBlobSHA1": "bbe1e8c5d672f95cf731a90919ba6029e255fb51",
+      "SHA256": "3bbfe08f63c9be96cecfdb7432b8236d2f0788bf6008e69254cbbef18cd3fc39"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-policy-trace-animated.html",
+      "字节数": 25465,
+      "源GitBlobSHA1": "c36b415e296973e96a2177de45896ab94e65ac88",
+      "SHA256": "1303da75c366e6013dadbc4be0126ab9db34ed0c7a2fdae507c9bd449e871307"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-process-dark.html",
+      "字节数": 15033,
+      "源GitBlobSHA1": "502c89cadeb1bd7e091fdb5a003a873582cdb671",
+      "SHA256": "eb0a12c31ab57cce1f300e03c40aedb6d1a2d035320901688b12f32a3805475d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-process-full.html",
+      "字节数": 17467,
+      "源GitBlobSHA1": "16fa0dd73a3bfff54cc65b5d6fea72d0abab8783",
+      "SHA256": "801c93a1cde612566800cf6a07dd77ce5c030d4d065153946bdb84d2d88b8bf8"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-process.html",
+      "字节数": 14997,
+      "源GitBlobSHA1": "8e72e9621578b6137d4a3d4ee4e339026d329f41",
+      "SHA256": "7c336a00d6a63fbebd2f9055af8df1b421f25a209900aa70c4028cd747982fb5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-pyramid-dark.html",
+      "字节数": 6682,
+      "源GitBlobSHA1": "b86fb668b43e469b3645c1303337c5329baf1629",
+      "SHA256": "831bc6531d0b3b0eba1b348722a0b3e4d5548f287f5380ddb7e26d3f5edcb80c"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-pyramid-full.html",
+      "字节数": 9731,
+      "源GitBlobSHA1": "140092656bc325d9654ddfdd57537ea5286efd3a",
+      "SHA256": "ca4c4c9a61072c25ec6e3446c8247f201b89d781d3d2000783fb7a4d50680e1f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-pyramid.html",
+      "字节数": 6576,
+      "源GitBlobSHA1": "51b5a382d609d28d9ca59a43058a5c57bfd645a9",
+      "SHA256": "a49c1dd8f932ea82253c7fbbec54365cb722ae65fba975a15c2aa392c27c5fbf"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-quadrant-consultant.html",
+      "字节数": 11881,
+      "源GitBlobSHA1": "c8beafd1b65a72fda986ff0b1618f7a6cb4834bc",
+      "SHA256": "0eff4b878e56a0ca3104457128254b1c5b329dc7ed6f891c10807063ccdfb983"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-quadrant-dark.html",
+      "字节数": 6606,
+      "源GitBlobSHA1": "0d600cfa52a827e82db1bf2c9e89cf767a89bd7e",
+      "SHA256": "ac1edf5d9c1251a51a93eb82db17fc1820811f1934ec59c1272ea7f89c501465"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-quadrant-full.html",
+      "字节数": 9620,
+      "源GitBlobSHA1": "2834c5d1b27f1e4bf5435ba4296bfbe78455f4a8",
+      "SHA256": "b4182d3f570e7379b0124667a3268b41f704541d6c6b2e44a4bede954b851457"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-quadrant.html",
+      "字节数": 6573,
+      "源GitBlobSHA1": "8cef09aeb021438fed5a897e965bbe2d9bd5ca03",
+      "SHA256": "95f6100d6059a773bcce44d42a9eedba925226c65cacf6613b8488330ae09934"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-queue-animated.html",
+      "字节数": 30003,
+      "源GitBlobSHA1": "e42358d1abdaea02de5a1aa6120db0ed7dfbdfde",
+      "SHA256": "826566166454ba86fafd1731f6e591bbdbae0cb6bb49f5968222c49660d5535f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-radar-dark.html",
+      "字节数": 7687,
+      "源GitBlobSHA1": "9ad78d503b8dd9423d990bb6d8f67537d13248e9",
+      "SHA256": "e24eabbc722e67b83ac498407247e1c09d162ff19e047944a323d44594a68258"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-radar-full.html",
+      "字节数": 10429,
+      "源GitBlobSHA1": "81ae22939929fc5494f2ab01bf37480188315ca9",
+      "SHA256": "5a95adc1d24f5f02b0e5f2c27d901b8c221f50d5586da0e387cc58ecbf34976b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-radar.html",
+      "字节数": 7863,
+      "源GitBlobSHA1": "9e303522030e0a853cc2544cfc1e0effaffa4ab7",
+      "SHA256": "9572164b5aa0d8d1e0e713e8ffb7ef750d0b04e06d3eb842829fa4bdaaaff2c1"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-requirement-traceability-dark.html",
+      "字节数": 10882,
+      "源GitBlobSHA1": "0fa88810b0bf0cd1d3ad08bf77763d41d817b9ff",
+      "SHA256": "57d580a3afc4d55b417c75ec74bb515823f7fe852151f757c6e4d870a83c742d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-requirement-traceability-full.html",
+      "字节数": 11216,
+      "源GitBlobSHA1": "592f5e55fbfad20ca479d736ec42df38e8c81379",
+      "SHA256": "add40cda3a230d2f46a0f8e0b84a993505dd1221a0fe198cf996e8558205016d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-requirement-traceability.html",
+      "字节数": 10727,
+      "源GitBlobSHA1": "7c41f4eb2ea867c299ddd5b89d7ea81e524a70c1",
+      "SHA256": "2714f14ef1b15264a566997ae523b46ca0c13a4f2cc145817f43eb78ae56de39"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-ridgeline-dark.html",
+      "字节数": 10354,
+      "源GitBlobSHA1": "ae9dab65626dcef0310faa9e193ad84b8b3ed2cc",
+      "SHA256": "b430c4ec58ab69c044cba2eb39e20adbc8769cbd85fb5f41d8c3f75136d62f90"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-ridgeline-full.html",
+      "字节数": 14273,
+      "源GitBlobSHA1": "7afd9653a753cd4d32af05473a7a488f6d6eedcb",
+      "SHA256": "33fd98b39d5316ca4b65a65c8cd331c55d032ae5d7de3c94feb5e506168718b9"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-ridgeline.html",
+      "字节数": 10281,
+      "源GitBlobSHA1": "a2b620eb1931e53ae7ab9b55b61911aba8b4ab2f",
+      "SHA256": "8c6a17edea0742642bfa991ba353c414d2e7608fff09c073d52c3f9de2d71337"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sankey-dark.html",
+      "字节数": 8969,
+      "源GitBlobSHA1": "ee79097970665ded88500b6e16fc7f2ce03ed22a",
+      "SHA256": "4c2a4ff17cfba1412aee8b6569e76c1d314d9ce64d6038c99e89505225b9baf1"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sankey-full.html",
+      "字节数": 11814,
+      "源GitBlobSHA1": "72d4b9bfd499b3a13a5ea059705fa9fddd7c886e",
+      "SHA256": "33f52288399db22c20374ecbfd26ec597b77f3512c03115cea240ece21485bb9"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sankey.html",
+      "字节数": 8921,
+      "源GitBlobSHA1": "910c214f56f3383c3d80709949386f55b7678a00",
+      "SHA256": "5997eca7d06b41cc779abed904ef1b782a5d9be160f9dffcb0fef067142b904f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sbgn-dark.html",
+      "字节数": 14584,
+      "源GitBlobSHA1": "0668ea2df85b39521e1469fe1bb7e326df97b5f4",
+      "SHA256": "66a7bd8d24698ac6be39b5446ccfcf85b30febaa1624e4f2d494428be377de10"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sbgn-full.html",
+      "字节数": 17468,
+      "源GitBlobSHA1": "70e87901e9acf587be17ba164dbf164da22cd319",
+      "SHA256": "9d9abbea9421019070d088212cc05760b69b739213315b97f4dece24732ef410"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sbgn.html",
+      "字节数": 14476,
+      "源GitBlobSHA1": "d1c7bd1c24b9483fd719ba35c912ea5751b1dcc9",
+      "SHA256": "58fb8b36be1a47d0bcf9a0eaefd4e9eabb3988f69024a184ec740726bc483253"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-scatter-dark.html",
+      "字节数": 9666,
+      "源GitBlobSHA1": "47198f6059d48c1651459cfa58bb2fb9363fffa7",
+      "SHA256": "347bea032f65f2698f1ce0fe2a5fc01b02dfa03e4fadd84c7a4260369d95fb80"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-scatter-full.html",
+      "字节数": 11577,
+      "源GitBlobSHA1": "b6a2f7c6b1c824ee9a02fac02b259e42df0eb480",
+      "SHA256": "af03bf90e91b1a4449ee5b776f08df07a40dec1c1fa27457dc75540c8fa4e379"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-scatter.html",
+      "字节数": 9423,
+      "源GitBlobSHA1": "11fc90d03c2919a1cc6058a4c7edc4184fdb5ba3",
+      "SHA256": "baa3fe5115e6a0448fd90629c20729b78eb735d5d95b74501f8d3d0fd8183980"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sequence-dark.html",
+      "字节数": 13794,
+      "源GitBlobSHA1": "9365d054ab6d77a3c87ee386cc019aa820dd9dee",
+      "SHA256": "f2c0fc2e127bce07c78ff09e6b8540f4993d1d85deafbca73af4834b8944e89b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sequence-full.html",
+      "字节数": 18212,
+      "源GitBlobSHA1": "a270dbc2264fe0564b39fce26801434a3e197ac1",
+      "SHA256": "8e891b0498e318431dbf0a87c7e5a15d4ab51ff513cfea1fc7a71a68642143c9"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sequence-oauth-dark.html",
+      "字节数": 12113,
+      "源GitBlobSHA1": "7434166ece2a1c3682091d17b0fcebe27ab04a61",
+      "SHA256": "5d4755a698aa868126b51049445d3468a7b40401e902a80319a62a31a7969e64"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sequence-oauth-full.html",
+      "字节数": 16581,
+      "源GitBlobSHA1": "ffddee4a849d37300fdde2bf604c24239a593451",
+      "SHA256": "f067c6bce636a823ac0aaa66c035bb31d75f793f77fb36729110fd9287213fe9"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sequence-oauth.html",
+      "字节数": 14362,
+      "源GitBlobSHA1": "ff48c14353ae716f2892e620e59c03fba9a0a3d0",
+      "SHA256": "40b38df11cb54fe055c223a44ddaa7363a2ec0c030dc995e7951a1fb8df42083"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-sequence.html",
+      "字节数": 13723,
+      "源GitBlobSHA1": "070d7e68b127fc01d1c963582c1418ef1124bfee",
+      "SHA256": "aac9bfcad5a001206567a577e9816e3d0904bb3e1afc9d8505fb576b93292db8"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-service-blueprint-dark.html",
+      "字节数": 14978,
+      "源GitBlobSHA1": "67033fb6048cd47ae2cb035d3b3ddc4c3a7fa8d5",
+      "SHA256": "b09196833e457a760a435bbee90d21d09525b42ea467e0c0484b8573eb67f6bb"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-service-blueprint-full.html",
+      "字节数": 19464,
+      "源GitBlobSHA1": "38401d9355650fac1f147d4e8a3fb6ec3688d5cf",
+      "SHA256": "23a36032d1f4ed031c1bd353a03504e4a53b29a766f2020f9619949f3fd67f53"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-service-blueprint.html",
+      "字节数": 15842,
+      "源GitBlobSHA1": "fa480e95d36600ea52460903f5463f5484555ecd",
+      "SHA256": "e7c29fa4e09c5a7cff1ec75ee2310e3f1d623f4df80854dc2d72a2dd87c31c87"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-slopegraph-dark.html",
+      "字节数": 10452,
+      "源GitBlobSHA1": "0535a9eae6e4e952b62917ac6205f349fb216d34",
+      "SHA256": "36cdffff3d70fa34b091dd0e7814a8892cc6c3436525c666402d790cbbdc5ecc"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-slopegraph-full.html",
+      "字节数": 13992,
+      "源GitBlobSHA1": "456c19c1bb275aeef643ec5bd7b00700d2650535",
+      "SHA256": "1815f1854f486c5163780f2d8f9cf9c0b96a7e42594099dfb31bd14c453a1f55"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-slopegraph.html",
+      "字节数": 10370,
+      "源GitBlobSHA1": "88f888af8b94b31f469b92a5de8e14ac6f73a195",
+      "SHA256": "c20f22a1ba7ae6388d3fae506927242173475f6447da655a96f06f92adfd706e"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-state-dark.html",
+      "字节数": 8698,
+      "源GitBlobSHA1": "3f9b0236d62c14cafede9980f0b9ea7c8f185982",
+      "SHA256": "d5a29f22ee80fef6fe6f857e767fb0bf4afca8bc8f8cbb478f33286d76f88706"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-state-full.html",
+      "字节数": 11623,
+      "源GitBlobSHA1": "423f24740ae5c2e2b52b23baf4c52dfefc2b5d41",
+      "SHA256": "683febd8bf1c1658f52f44829d2e72e73453484b54d36409737961718fa2a83c"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-state-lifecycle-dark.html",
+      "字节数": 9633,
+      "源GitBlobSHA1": "b30555ad082facbfff0c882ea897a81b3c3c8150",
+      "SHA256": "caf933ffcfffd7cc46e4354d5d3dd4d2c0ea8fc5c56e5fefb9b0ec63dc3358d9"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-state-lifecycle-full.html",
+      "字节数": 12624,
+      "源GitBlobSHA1": "48599fdae978349ad56cbc4190dd6c437bdb5f58",
+      "SHA256": "6b354ce8290c458d3fdce5d30f8f759c8879c9ca490c115156ff6e746c4d3cc2"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-state-lifecycle.html",
+      "字节数": 10236,
+      "源GitBlobSHA1": "3c53a1d505a3b81c11cc9a2809463be7d4d4ad73",
+      "SHA256": "0c8406d87facec01143bc4356d896a3ffdc7c429ae481e7ee9fbcd06bfae674c"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-state.html",
+      "字节数": 8662,
+      "源GitBlobSHA1": "223c40c5bc35fe0e19b2cdcc165df1e07eccbf1d",
+      "SHA256": "33a210ded8261c3117222a7d897a17ccddae89267c4779f19eeaf868a5545a15"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-steps-dark.html",
+      "字节数": 8377,
+      "源GitBlobSHA1": "4a38fe61701ca925f3500f5c2d0ef2e023ff598e",
+      "SHA256": "8b843dc4b13dab50ee21655c3fda409a391e8b2c4e57a9e1e677a1388d2c6bcc"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-steps-full.html",
+      "字节数": 10612,
+      "源GitBlobSHA1": "84dcb4849f965ba9dba8509ed93de8287e3649d5",
+      "SHA256": "7b61dc17af1da242c6ddbb3957b592975a400482b359cb7649355ac82f77cda5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-steps.html",
+      "字节数": 8370,
+      "源GitBlobSHA1": "28f1a8a4cdecf22124dc09b30a1fc021cda6402c",
+      "SHA256": "86c1a6acba504c9d04237c5a66d94dce01ef64ec4f89edca16a5fa8a74f6f14d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-story-map-dark.html",
+      "字节数": 12247,
+      "源GitBlobSHA1": "2815f1b5dc8c12a621759b3a4873915558536f14",
+      "SHA256": "0c288216307ff36b43b513445e0e63fa83ed5902695ead17fdd507a470acc6b7"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-story-map-full.html",
+      "字节数": 15483,
+      "源GitBlobSHA1": "463a28d7bf2dd9cec01bfac30ec9a3bc62c6552c",
+      "SHA256": "fd3a8394c161f8db01c51eb8c3e89b3e0e6fbc85da45c221820dc4ff18036362"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-story-map.html",
+      "字节数": 12186,
+      "源GitBlobSHA1": "b9e960e7d9aed25a089ba7db03f9249b5b75460c",
+      "SHA256": "2e8765e83ee8fb3c62bd31105d3a73b9f11400035036466d14ec59874e194dde"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-streamgraph-dark.html",
+      "字节数": 13002,
+      "源GitBlobSHA1": "1ae4ad39d908e795d30b10da43f7523443ad919a",
+      "SHA256": "986d4485111c165a18f0eb86055aa326f932c618d26c32f90d6b9457f9189515"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-streamgraph-full.html",
+      "字节数": 16442,
+      "源GitBlobSHA1": "83372bfc80c727fb9610ac3df86f80c5005284d0",
+      "SHA256": "dbc513480b04e07056c6ca0532017ea56b107c278eb70360868fa484b762aedc"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-streamgraph.html",
+      "字节数": 12941,
+      "源GitBlobSHA1": "f7d1e9be0abd038d7dcae5bb1b0b2428930942dd",
+      "SHA256": "92f45dca6ce38436d1a790424ec1212b4b5eed74a1a309f85fa037c68facbff5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-swimlane-dark.html",
+      "字节数": 10580,
+      "源GitBlobSHA1": "2a7a3a8c37b46eea437a112883f9e31687878f66",
+      "SHA256": "d7038fab163c5fc5f56b58502a0d1e07d2961d08a6f6cd10a729864d670186de"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-swimlane-full.html",
+      "字节数": 13524,
+      "源GitBlobSHA1": "106638df7ee3907570986da0468c80bb618c207f",
+      "SHA256": "dc7bf931bb2ee07072f0fe1e151b0b39a79e0da0317836f897c46b5d2a88953d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-swimlane.html",
+      "字节数": 10534,
+      "源GitBlobSHA1": "45aaa9635ccec074fb8ffa7e2c9ec2c689c4c375",
+      "SHA256": "c044be167127091b9bc442fdfe7d1dea439a7de23ea2c9819fb8382e511bb6e9"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-timeline-dark.html",
+      "字节数": 7390,
+      "源GitBlobSHA1": "7b2c140c4cd2d05f12ebec9528b2293cdcad85b0",
+      "SHA256": "fb9a45991b281e7937e8288abbfeb6eb12e0140ee5dcac17821721d5129fb647"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-timeline-full.html",
+      "字节数": 10391,
+      "源GitBlobSHA1": "e0b53484f2d6869cd9c503e5a7618030b30ca28e",
+      "SHA256": "03b38d6dc44286113cf6680ece546affa53ff13092118fb8b4a68b671f55069f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-timeline.html",
+      "字节数": 7338,
+      "源GitBlobSHA1": "e5399e49da9d9e30e19dfbfbceef32103eae0117",
+      "SHA256": "d853c86bfd40491d5b747a07ca10b9d55d3349701ca01f508d83ba972b805788"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-tree-block-decomposition-dark.html",
+      "字节数": 8303,
+      "源GitBlobSHA1": "e90284d7e61e1ba73b6f6d1aa37adb12b8837f75",
+      "SHA256": "1a862a84bb85391a850e6c6cc5d657dd019a1c2a4efe8e7d05f6045b876856df"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-tree-block-decomposition-full.html",
+      "字节数": 11639,
+      "源GitBlobSHA1": "51390e3187516124fa29ae714646bd2e8a590569",
+      "SHA256": "9c315f8dcb3693c6c79e9057198e13cb6bd10eb2faa6ed2a5a1956f489271543"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-tree-block-decomposition.html",
+      "字节数": 8224,
+      "源GitBlobSHA1": "575d52078c4f0eaf9294e78216e13de8a66da6bf",
+      "SHA256": "c5f3051ea93495e6b040d25642ca7a5e67664678bb5e3147509404ed068551da"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-tree-dark.html",
+      "字节数": 11029,
+      "源GitBlobSHA1": "6cdbedd831986d0f16bc068b595ddab7673c6605",
+      "SHA256": "43aa056d0761d323cad0bd6205de3083fe7413af4e10639cad5e92c8ed41beac"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-tree-full.html",
+      "字节数": 13990,
+      "源GitBlobSHA1": "fb4e28f239ba3c95dac812e00e0aca37b0c07d2c",
+      "SHA256": "ee52773ac71a12d584fbe33569da0a64481e05c94ac1ab4729653552e631d8cc"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-tree.html",
+      "字节数": 10913,
+      "源GitBlobSHA1": "e60c59d495f52e9b49e239c38c57293e00a0f087",
+      "SHA256": "6812d3e99c21ddc29d346cfb3713ea997bd6ac1fcb5b29b5c764c200afa0ea20"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-treemap-dark.html",
+      "字节数": 7651,
+      "源GitBlobSHA1": "635ef35643989dffa6698a7a364d2732c0b217be",
+      "SHA256": "43cbbb2ec7c30a71edf5f5436e51dd8369cedb1da80f6e6241b62278ea4e5698"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-treemap-full.html",
+      "字节数": 10737,
+      "源GitBlobSHA1": "0f385bbf7839766a93ed5130ed07627221620bd4",
+      "SHA256": "9339c9007d81969f6d04c30edcf9d3ef558f753ecf9cd8f401978551cfc5c069"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-treemap.html",
+      "字节数": 7579,
+      "源GitBlobSHA1": "d04ae8223918c1abbc16ab3a750bd74095ae251f",
+      "SHA256": "224c33a048dc64cbbd687bd826a3a09c8178dcd3d311ea3b53bc43f767f420f6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-uml-class-dark.html",
+      "字节数": 12400,
+      "源GitBlobSHA1": "481bae4a477af355d22df19d658d3ab611e87080",
+      "SHA256": "eca2e26603714d4df494532a2a712101321a484cc2d1263f7629b8f0e214357d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-uml-class-full.html",
+      "字节数": 15679,
+      "源GitBlobSHA1": "c3716a2d682b137e791da912a59896c808009ab2",
+      "SHA256": "0c73c3f1b9b4dd569d264a0caff859bf0a3a82849432294c73fed8435a4772e7"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-uml-class.html",
+      "字节数": 12355,
+      "源GitBlobSHA1": "94013df59239ae6c95fbc83c3cd7d9ecc62628c8",
+      "SHA256": "98e58c2833cc6b4f2b3e176bbf173907e7168aedf5310cb900d7bdfeb6e22c8d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-unit-grid-dark.html",
+      "字节数": 19605,
+      "源GitBlobSHA1": "c74d00e13dd2d470ef1f75ad2788d79c1fa05cec",
+      "SHA256": "5d7accc0bfe99114f1ada56883406d25bf5db9fc5ea8792a45e11ca16ea8cbb6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-unit-grid-full.html",
+      "字节数": 20066,
+      "源GitBlobSHA1": "66024a181177bb4205e5b8d1ae84d9252fe823ef",
+      "SHA256": "29edee8fd8e0a05475dc44af632e101fbb840fda3ce6fe751d814f64b3322fea"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-unit-grid.html",
+      "字节数": 19024,
+      "源GitBlobSHA1": "af23ff189eb0bd304f2ca6ba92eac15983fcc984",
+      "SHA256": "a09af380f38271521a32d5f0959a440d736071d0a96ebf97586d19e2c96c83e0"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-venn-dark.html",
+      "字节数": 6699,
+      "源GitBlobSHA1": "6fa75202f7d5f7395c6d1df9d5e09be70723f480",
+      "SHA256": "ea604fc7ff3c2da573bba856b54b0ac6a95491f26cb707caefda94ac64215a4f"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-venn-full.html",
+      "字节数": 9901,
+      "源GitBlobSHA1": "10081997e432de63595cd05856ed2483a62a70ba",
+      "SHA256": "7dc6a440cc8881f70f6184200e3557a7501d21f93495a5aa209c6c8c479dd0ba"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-venn.html",
+      "字节数": 5079,
+      "源GitBlobSHA1": "ac35a0570ac3912beb4c34a9b364b82015c6c100",
+      "SHA256": "a9f6ab1f15906f7618a2f876bc9cd998a1b0be9b31b7e49eeaf42c3c156340f6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-wardley-dark.html",
+      "字节数": 8924,
+      "源GitBlobSHA1": "c7c2cfb82bc71ba4d4220afcbd14df4d5d7a69e6",
+      "SHA256": "80aff4e268d3775541eca4cf1c1cac918f0895637cd79568d4895e84b9f2046b"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-wardley-full.html",
+      "字节数": 11344,
+      "源GitBlobSHA1": "c0523f5d8f420a5f4b55b907e3d2872f9204ea8d",
+      "SHA256": "1986784529ddb529a3d321e6dbc2add1046abccba5fd8bcab23679742731769d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-wardley.html",
+      "字节数": 8881,
+      "源GitBlobSHA1": "b7a131c2ac849b1801e7cab07ef3f5478d329007",
+      "SHA256": "a386727c65063f36df75e096f963c305ca540799c5005daf079ff05e05428436"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-waterfall-dark.html",
+      "字节数": 9844,
+      "源GitBlobSHA1": "2e7d0275061ccc2264bde342ac936a36fc095808",
+      "SHA256": "ce4eb6038b09b87eca88b6981a7b43d19f603f480b6e91fb16d5d7c58a9103a6"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-waterfall-full.html",
+      "字节数": 11594,
+      "源GitBlobSHA1": "9430ced261b08f09096bd49d46ece37059796827",
+      "SHA256": "5a5987e9988cad66b26f769e07eca805796895a951a8cc084f0e0aa8503fca09"
+    },
+    {
+      "路径": "skills/diagram-design/assets/example-waterfall.html",
+      "字节数": 9760,
+      "源GitBlobSHA1": "528420c4051f0e9a77f3c56a67ef551eec315ff1",
+      "SHA256": "501231921ae5065423f75efa6a37fbfc4753ef76d26b9ab116902dc9964ad818"
+    },
+    {
+      "路径": "skills/diagram-design/assets/icons.html",
+      "字节数": 108545,
+      "源GitBlobSHA1": "942041f988ec701b978fe71051d1de02dbf3343b",
+      "SHA256": "8301219558a40abce2d739def01feda6a8b72adce00f8d60154c989dfb581090"
+    },
+    {
+      "路径": "skills/diagram-design/assets/index.html",
+      "字节数": 28252,
+      "源GitBlobSHA1": "daefcdbaa395b37d5acf8efb779147abe9a54dc2",
+      "SHA256": "eeec018dbe761a77f4a1fae2d4f30bd37e23579c59801b7cb024a136d1388e82"
+    },
+    {
+      "路径": "skills/diagram-design/assets/template-dark.html",
+      "字节数": 4080,
+      "源GitBlobSHA1": "cc2652504cd282ead714ebc3f5c96adc76765ad8",
+      "SHA256": "98428c8de2c4fe8e799d7110606421effb876e2e788f8639140854c1033d82d5"
+    },
+    {
+      "路径": "skills/diagram-design/assets/template-full.html",
+      "字节数": 23154,
+      "源GitBlobSHA1": "07cbe6bd23b539d9f26f190cb0bfcd97c90aab45",
+      "SHA256": "bfe0aa003eb264f4a2b6f10c540d9d7a53950574ed0f5dba2af3cac61fc2f52a"
+    },
+    {
+      "路径": "skills/diagram-design/assets/template-motion.html",
+      "字节数": 20935,
+      "源GitBlobSHA1": "0e3449e83fe0c7532b06255be819b063b107077b",
+      "SHA256": "0dc228e58e5810fe99d80b0895515bb9a7f129ced1de2960d343f1e9539d5359"
+    },
+    {
+      "路径": "skills/diagram-design/assets/template-terminal.html",
+      "字节数": 5481,
+      "源GitBlobSHA1": "dfd9384e5fd23d1bd82c39a1a724d7db78e665a9",
+      "SHA256": "d449b50f439214cef9025b91f7ad4d8f786c0f329496aa95b5ea864c1586708d"
+    },
+    {
+      "路径": "skills/diagram-design/assets/template.html",
+      "字节数": 4202,
+      "源GitBlobSHA1": "054e5c34961dd79ea48d16fbeadc7f95d7d6ff22",
+      "SHA256": "f6978a9d50dd286f32ab149bcf505261b9fc331df7320071f87509a285dee7f4"
+    },
+    {
+      "路径": "skills/diagram-design/references/animation.md",
+      "字节数": 12437,
+      "源GitBlobSHA1": "150c71857ca47d04e9dba1ee6fe00246ba814012",
+      "SHA256": "f68388e400f8e11968c7f69ea4c980fe8c01df384b17bddc9e5bf47e6e5eff67"
+    },
+    {
+      "路径": "skills/diagram-design/references/doctor.md",
+      "字节数": 6329,
+      "源GitBlobSHA1": "28d42280d076ed09c460705c4fb6b04382608901",
+      "SHA256": "3df848b2431ea9cacc0898ef774c92d58dd7c2e6da26f474ea18d0266e445ff8"
+    },
+    {
+      "路径": "skills/diagram-design/references/export-registry.md",
+      "字节数": 6319,
+      "源GitBlobSHA1": "b150f0fb8b0c7a5a0194c40530c7f48aad741596",
+      "SHA256": "6d35bdccf32e7a2f28ebafac75d099451881a3ad9e268798c86acea2c2c66410"
+    },
+    {
+      "路径": "skills/diagram-design/references/export.md",
+      "字节数": 31981,
+      "源GitBlobSHA1": "5e3046b24eaef896666185bd46cc4e8d9c5677a5",
+      "SHA256": "356aae225112e81a22c3bda90a6c3dfd9ace1c987ec3f02bd01441cabc184266"
+    },
+    {
+      "路径": "skills/diagram-design/references/import-drawio.md",
+      "字节数": 14476,
+      "源GitBlobSHA1": "bae48eef8b3ac3acb39fa25f2175b9b8e9413324",
+      "SHA256": "55e340657f7c2f54c9be2349b4b71786779e4ae5d89fb4c1ce4f31de5e49ec08"
+    },
+    {
+      "路径": "skills/diagram-design/references/import-excalidraw.md",
+      "字节数": 11490,
+      "源GitBlobSHA1": "7ac169520d47cebd358b6e38cab953fa4c8c96aa",
+      "SHA256": "323260ca813c3ee5c196362d6424779ee1d3cfcc1afb23329f60d59674a3aeec"
+    },
+    {
+      "路径": "skills/diagram-design/references/import-mermaid.md",
+      "字节数": 13266,
+      "源GitBlobSHA1": "c9470ff86c8d16687ffca0ec09ebb2e05dee54c4",
+      "SHA256": "9b70b177c97176624b63cb5fca83092a999c36213cb0bf061ed1e5e40a66d0e8"
+    },
+    {
+      "路径": "skills/diagram-design/references/import-plantuml.md",
+      "字节数": 12554,
+      "源GitBlobSHA1": "3a334451ec5cd08688bcc5e9c95289a3def84162",
+      "SHA256": "12b98f00c25fa417489e8ae6a9daf2e4accc8c2450d2f1ed3511fcb55567a3ed"
+    },
+    {
+      "路径": "skills/diagram-design/references/layout-budget.md",
+      "字节数": 5443,
+      "源GitBlobSHA1": "469a734fba57447864393ef9acf2644190ca11e1",
+      "SHA256": "12043c659df9ce146f8ecc45e247ddc14b04f1c5724cc4cb6286b60cc1e758f2"
+    },
+    {
+      "路径": "skills/diagram-design/references/onboarding.md",
+      "字节数": 16931,
+      "源GitBlobSHA1": "7c23c30e52f34a21d8f94318ea52d0b534584fbb",
+      "SHA256": "b1cde0291d3691482539e1b402e9fa9d437d0284292c8cbba8f59df05ca07461"
+    },
+    {
+      "路径": "skills/diagram-design/references/output-spec.md",
+      "字节数": 19200,
+      "源GitBlobSHA1": "9ae661c8617eb125302320d069e2424c12e86306",
+      "SHA256": "12dc0eed3514e387328651652604ef4fba1a76bce1823a79f4da2993336d1e69"
+    },
+    {
+      "路径": "skills/diagram-design/references/primitive-annotation.md",
+      "字节数": 1661,
+      "源GitBlobSHA1": "3b596cff2be31558f0e3afbffaec3307791606fe",
+      "SHA256": "c4cab11c4660375856a8bea668922b07932199dc26a695ebcf95c5a23ba03ec5"
+    },
+    {
+      "路径": "skills/diagram-design/references/primitive-icons.md",
+      "字节数": 105941,
+      "源GitBlobSHA1": "9a2287c0a863c49f5c8c901f4713418c8fb864e4",
+      "SHA256": "ea768a2b2f169ff3cd98ed41da9ad3a30ed92374bc2da44a8ba83f1f3d453c43"
+    },
+    {
+      "路径": "skills/diagram-design/references/primitive-sketchy.md",
+      "字节数": 1700,
+      "源GitBlobSHA1": "a279024571497ffb2549f54b0b8941e3fdf2aff7",
+      "SHA256": "8859f0d70c10f46f59817cb348346e7fb9e1609b70a4a513d297b8c850c866a4"
+    },
+    {
+      "路径": "skills/diagram-design/references/primitive-terminal.md",
+      "字节数": 3915,
+      "源GitBlobSHA1": "4d65ab32fe2206ad1e2c3c1cf3cf72df1d78301a",
+      "SHA256": "7b52c2fb229c822a60b0061caa64ae6a68aacd4f1c22a1a98d1d0eaaa2333b55"
+    },
+    {
+      "路径": "skills/diagram-design/references/primitives-core.md",
+      "字节数": 13125,
+      "源GitBlobSHA1": "df3c2973af2855791fce1a6430daa22b17d4c762",
+      "SHA256": "601305baed49217870dda15a0ebc879a6a560608cb63fe2108aaebee1abefbc9"
+    },
+    {
+      "路径": "skills/diagram-design/references/profiles.md",
+      "字节数": 14434,
+      "源GitBlobSHA1": "ba8dccd9ca327ba7b4c2469fd58c99471f4fc214",
+      "SHA256": "8afea09015a456b218287f08a2e9ac44bb50f6a9ebd2a7c1487bd774e89f9016"
+    },
+    {
+      "路径": "skills/diagram-design/references/semantic-patterns.md",
+      "字节数": 16679,
+      "源GitBlobSHA1": "36fc28a8fff70e663ebf261bd21faa6f16e180bb",
+      "SHA256": "68bba2360c866b3a5525184457794e53f0c0250d7d51a1ff6591b8a4df13d867"
+    },
+    {
+      "路径": "skills/diagram-design/references/style-guide.md",
+      "字节数": 20856,
+      "源GitBlobSHA1": "4927c1197a0f30e35f52aa821dab307c6b5410bf",
+      "SHA256": "320881ec802004384c09ce4f4f087b9242d926b08071d6b908160e14c707d155"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-architecture-delta.md",
+      "字节数": 14595,
+      "源GitBlobSHA1": "e418fb6c75da90a306cf80a2def9aed4dcc2bb50",
+      "SHA256": "e5813f26e1fb924863efe70db36f112e1b9570e47335d7f6fa6e46473136e4e5"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-architecture.md",
+      "字节数": 10485,
+      "源GitBlobSHA1": "139082e743dfa692f064897d2a109c35b94e9a56",
+      "SHA256": "28260c9c0a72fe17ddf6eed7b1fff01c04f58f62bbb7147c45372574c9e38eea"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-axonometric-plan.md",
+      "字节数": 7184,
+      "源GitBlobSHA1": "e27283dd1daa843652923d9839b367894e640de3",
+      "SHA256": "be8ead6d582df5c19fdf611f7540c058f166929293155ab40ddc3ef524232ba6"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-bar.md",
+      "字节数": 14056,
+      "源GitBlobSHA1": "3654304041d5127a880ec3156ced2404b03fca73",
+      "SHA256": "0e4d2c7b1df4b1c7a1c47c27db1d298f810bc73f4eb30186eda9827518d38f5b"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-data-flow.md",
+      "字节数": 20858,
+      "源GitBlobSHA1": "dab7447ed6c64dd348350516f74a1a1ee8903096",
+      "SHA256": "ad1cd8358c9360663200f5100a199e57e43a4e6702982752220ad423127941e8"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-db-schema.md",
+      "字节数": 4954,
+      "源GitBlobSHA1": "e1ab89fd3492720ad7c19d57c2b8a20310c1615b",
+      "SHA256": "91f017b8813cfc63d775809d18659971d0aa5982967af94d47def31690713083"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-dependency.md",
+      "字节数": 10703,
+      "源GitBlobSHA1": "9d2a061b8dda00422d2be736c56f0282b2126796",
+      "SHA256": "3e11e3dee49877f20cc0ae408ee41efaa776260c9abf53978b81b7f9222210dc"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-deployment.md",
+      "字节数": 4295,
+      "源GitBlobSHA1": "e757a3aec0ee6fe6b634068cd426e4bb650ae55b",
+      "SHA256": "296adfee79069e8fd8f9a19012cca731c5cc237990a0274ca1a8a807173c9fec"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-dp-integration.md",
+      "字节数": 22215,
+      "源GitBlobSHA1": "6689350715835e80de97c3c39364ef979c4f843f",
+      "SHA256": "b84195582b3daa1139dced192253ba97dd6984cfd7ba9a0da76a44588f744119"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-dp-security-matrix.md",
+      "字节数": 19086,
+      "源GitBlobSHA1": "4b099ec3853544e8518644871e15fd8db532374b",
+      "SHA256": "209f4870ec19d90eff1ab80ecfe0062f3a5075c3b666b1a3a900a27260ba8832"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-er.md",
+      "字节数": 1531,
+      "源GitBlobSHA1": "5792e978f77b46ffd6fdfa7936fcea19db55fd6c",
+      "SHA256": "d1495abeb6f5004bd89fface17d3767ebab71c8450dca195b055e18bf3132c57"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-event-modeling.md",
+      "字节数": 3596,
+      "源GitBlobSHA1": "d9e0421a69cd8709d9ded73facc41c3607084b6e",
+      "SHA256": "b0d8d8a5ba2064cedde94db16c01986e72ac2a22536270635a59710cf6591a76"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-exploded.md",
+      "字节数": 11157,
+      "源GitBlobSHA1": "c7849d8ed3907ba204d350c5dcc7fb66df95703a",
+      "SHA256": "785b904ce1a1be806824c97a5719578a2c32c931fb424d0a1a69c4480a527152"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-fishbone.md",
+      "字节数": 5796,
+      "源GitBlobSHA1": "c735730870a6d30224a57f7b370c9dbfdca31778",
+      "SHA256": "3441d3c73334813bf55cf1d0d96ea1aa4f9e46a60001ba83dfe9442be1745f8b"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-flowchart.md",
+      "字节数": 1079,
+      "源GitBlobSHA1": "1042be73817e1196da5106b5ff41766c132ba817",
+      "SHA256": "c2af5e2b849255ae4859125db7b101b74bfb9b201204725c1e83fac51a98ebab"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-gantt.md",
+      "字节数": 2433,
+      "源GitBlobSHA1": "2fed6693e6773d52619381a41c3a9da4d214e7d4",
+      "SHA256": "d7d6b199fd804b417200f2b878f36042cb5d6b025af711c06d3d3e429b0ae6b0"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-heatmap.md",
+      "字节数": 7696,
+      "源GitBlobSHA1": "bdd3272ead9d1f59800319cb8e2fa9f3178a87c5",
+      "SHA256": "9ea18de9d461abd8afddef34c7658812ea7f2b22e45fbc3b03caa1099765966a"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-high-level.md",
+      "字节数": 28325,
+      "源GitBlobSHA1": "1a34c9117e2dcdf6b239cd55024d4cc9feefab80",
+      "SHA256": "f9629c9b3dd4b85da3a19c762d0f5fd58213b5e3994ad783b2033f4e83260264"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-it-state.md",
+      "字节数": 29677,
+      "源GitBlobSHA1": "a1b1cec56fb61cc961c94f25edf80b730da5fe3a",
+      "SHA256": "b5c35f1703a53e3ca4196352912898e5ea5f1fce054a40d4a3568629535cd7ec"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-journey.md",
+      "字节数": 5385,
+      "源GitBlobSHA1": "cd041a095a2be1504c509fb43075b2db6324796b",
+      "SHA256": "85be7b12d841aec1638d67ad9a599d313a9d42300e35af675a87a0a3e67d9b6f"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-kanban.md",
+      "字节数": 4531,
+      "源GitBlobSHA1": "5bbec1cfa263ea189d967aa259ab422217568252",
+      "SHA256": "447a8a231d5bb1e822945a02e8bd4adc219b0791bb0182cab48680fbbd88d045"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-layers.md",
+      "字节数": 1570,
+      "源GitBlobSHA1": "fb3b436350fc4b2823a53974d35f9b52a30e4d21",
+      "SHA256": "a822afe4e06ffaf9793f5466810e2504c020e6ae3abd0b9e53c6f7b1368f2609"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-line.md",
+      "字节数": 43216,
+      "源GitBlobSHA1": "053089f2c64382ee3ff49c32167c612041f4be4c",
+      "SHA256": "f29a97ab0e72b23365304dfda6640503e37244eaad2c3851069585a569814089"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-loop.md",
+      "字节数": 12609,
+      "源GitBlobSHA1": "b4b30e32b24bd804ff0d352f9cde28844b1b9aa2",
+      "SHA256": "9ac996dfa83f41064477f10b61b6bdd2b0ceaefa6053b87432554668adf22af6"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-medallion.md",
+      "字节数": 22226,
+      "源GitBlobSHA1": "63afec9a4da3e509e7574d123a49f1fd9644bea2",
+      "SHA256": "a1af03521adb53431766a559e05c984ee07871fd3cf495cf63146999f56f6f42"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-nested.md",
+      "字节数": 1363,
+      "源GitBlobSHA1": "ae2fa31ed1eee5dfd363f45526c4f902c970379f",
+      "SHA256": "c16da375df52f047748c65276f564a1b0d7d2dd420170b92dbf7cdac68981516"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-org-chart.md",
+      "字节数": 3101,
+      "源GitBlobSHA1": "c22ceaaebdb2839e9ebb9a902137e2c70ec54d77",
+      "SHA256": "fd64716f3f419f41785c40fbabb96b36cfddcdfd0cc7ee444585f3e2b528f9c9"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-polar.md",
+      "字节数": 7998,
+      "源GitBlobSHA1": "e630b93b4c2ba695bfd49cab19897235ea1e0f6c",
+      "SHA256": "11237fa0be82c3c6e963bc1aaed20283d839c7570dadfd0805e202ea129edba0"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-process.md",
+      "字节数": 28224,
+      "源GitBlobSHA1": "91e28e2105948465549f2990b7aa7d9365c71463",
+      "SHA256": "cefb9669074ecbc7cd4c78dccb941db1ae52b5bbdc5f20b66edcdf05ea7e2928"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-pyramid.md",
+      "字节数": 1805,
+      "源GitBlobSHA1": "703f15aa549aa4624514a7ec35b8b38892415507",
+      "SHA256": "c21ef0c6f3832eb30f0cd1aef0e0ec72b6758abbb1b8128acf36e81384679714"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-quadrant.md",
+      "字节数": 6256,
+      "源GitBlobSHA1": "186399a6652af01db2a37ccddccd133410eaf0f5",
+      "SHA256": "eb7d542ddac72e2e1a75cb7ca64ddb67901283859413a133a332137e7fb9e5b1"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-radar.md",
+      "字节数": 5626,
+      "源GitBlobSHA1": "a26fea65b2011afb06ff5dbdfa1f0d7ce1842650",
+      "SHA256": "49c66e7921e1fd7575cf879852c41aa86e0db7f98b0c8105e3103202af49f563"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-requirement-traceability.md",
+      "字节数": 4006,
+      "源GitBlobSHA1": "0957317a7557aee9eef8a1659f134706cbf297c7",
+      "SHA256": "7e4861050a1a3edb93bdc1f05c2fd8578186bfe29e24158b93de580cc90720eb"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-sankey.md",
+      "字节数": 9389,
+      "源GitBlobSHA1": "b801f134be7a10ab2adb244aca2e0d9a1f3d88a0",
+      "SHA256": "874866a0867e56525f11f38a11b442b9c33f02f416b632ee76aced7f3bfc2bb5"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-sbgn.md",
+      "字节数": 6953,
+      "源GitBlobSHA1": "21f410605bc9d020ef47fa05ed355b7209471145",
+      "SHA256": "56de1ca4d3b2a8e3bf9b6b490bbe8165d963875213a67960a1c67cf3bb8036a8"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-scatter.md",
+      "字节数": 28072,
+      "源GitBlobSHA1": "8d465688f92c2b7b079b748e7412203490d3940a",
+      "SHA256": "e0066ff48cf7af900eea5570abeb060ca8ebbbc60676ac677cfca997c2062b6c"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-sequence.md",
+      "字节数": 6798,
+      "源GitBlobSHA1": "0a26f9cb8d9146317ff5f589bbda2ebb8bc0887e",
+      "SHA256": "e3a109d4983a951ff670346c352529e48619c1e81db1774edfa6f05d3e93f778"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-service-blueprint.md",
+      "字节数": 7700,
+      "源GitBlobSHA1": "e13899751f37daa7f786608376cf2a1e6558d9e0",
+      "SHA256": "ae0475dc5972273d3ff2ab0bf53ae9947e8e35f59decef85f4422459c60c64ca"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-state.md",
+      "字节数": 1958,
+      "源GitBlobSHA1": "85b8cdda0544368ad79def4279ee6deb6e1e5208",
+      "SHA256": "9c8ed85762d5bbb3672907bc1664ebf94bcc72850efbacf33d5ee12731053122"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-steps.md",
+      "字节数": 10160,
+      "源GitBlobSHA1": "784ee1131222e63a501f272793f422654b36d894",
+      "SHA256": "2eb15d75d99d0ef37659c417a2730194cae7804f320953cd04096aa6fc0e6c23"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-story-map.md",
+      "字节数": 4882,
+      "源GitBlobSHA1": "391972ca360aa0080f80f8caf984a768344f02ee",
+      "SHA256": "0ab4fae3de1f9909e20f27ca30414c5574fd8af583c28e1f55ba2af1b50f51fc"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-swimlane.md",
+      "字节数": 1197,
+      "源GitBlobSHA1": "c93183952bc78efeaaba584e8b2e6bc52c727d0a",
+      "SHA256": "3557f11a03e5660e4e44e767caba91a4b8c35892d9aa920967b4387708bcf9fb"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-timeline.md",
+      "字节数": 1091,
+      "源GitBlobSHA1": "e0e8d9b65028d9315ceee453570146aad9030894",
+      "SHA256": "a6b4ad26c05957835705229579f8c733b32791de9d01f9f268fea8a70228f501"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-tree.md",
+      "字节数": 1517,
+      "源GitBlobSHA1": "439efd41c11dda59021cb68be70a3b1e6911dbfc",
+      "SHA256": "60194950ef4e46725d7670d93e405a7d4b9af44bf775c549b8f3ce63ca6ce15c"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-treemap.md",
+      "字节数": 18520,
+      "源GitBlobSHA1": "1ed6c5edb756b7c03c0fae1bff722a36551b4f2d",
+      "SHA256": "7c80b1aa7f3fff205ec74261d874971f5bb09324e3cd357d58c0214acdbbf2de"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-uml-class.md",
+      "字节数": 4902,
+      "源GitBlobSHA1": "0c8af2222106f532655b573eed56a0d2ea99f524",
+      "SHA256": "2940353d4c0afeb25b8d5e830e3408d5fdec3c4c89504739f5d847e064ad12c2"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-unit-grid.md",
+      "字节数": 4955,
+      "源GitBlobSHA1": "8b91664c2e62367ba1c35cf4cdf0d42550273f57",
+      "SHA256": "f27f319d8d68348adcf99221f9c3e54bfca6fa2c9cf20c4afab5222719b26eca"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-venn.md",
+      "字节数": 1659,
+      "源GitBlobSHA1": "c93392c25aca21e5d19c97466e59b24161f38868",
+      "SHA256": "7ead49ed70f1b2506beb83e9c84862d7dbc63f1225f0e50ecc6e2b1b4a632b38"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-wardley.md",
+      "字节数": 5778,
+      "源GitBlobSHA1": "0b76832640d8af38543675ad8d72a70c5b5ffdfb",
+      "SHA256": "4060402f648fa2ec858850f532675f52ac5d5df0b209c9c9450cc3df332114fb"
+    },
+    {
+      "路径": "skills/diagram-design/references/type-waterfall.md",
+      "字节数": 8987,
+      "源GitBlobSHA1": "4b702e0248507638422e5f49eeceaf3698bcc8ee",
+      "SHA256": "07db1d30ce52356884b9c7005ad473434c6104257eee0252e3487209e59d0da9"
+    },
+    {
+      "路径": "skills/diagram-design/scripts/drawio_extract.py",
+      "字节数": 35563,
+      "源GitBlobSHA1": "cf14c837fa01c4f866ab91382ad8b7f61b9cea9c",
+      "SHA256": "328e683a2d536a15a45ea8dfc1887bd62f9f1195910f21384dfed6206ae1f7c7"
+    },
+    {
+      "路径": "skills/diagram-design/scripts/excalidraw_extract.py",
+      "字节数": 27197,
+      "源GitBlobSHA1": "7a521439d05860cfcfd14201a1491f14a91d1f8e",
+      "SHA256": "58f7284b6ee4c1d98d3ec5d7b59221ed273ef2efe76b34ac386de2d194fc087b"
+    },
+    {
+      "路径": "skills/diagram-design/scripts/export_png.py",
+      "字节数": 3682,
+      "源GitBlobSHA1": "0bc16e9e3b3517ef6ef152c0ca2e1c0c22ad776c",
+      "SHA256": "430ddcc2d39441808bd4217fbdeb944dbb6de0be281782705a81747986d7d348"
+    },
+    {
+      "路径": "skills/diagram-design/scripts/export_svg.py",
+      "字节数": 69322,
+      "源GitBlobSHA1": "dcd2f376c91aa661bf74ed0fd1146606c1bdbf20",
+      "SHA256": "b5f45b8a36138874e095e07d22c3eaa2322a53927616c8eec5861ddbe9e89d2e"
+    },
+    {
+      "路径": "skills/diagram-design/scripts/mermaid_extract.py",
+      "字节数": 68438,
+      "源GitBlobSHA1": "1f35a68ce33bbd2d569c81a4f11aed189a66d96d",
+      "SHA256": "2e3e73fcd59faee020424d6d6b2ea12ffc78cc841651668c77c085f5e5e142cd"
+    },
+    {
+      "路径": "skills/diagram-design/scripts/plantuml_extract.py",
+      "字节数": 82126,
+      "源GitBlobSHA1": "a560a21abdff1dc4ab117450d520ed439b11f2da",
+      "SHA256": "d4c2fe72ed59b1f046aeea88adad7f2d94da7471e25ce2b616323f00cf61863c"
+    },
+    {
+      "路径": "skills/diagram-design/scripts/self_check.py",
+      "字节数": 49404,
+      "源GitBlobSHA1": "2306f02192f73b316203557fa2f6541346d1e5c3",
+      "SHA256": "94055febf79eff9bfef42b4fc2635ad83f35fffeb798985fa8477c0bc8e133c5"
+    },
+    {
+      "路径": "skills/diagram-design/scripts/verify_geometry.py",
+      "字节数": 28175,
+      "源GitBlobSHA1": "764448a2f40df202a7419ddbd2c865c9b3855dfe",
+      "SHA256": "e87c22d2720bfe354b595940d2cf93b555fb5176c823ed3ea46c31a68a10ffd3"
+    }
+  ]
+}

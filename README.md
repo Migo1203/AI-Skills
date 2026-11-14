@@ -12,6 +12,8 @@ AIGC 作品与音箱项目在 [AIGC 仓库](https://github.com/Migo1203/AIGC)管
 4. 做国内电商或Amazon文案、主图、详情页和A+时，使用[个人电商全案与可编辑制作 v0.4.1](plugins/skill-lab/skills/ecommerce-visual-strategy/SKILL.md)。统一流程为AI策划→按规划制作素材与SVG→用户审稿调整→用户定稿→AI检查；[完整使用说明](plugins/skill-lab/使用说明.md)包含调用示例与工具边界。生图取决于环境实际能力，上传仓库不等于已启用。
 5. 要创建新技能时，使用[SKILL.md 模板](模板/SKILL.md.template)，写一个具体、能重复使用的任务。
 
+2026-11-15新增：[taste-skill、Impeccable与diagram-design的来源及使用说明](已知技能/分类/网页设计与图解三项技能.md)，完整源码已收录，未自动安装。
+
 ## 当前内容
 
 | 内容 | 位置 |
